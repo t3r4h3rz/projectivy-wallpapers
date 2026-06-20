@@ -114,12 +114,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg"
   },
   {
-    "title": "Gute Zeiten, schlechte Zeiten (1992)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg"
-  },
-  {
     "title": "Watch What Happens Live with Andy Cohen (2009)",
     "location": "",
     "author": "TMDB",
@@ -138,10 +132,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/9In9QgVJx7PlFOAgVHCKKSbo605.jpg"
   },
   {
-    "title": "Dahoam is Dahoam (2007)",
-    "location": "",
+    "title": "The Daily Show (1996)",
+    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/1iAc3ML51uNe16jlxTQV84mLHG2.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
   },
   {
     "title": "Rancho Dutton (2026)",
@@ -150,10 +144,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg"
   },
   {
-    "title": "The Daily Show (1996)",
-    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
+    "title": "Kamen Rider (1971)",
+    "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
   },
   {
     "title": "Padre made in USA (2005)",
@@ -162,21 +156,27 @@
     "url_img": "https://image.tmdb.org/t/p/original/iixxhk3ycXmFqBn616pAsC3lu53.jpg"
   },
   {
+    "title": "Binnelanders (2005)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
+  },
+  {
+    "title": "Gute Zeiten, schlechte Zeiten (1992)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg"
+  },
+  {
     "title": "La casa del dragón (2022)",
     "location": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
   },
   {
-    "title": "Raw (1993)",
+    "title": "奔跑吧 (2014)",
     "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/eGPH1IwktalozwCmeLTp3aPbHGC.jpg"
-  },
-  {
-    "title": "Binnelanders (2005)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/pXss1GWhPOcf6SrmRJ4JSkIU3sE.jpg"
   }
 ]

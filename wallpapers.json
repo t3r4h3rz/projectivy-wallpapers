@@ -18,6 +18,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/laR2dpcNpbv83jdlRUNAYPPjH90.jpg"
   },
   {
+    "title": "कॉकटेल २ (2026)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/vwvMQxD3MHHk2cQCuSyEdYktjUL.jpg"
+  },
+  {
     "title": "La Boda Maldita (2026)",
     "location": "Un hombre hereda un palacio y decide celebrar allí la boda de su hermana... pero el pasado oscuro del lugar amenaza con arruinar la fiesta.",
     "author": "TMDB",
@@ -48,12 +54,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg"
   },
   {
-    "title": "है जवानी तो इश्क होना है (2026)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg"
-  },
-  {
     "title": "The Mandalorian and Grogu (2026)",
     "location": "Continuación de la serie \"The Mandalorian\" en forma de película. El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República ...",
     "author": "TMDB",
@@ -64,6 +64,12 @@
     "location": "Noah y Nick regresan más fuertes, unidos y enamorados que nunca. Pero a medida que la vida empieza a tirar de ellos en direcciones diferentes, su relación se enfrenta a su reto más difícil hasta la fe...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/wQOhbCP6H8bO5ddlXDZT207orew.jpg"
+  },
+  {
+    "title": "है जवानी तो इश्क होना है (2026)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg"
   },
   {
     "title": "The Furious (2026)",
@@ -84,12 +90,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/bWw9PuPH6vFXlezBoHZ6D9XBhQW.jpg"
   },
   {
-    "title": "कॉकटेल २ (2026)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/vwvMQxD3MHHk2cQCuSyEdYktjUL.jpg"
-  },
-  {
     "title": "FROM (2022)",
     "location": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y bu...",
     "author": "TMDB",
@@ -108,28 +108,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg"
   },
   {
-    "title": "Watch What Happens Live with Andy Cohen (2009)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
-  },
-  {
     "title": "Running Man (2010)",
     "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
   },
   {
-    "title": "A Record of a Mortal's Journey to Immortality (2020)",
-    "location": "Un chico pobre y corriente de un pueblo se une a una secta menor en Jiang Hu y se convierte en Discípulo No Oficial por casualidad. ¿Cómo conseguirá Han Li, plebeyo de nacimiento, hacerse un hueco en ...",
+    "title": "Watch What Happens Live with Andy Cohen (2009)",
+    "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/8NIvQY34tNPc4txNeym2zEYk9ek.jpg"
-  },
-  {
-    "title": "Rick y Morty (2013)",
-    "location": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/9In9QgVJx7PlFOAgVHCKKSbo605.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
   },
   {
     "title": "Rancho Dutton (2026)",
@@ -138,28 +126,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg"
   },
   {
-    "title": "The Daily Show (1996)",
-    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
+    "title": "Rick y Morty (2013)",
+    "location": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
-  },
-  {
-    "title": "Padre made in USA (2005)",
-    "location": "Padre made in USA, es una serie de televisión de animación para adolescentes y adultos del creador de Padre de familia, Seth MacFarlane.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/iixxhk3ycXmFqBn616pAsC3lu53.jpg"
-  },
-  {
-    "title": "Binnelanders (2005)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
-  },
-  {
-    "title": "Gute Zeiten, schlechte Zeiten (1992)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/9In9QgVJx7PlFOAgVHCKKSbo605.jpg"
   },
   {
     "title": "La casa del dragón (2022)",
@@ -168,15 +138,45 @@
     "url_img": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
   },
   {
-    "title": "奔跑吧 (2014)",
-    "location": "",
+    "title": "No aptos para el trabajo (2026)",
+    "location": "Cinco veinteañeros, obsesionados con su trabajo, luchan por alcanzar el éxito profesional y, si les queda tiempo, la felicidad personal en el barrio más glamuroso de Manhattan, Murray Hill.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/pXss1GWhPOcf6SrmRJ4JSkIU3sE.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/ysYPo1JqzHiHoIHpW9wXCtvY1LW.jpg"
   },
   {
-    "title": "Hombres en una Misión (2015)",
-    "location": "Las celebridades masculinas juegan a la fantasía como estudiantes de secundaria, dan la bienvenida a estudiantes de transferencia estelar cada semana y participan en batallas de humor ingenioso y paya...",
+    "title": "The Daily Show (1996)",
+    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/a8a8z4aJr40zYgRMfmSESppX2eO.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
+  },
+  {
+    "title": "A Record of a Mortal's Journey to Immortality (2020)",
+    "location": "Un chico pobre y corriente de un pueblo se une a una secta menor en Jiang Hu y se convierte en Discípulo No Oficial por casualidad. ¿Cómo conseguirá Han Li, plebeyo de nacimiento, hacerse un hueco en ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/8NIvQY34tNPc4txNeym2zEYk9ek.jpg"
+  },
+  {
+    "title": "Gute Zeiten, schlechte Zeiten (1992)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg"
+  },
+  {
+    "title": "Padre made in USA (2005)",
+    "location": "Padre made in USA, es una serie de televisión de animación para adolescentes y adultos del creador de Padre de familia, Seth MacFarlane.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/iixxhk3ycXmFqBn616pAsC3lu53.jpg"
+  },
+  {
+    "title": "Kamen Rider (1971)",
+    "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
+  },
+  {
+    "title": "Raw (1993)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/eGPH1IwktalozwCmeLTp3aPbHGC.jpg"
   }
 ]

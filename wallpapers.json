@@ -99,7 +99,7 @@
     "title": "La casa del dragón (2022)",
     "location": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/cR3EoEBdMTh7qUeYWULLXYW40by.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/h37hqVLmCW00ImewLAHT1DadOky.jpg"
   },
   {
     "title": "Never ending summer (2026)",
@@ -130,12 +130,6 @@
     "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
-  },
-  {
-    "title": "No aptos para el trabajo (2026)",
-    "location": "Cinco veinteañeros, obsesionados con su trabajo, luchan por alcanzar el éxito profesional y, si les queda tiempo, la felicidad personal en el barrio más glamuroso de Manhattan, Murray Hill.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/ysYPo1JqzHiHoIHpW9wXCtvY1LW.jpg"
   },
   {
     "title": "Watch What Happens Live with Andy Cohen (2009)",
@@ -178,5 +172,11 @@
     "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
+  },
+  {
+    "title": "Renegade Immortal (2023)",
+    "location": "La historia tiene lugar en el mismo universo que Yi Nian Yong Heng (I Will Eternal). Wang Lin es un chico inteligente con padres amorosos. Sin embargo, él y sus padres son rechazados por el resto de l...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/9R3tyMeAEvY53Da6fVguBEVlfxE.jpg"
   }
 ]

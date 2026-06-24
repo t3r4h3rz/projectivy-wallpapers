@@ -3,7 +3,7 @@
     "title": "कॉकटेल २ (2026)",
     "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/vwvMQxD3MHHk2cQCuSyEdYktjUL.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/6tROOVmV5vRymO2g52aR8kWlfoT.jpg"
   },
   {
     "title": "Obsesión (2026)",
@@ -34,12 +34,6 @@
     "location": "Un hombre hereda un palacio y decide celebrar allí la boda de su hermana... pero el pasado oscuro del lugar amenaza con arruinar la fiesta.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/A2tzVTVtnTvpji96IZmleN78KKv.jpg"
-  },
-  {
-    "title": "கருப்பு (2026)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/1eAuwNBy34kkM3xkl202z4f1NiI.jpg"
   },
   {
     "title": "Culpa tuya: Londres (2026)",
@@ -84,10 +78,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg"
   },
   {
-    "title": "La momia de Lee Cronin (2026)",
-    "location": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión ju...",
+    "title": "Mensajes de voz para Isabelle (2026)",
+    "location": "Una joven deja mensajes de voz bastante explícitos a su difunta hermana, sin saber que los recibe un desconocido que comienza a enamorarse de ella.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg"
+  },
+  {
+    "title": "मैं वापस आऊंगा (2026)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/bWw9PuPH6vFXlezBoHZ6D9XBhQW.jpg"
   },
   {
     "title": "FROM (2022)",
@@ -99,19 +99,13 @@
     "title": "La casa del dragón (2022)",
     "location": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/cR3EoEBdMTh7qUeYWULLXYW40by.jpg"
   },
   {
     "title": "Never ending summer (2026)",
     "location": "Zhou Wan busca la ayuda de Lu Xi Xiao para salvar a su abuela, lo que provoca un romance tierno pero problemático. Diez años después de la angustia y los malentendidos, se reúnen en el trabajo y descu...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/80vo7eYhAXPJltu32lG5JGrGPzG.jpg"
-  },
-  {
-    "title": "Running Man (2010)",
-    "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
   },
   {
     "title": "Mentes criminales (2005)",
@@ -132,10 +126,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/9In9QgVJx7PlFOAgVHCKKSbo605.jpg"
   },
   {
-    "title": "Kamen Rider (1971)",
-    "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
+    "title": "Running Man (2010)",
+    "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
   },
   {
     "title": "No aptos para el trabajo (2026)",
@@ -178,5 +172,11 @@
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/wQ1cpJW9uxfKmO8msAF5z4edK63.jpg"
+  },
+  {
+    "title": "Kamen Rider (1971)",
+    "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
   }
 ]

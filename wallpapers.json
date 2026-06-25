@@ -108,16 +108,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/80vo7eYhAXPJltu32lG5JGrGPzG.jpg"
   },
   {
-    "title": "Mentes criminales (2005)",
-    "location": "Mentes criminales (Criminal Minds) es una serie de drama criminológico. Se estrenó el 22 de septiembre de 2005 en el canal de televisión estadounidense, CBS. Muestra el trabajo de los miembros del equ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg"
-  },
-  {
     "title": "Rancho Dutton (2026)",
     "location": "Rip y Beth Dutton están construyendo una nueva vida en el sur de Texas junto al joven Carter, pero la promesa de un futuro lejos de Yellowstone choca con duras realidades y con un rancho rival que no ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg"
+  },
+  {
+    "title": "Mentes criminales (2005)",
+    "location": "Mentes criminales (Criminal Minds) es una serie de drama criminológico. Se estrenó el 22 de septiembre de 2005 en el canal de televisión estadounidense, CBS. Muestra el trabajo de los miembros del equ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg"
   },
   {
     "title": "Rick y Morty (2013)",
@@ -147,13 +147,7 @@
     "title": "Renegade Immortal (2023)",
     "location": "La historia tiene lugar en el mismo universo que Yi Nian Yong Heng (I Will Eternal). Wang Lin es un chico inteligente con padres amorosos. Sin embargo, él y sus padres son rechazados por el resto de l...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/9R3tyMeAEvY53Da6fVguBEVlfxE.jpg"
-  },
-  {
-    "title": "Kamen Rider (1971)",
-    "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/z0unSB1zZcHSpQaxxqSl622IQrf.jpg"
   },
   {
     "title": "奔跑吧 (2014)",
@@ -162,10 +156,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/pXss1GWhPOcf6SrmRJ4JSkIU3sE.jpg"
   },
   {
-    "title": "Shunkashuutou Daikousha: Haru no Mai (2026)",
-    "location": "Al principio solo existía el Invierno, pero su soledad dio origen a la Primavera. Luego nacieron el Verano y el Otoño, dando forma a las cuatro estaciones. Desde entonces, los humanos asumieron el deb...",
+    "title": "Kamen Rider (1971)",
+    "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/lQcUbt8Rs0TcmIhsVGpoEeqWHwE.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
+  },
+  {
+    "title": "Real Time with Bill Maher (2003)",
+    "location": "Bill Maher y sus invitados diseccionan todo lo que ocurre en Wall Street, Hollywood, Washington y por todo el mundo, cubriendo temas como la salud, la deuda del estado, la energía, las armas, la educa...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/njEGYHyq58q94ZPJlSGs6bGrepv.jpg"
   },
   {
     "title": "你好，星期六 (2022)",
@@ -174,9 +174,9 @@
     "url_img": "https://image.tmdb.org/t/p/original/pvOI0jUuBVigqNTXClGGhIK2dSk.jpg"
   },
   {
-    "title": "Binnelanders (2005)",
+    "title": "Raw (1993)",
     "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/eGPH1IwktalozwCmeLTp3aPbHGC.jpg"
   }
 ]

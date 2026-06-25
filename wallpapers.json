@@ -27,7 +27,7 @@
     "title": "Toy Story 5 (2026)",
     "location": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
   },
   {
     "title": "La Boda Maldita (2026)",
@@ -78,16 +78,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg"
   },
   {
+    "title": "Supergirl (2026)",
+    "location": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg"
+  },
+  {
     "title": "है जवानी तो इश्क होना है (2026)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg"
-  },
-  {
-    "title": "मैं वापस आऊंगा (2026)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/bWw9PuPH6vFXlezBoHZ6D9XBhQW.jpg"
   },
   {
     "title": "FROM (2022)",
@@ -99,7 +99,7 @@
     "title": "La casa del dragón (2022)",
     "location": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/h37hqVLmCW00ImewLAHT1DadOky.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
   },
   {
     "title": "Never ending summer (2026)",
@@ -162,12 +162,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/pXss1GWhPOcf6SrmRJ4JSkIU3sE.jpg"
   },
   {
-    "title": "The Daily Show (1996)",
-    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
-  },
-  {
     "title": "Shunkashuutou Daikousha: Haru no Mai (2026)",
     "location": "Al principio solo existía el Invierno, pero su soledad dio origen a la Primavera. Luego nacieron el Verano y el Otoño, dando forma a las cuatro estaciones. Desde entonces, los humanos asumieron el deb...",
     "author": "TMDB",
@@ -178,5 +172,11 @@
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/pvOI0jUuBVigqNTXClGGhIK2dSk.jpg"
+  },
+  {
+    "title": "Binnelanders (2005)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
   }
 ]

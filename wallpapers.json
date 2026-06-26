@@ -42,6 +42,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/iYjlQzWbcFIjWe2WifbEPb4kErp.jpg"
   },
   {
+    "title": "Las ovejas detectives (2026)",
+    "location": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/t6O6XWelu27BD0OmIDCCufZZT6d.jpg"
+  },
+  {
     "title": "The Mandalorian and Grogu (2026)",
     "location": "Continuación de la serie \"The Mandalorian\" en forma de película. El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República ...",
     "author": "TMDB",
@@ -84,12 +90,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/70GFlSR8e4A4sUZtWril19Cucy7.jpg"
   },
   {
-    "title": "है जवानी तो इश्क होना है (2026)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg"
-  },
-  {
     "title": "FROM (2022)",
     "location": "Desvela el misterio de un pueblo de pesadilla en el centro de Norteamérica que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y bu...",
     "author": "TMDB",
@@ -99,7 +99,7 @@
     "title": "La casa del dragón (2022)",
     "location": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
   },
   {
     "title": "Never ending summer (2026)",
@@ -118,6 +118,12 @@
     "location": "Mentes criminales (Criminal Minds) es una serie de drama criminológico. Se estrenó el 22 de septiembre de 2005 en el canal de televisión estadounidense, CBS. Muestra el trabajo de los miembros del equ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg"
+  },
+  {
+    "title": "Los Simpson (1989)",
+    "location": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastros...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg"
   },
   {
     "title": "Rick y Morty (2013)",
@@ -172,11 +178,5 @@
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/pvOI0jUuBVigqNTXClGGhIK2dSk.jpg"
-  },
-  {
-    "title": "Raw (1993)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/eGPH1IwktalozwCmeLTp3aPbHGC.jpg"
   }
 ]

@@ -30,6 +30,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/laR2dpcNpbv83jdlRUNAYPPjH90.jpg"
   },
   {
+    "title": "Supergirl (2026)",
+    "location": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/vk5IwZNS35wh6rNmqB1ns6XuiyI.jpg"
+  },
+  {
     "title": "La Boda Maldita (2026)",
     "location": "Un hombre hereda un palacio y decide celebrar allí la boda de su hermana... pero el pasado oscuro del lugar amenaza con arruinar la fiesta.",
     "author": "TMDB",
@@ -42,28 +48,22 @@
     "url_img": "https://image.tmdb.org/t/p/original/iYjlQzWbcFIjWe2WifbEPb4kErp.jpg"
   },
   {
-    "title": "Supergirl (2026)",
-    "location": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la ...",
+    "title": "El día de la revelación (2026)",
+    "location": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la re...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/vk5IwZNS35wh6rNmqB1ns6XuiyI.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg"
   },
   {
     "title": "Las ovejas detectives (2026)",
     "location": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/t6O6XWelu27BD0OmIDCCufZZT6d.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/x86iq1UhRIdvAXTmj7b7K67jTIW.jpg"
   },
   {
     "title": "The Mandalorian and Grogu (2026)",
     "location": "Continuación de la serie \"The Mandalorian\" en forma de película. El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg"
-  },
-  {
-    "title": "El día de la revelación (2026)",
-    "location": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la re...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg"
   },
   {
     "title": "Mensajes de voz para Isabelle (2026)",
@@ -102,16 +102,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
   },
   {
-    "title": "Los Simpson (1989)",
-    "location": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastros...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg"
-  },
-  {
     "title": "Rancho Dutton (2026)",
     "location": "Rip y Beth Dutton están construyendo una nueva vida en el sur de Texas junto al joven Carter, pero la promesa de un futuro lejos de Yellowstone choca con duras realidades y con un rancho rival que no ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg"
+  },
+  {
+    "title": "Los Simpson (1989)",
+    "location": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastros...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg"
   },
   {
     "title": "Mentes criminales (2005)",

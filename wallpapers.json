@@ -1,5 +1,11 @@
 [
   {
+    "title": "Welcome to the Jungle (2026)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/96chPcURxg5thGyLqxO6otyxHFR.jpg"
+  },
+  {
     "title": "कॉकटेल २ (2026)",
     "location": "",
     "author": "TMDB",
@@ -24,28 +30,28 @@
     "url_img": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
   },
   {
-    "title": "Mortal Kombat II (2026)",
-    "location": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, qu...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/laR2dpcNpbv83jdlRUNAYPPjH90.jpg"
-  },
-  {
     "title": "Supergirl (2026)",
     "location": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/vk5IwZNS35wh6rNmqB1ns6XuiyI.jpg"
   },
   {
-    "title": "La Boda Maldita (2026)",
-    "location": "Un hombre hereda un palacio y decide celebrar allí la boda de su hermana... pero el pasado oscuro del lugar amenaza con arruinar la fiesta.",
+    "title": "Mortal Kombat II (2026)",
+    "location": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, qu...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/A2tzVTVtnTvpji96IZmleN78KKv.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/laR2dpcNpbv83jdlRUNAYPPjH90.jpg"
   },
   {
     "title": "En mar abierto (2026)",
     "location": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/iYjlQzWbcFIjWe2WifbEPb4kErp.jpg"
+  },
+  {
+    "title": "La Boda Maldita (2026)",
+    "location": "Un hombre hereda un palacio y decide celebrar allí la boda de su hermana... pero el pasado oscuro del lugar amenaza con arruinar la fiesta.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/A2tzVTVtnTvpji96IZmleN78KKv.jpg"
   },
   {
     "title": "El día de la revelación (2026)",
@@ -57,13 +63,19 @@
     "title": "Las ovejas detectives (2026)",
     "location": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/x86iq1UhRIdvAXTmj7b7K67jTIW.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/t6O6XWelu27BD0OmIDCCufZZT6d.jpg"
   },
   {
     "title": "The Mandalorian and Grogu (2026)",
     "location": "Continuación de la serie \"The Mandalorian\" en forma de película. El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg"
+  },
+  {
+    "title": "Detonación (2026)",
+    "location": "Una familia aparentemente normal debe usar sus habilidades ocultas en artes marciales al enfrentarse a una despiadada banda criminal vinculada a la corrupción y la violencia.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/z18AIGSU0vk4Y7LQP37CPSeKZvF.jpg"
   },
   {
     "title": "Mensajes de voz para Isabelle (2026)",
@@ -76,18 +88,6 @@
     "location": "Noah y Nick regresan más fuertes, unidos y enamorados que nunca. Pero a medida que la vida empieza a tirar de ellos en direcciones diferentes, su relación se enfrenta a su reto más difícil hasta la fe...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/wQOhbCP6H8bO5ddlXDZT207orew.jpg"
-  },
-  {
-    "title": "The Furious (2026)",
-    "location": "Rainy, hija del experto en artes marciales Wang Wei, es secuestrada por una red de tráfico de menores. En un frenético intento de recuperarla, el padre se lanza a la guerra, enfrentándose a numerosos ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/dxyNrJ4uG9os6miCG7s754nvKPs.jpg"
-  },
-  {
-    "title": "పెద్ది (2026)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg"
   },
   {
     "title": "FROM (2022)",
@@ -120,6 +120,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg"
   },
   {
+    "title": "Running Man (2010)",
+    "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
+  },
+  {
     "title": "Rick y Morty (2013)",
     "location": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
     "author": "TMDB",
@@ -132,34 +138,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/80vo7eYhAXPJltu32lG5JGrGPzG.jpg"
   },
   {
-    "title": "Running Man (2010)",
-    "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
-  },
-  {
     "title": "ரிசார்ட் (2026)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/wQ1cpJW9uxfKmO8msAF5z4edK63.jpg"
   },
   {
-    "title": "奔跑吧 (2014)",
-    "location": "",
+    "title": "Kamen Rider (1971)",
+    "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/pXss1GWhPOcf6SrmRJ4JSkIU3sE.jpg"
-  },
-  {
-    "title": "Binnelanders (2005)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
-  },
-  {
-    "title": "你好，星期六 (2022)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/pvOI0jUuBVigqNTXClGGhIK2dSk.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
   },
   {
     "title": "Watch What Happens Live with Andy Cohen (2009)",
@@ -168,15 +156,27 @@
     "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
   },
   {
-    "title": "Renegade Immortal (2023)",
-    "location": "La historia tiene lugar en el mismo universo que Yi Nian Yong Heng (I Will Eternal). Wang Lin es un chico inteligente con padres amorosos. Sin embargo, él y sus padres son rechazados por el resto de l...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/z0unSB1zZcHSpQaxxqSl622IQrf.jpg"
-  },
-  {
     "title": "Raw (1993)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/eGPH1IwktalozwCmeLTp3aPbHGC.jpg"
+  },
+  {
+    "title": "奔跑吧 (2014)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/pXss1GWhPOcf6SrmRJ4JSkIU3sE.jpg"
+  },
+  {
+    "title": "你好，星期六 (2022)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/pvOI0jUuBVigqNTXClGGhIK2dSk.jpg"
+  },
+  {
+    "title": "Renegade Immortal (2023)",
+    "location": "La historia tiene lugar en el mismo universo que Yi Nian Yong Heng (I Will Eternal). Wang Lin es un chico inteligente con padres amorosos. Sin embargo, él y sus padres son rechazados por el resto de l...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/z0unSB1zZcHSpQaxxqSl622IQrf.jpg"
   }
 ]

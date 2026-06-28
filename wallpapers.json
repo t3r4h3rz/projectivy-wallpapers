@@ -66,12 +66,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/t6O6XWelu27BD0OmIDCCufZZT6d.jpg"
   },
   {
-    "title": "The Mandalorian and Grogu (2026)",
-    "location": "Continuación de la serie \"The Mandalorian\" en forma de película. El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg"
-  },
-  {
     "title": "Detonación (2026)",
     "location": "Una familia aparentemente normal debe usar sus habilidades ocultas en artes marciales al enfrentarse a una despiadada banda criminal vinculada a la corrupción y la violencia.",
     "author": "TMDB",
@@ -82,6 +76,12 @@
     "location": "Una joven deja mensajes de voz bastante explícitos a su difunta hermana, sin saber que los recibe un desconocido que comienza a enamorarse de ella.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg"
+  },
+  {
+    "title": "The Mandalorian and Grogu (2026)",
+    "location": "Continuación de la serie \"The Mandalorian\" en forma de película. El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg"
   },
   {
     "title": "Culpa tuya: Londres (2026)",
@@ -108,6 +108,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg"
   },
   {
+    "title": "Never ending summer (2026)",
+    "location": "Zhou Wan busca la ayuda de Lu Xi Xiao para salvar a su abuela, lo que provoca un romance tierno pero problemático. Diez años después de la angustia y los malentendidos, se reúnen en el trabajo y descu...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/80vo7eYhAXPJltu32lG5JGrGPzG.jpg"
+  },
+  {
     "title": "Los Simpson (1989)",
     "location": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastros...",
     "author": "TMDB",
@@ -124,12 +130,6 @@
     "location": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg"
-  },
-  {
-    "title": "Never ending summer (2026)",
-    "location": "Zhou Wan busca la ayuda de Lu Xi Xiao para salvar a su abuela, lo que provoca un romance tierno pero problemático. Diez años después de la angustia y los malentendidos, se reúnen en el trabajo y descu...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/80vo7eYhAXPJltu32lG5JGrGPzG.jpg"
   },
   {
     "title": "Agente Kim reactivado (2026)",
@@ -168,15 +168,15 @@
     "url_img": "https://image.tmdb.org/t/p/original/eGPH1IwktalozwCmeLTp3aPbHGC.jpg"
   },
   {
-    "title": "奔跑吧 (2014)",
+    "title": "검사실의 제안 (2026)",
     "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/pXss1GWhPOcf6SrmRJ4JSkIU3sE.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/feISh3qoREwIPWbSaLqqumbmh7m.jpg"
   },
   {
-    "title": "你好，星期六 (2022)",
-    "location": "",
+    "title": "Mushoku Tensei: Reencarnación desde cero (2021)",
+    "location": "Un joven virgen \"nini\" de 34 años es echado de casa cuando se queda sin dinero. Él se arrepiente de su vida cuando muere en un accidente de tráfico. Tras el accidente, se reencarna en un bebé en un mu...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/pvOI0jUuBVigqNTXClGGhIK2dSk.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
   }
 ]

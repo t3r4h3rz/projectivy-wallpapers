@@ -18,16 +18,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg"
   },
   {
-    "title": "Obsesión (2026)",
-    "location": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/u5BkYDM5gfK4wINfoIFMAcEUKhx.jpg"
-  },
-  {
     "title": "Backrooms (2026)",
     "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg"
+  },
+  {
+    "title": "Obsesión (2026)",
+    "location": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/diOZbaDnB2CIilwd0527AB1qMvW.jpg"
   },
   {
     "title": "En mar abierto (2026)",
@@ -72,12 +72,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/laR2dpcNpbv83jdlRUNAYPPjH90.jpg"
   },
   {
-    "title": "The Mandalorian and Grogu (2026)",
-    "location": "Continuación de la serie \"The Mandalorian\" en forma de película. El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg"
-  },
-  {
     "title": "La Boda Maldita (2026)",
     "location": "Un hombre hereda un palacio y decide celebrar allí la boda de su hermana... pero el pasado oscuro del lugar amenaza con arruinar la fiesta.",
     "author": "TMDB",
@@ -88,6 +82,12 @@
     "location": "Una joven deja mensajes de voz bastante explícitos a su difunta hermana, sin saber que los recibe un desconocido que comienza a enamorarse de ella.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg"
+  },
+  {
+    "title": "The Mandalorian and Grogu (2026)",
+    "location": "Continuación de la serie \"The Mandalorian\" en forma de película. El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg"
   },
   {
     "title": "La casa del dragón (2022)",
@@ -174,9 +174,9 @@
     "url_img": "https://image.tmdb.org/t/p/original/5CLySfrEBC6av0wAQw67lRr5Puy.jpg"
   },
   {
-    "title": "奔跑吧 (2014)",
-    "location": "",
+    "title": "The Daily Show (1996)",
+    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/pXss1GWhPOcf6SrmRJ4JSkIU3sE.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
   }
 ]

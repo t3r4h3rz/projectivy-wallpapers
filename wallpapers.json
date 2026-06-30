@@ -21,13 +21,19 @@
     "title": "Backrooms (2026)",
     "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg"
   },
   {
     "title": "Obsesión (2026)",
     "location": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/diOZbaDnB2CIilwd0527AB1qMvW.jpg"
+  },
+  {
+    "title": "Scary Movie (2026)",
+    "location": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg"
   },
   {
     "title": "En mar abierto (2026)",
@@ -42,18 +48,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg"
   },
   {
-    "title": "Scary Movie (2026)",
-    "location": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg"
-  },
-  {
-    "title": "कॉकटेल २ (2026)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/6tROOVmV5vRymO2g52aR8kWlfoT.jpg"
-  },
-  {
     "title": "Supergirl (2026)",
     "location": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la ...",
     "author": "TMDB",
@@ -66,16 +60,22 @@
     "url_img": "https://image.tmdb.org/t/p/original/t6O6XWelu27BD0OmIDCCufZZT6d.jpg"
   },
   {
+    "title": "कॉकटेल २ (2026)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/6tROOVmV5vRymO2g52aR8kWlfoT.jpg"
+  },
+  {
     "title": "Mortal Kombat II (2026)",
     "location": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, qu...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/laR2dpcNpbv83jdlRUNAYPPjH90.jpg"
   },
   {
-    "title": "La Boda Maldita (2026)",
-    "location": "Un hombre hereda un palacio y decide celebrar allí la boda de su hermana... pero el pasado oscuro del lugar amenaza con arruinar la fiesta.",
+    "title": "The Mandalorian and Grogu (2026)",
+    "location": "Continuación de la serie \"The Mandalorian\" en forma de película. El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República ...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/A2tzVTVtnTvpji96IZmleN78KKv.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg"
   },
   {
     "title": "Mensajes de voz para Isabelle (2026)",
@@ -84,10 +84,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg"
   },
   {
-    "title": "The Mandalorian and Grogu (2026)",
-    "location": "Continuación de la serie \"The Mandalorian\" en forma de película. El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República ...",
+    "title": "La Boda Maldita (2026)",
+    "location": "Un hombre hereda un palacio y decide celebrar allí la boda de su hermana... pero el pasado oscuro del lugar amenaza con arruinar la fiesta.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/A2tzVTVtnTvpji96IZmleN78KKv.jpg"
   },
   {
     "title": "La casa del dragón (2022)",
@@ -102,28 +102,28 @@
     "url_img": "https://image.tmdb.org/t/p/original/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg"
   },
   {
-    "title": "Never ending summer (2026)",
-    "location": "Zhou Wan busca la ayuda de Lu Xi Xiao para salvar a su abuela, lo que provoca un romance tierno pero problemático. Diez años después de la angustia y los malentendidos, se reúnen en el trabajo y descu...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/80vo7eYhAXPJltu32lG5JGrGPzG.jpg"
-  },
-  {
     "title": "Agente Kim reactivado (2026)",
     "location": "Un padre normal y corriente desempolva su talento como agente de operaciones encubiertas para dar con su hija desaparecida... pero atrae una atención indeseada.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg"
   },
   {
-    "title": "Mentes criminales (2005)",
-    "location": "Mentes criminales (Criminal Minds) es una serie de drama criminológico. Se estrenó el 22 de septiembre de 2005 en el canal de televisión estadounidense, CBS. Muestra el trabajo de los miembros del equ...",
+    "title": "Never ending summer (2026)",
+    "location": "Zhou Wan busca la ayuda de Lu Xi Xiao para salvar a su abuela, lo que provoca un romance tierno pero problemático. Diez años después de la angustia y los malentendidos, se reúnen en el trabajo y descu...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/80vo7eYhAXPJltu32lG5JGrGPzG.jpg"
   },
   {
     "title": "Los Simpson (1989)",
     "location": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastros...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg"
+  },
+  {
+    "title": "Mentes criminales (2005)",
+    "location": "Mentes criminales (Criminal Minds) es una serie de drama criminológico. Se estrenó el 22 de septiembre de 2005 en el canal de televisión estadounidense, CBS. Muestra el trabajo de los miembros del equ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg"
   },
   {
     "title": "Rick y Morty (2013)",
@@ -136,6 +136,24 @@
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/q4Z7mSe0uFRSg7NaZy3tVWa5eAx.jpg"
+  },
+  {
+    "title": "Running Man (2010)",
+    "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
+  },
+  {
+    "title": "Kamen Rider (1971)",
+    "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
+  },
+  {
+    "title": "ரிசார்ட் (2026)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/wQ1cpJW9uxfKmO8msAF5z4edK63.jpg"
   },
   {
     "title": "Renegade Immortal (2023)",
@@ -156,27 +174,9 @@
     "url_img": "https://image.tmdb.org/t/p/original/j11uBblRUMotP6tTFbnYkmsKiAu.jpg"
   },
   {
-    "title": "ரிசார்ட் (2026)",
-    "location": "",
+    "title": "The Daily Show (1996)",
+    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/wQ1cpJW9uxfKmO8msAF5z4edK63.jpg"
-  },
-  {
-    "title": "Kamen Rider (1971)",
-    "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
-  },
-  {
-    "title": "Running Man (2010)",
-    "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
-  },
-  {
-    "title": "Matar a los Dioses (2024)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/5CLySfrEBC6av0wAQw67lRr5Puy.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
   }
 ]

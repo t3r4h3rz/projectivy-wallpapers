@@ -9,7 +9,7 @@
     "title": "Welcome to the Jungle (2026)",
     "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/96chPcURxg5thGyLqxO6otyxHFR.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/2flMSJfRSZ8OWdPjZEz2kJatBLm.jpg"
   },
   {
     "title": "Toy Story 5 (2026)",
@@ -54,12 +54,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg"
   },
   {
-    "title": "कॉकटेल २ (2026)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/6tROOVmV5vRymO2g52aR8kWlfoT.jpg"
-  },
-  {
     "title": "Mortal Kombat II (2026)",
     "location": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, qu...",
     "author": "TMDB",
@@ -70,6 +64,12 @@
     "location": "Un hombre decide impartir justicia por su cuenta. Su cruzada lo convierte en un fenómeno de las redes sociales, pero también lo enfrenta al jefe de policía de la ciudad.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/qJ2KSHJhlFvASBMLbGuP7OFMaFg.jpg"
+  },
+  {
+    "title": "कॉकटेल २ (2026)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/6tROOVmV5vRymO2g52aR8kWlfoT.jpg"
   },
   {
     "title": "The Mandalorian and Grogu (2026)",
@@ -84,10 +84,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg"
   },
   {
-    "title": "La Boda Maldita (2026)",
-    "location": "Un hombre hereda un palacio y decide celebrar allí la boda de su hermana... pero el pasado oscuro del lugar amenaza con arruinar la fiesta.",
+    "title": "Hermanito (2026)",
+    "location": "La vida perfecta de un tenso agente inmobiliario da un giro radical cuando su adorable y caótico «hermano pequeño» reaparece de repente.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/A2tzVTVtnTvpji96IZmleN78KKv.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg"
   },
   {
     "title": "La casa del dragón (2022)",
@@ -138,12 +138,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
   },
   {
-    "title": "Kamen Rider (1971)",
-    "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
-  },
-  {
     "title": "ரிசார்ட் (2026)",
     "location": "",
     "author": "TMDB",
@@ -162,6 +156,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/feISh3qoREwIPWbSaLqqumbmh7m.jpg"
   },
   {
+    "title": "Kamen Rider (1971)",
+    "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
+  },
+  {
     "title": "พี่ฟากชอบเธอมู่ (2026)",
     "location": "",
     "author": "TMDB",
@@ -174,9 +174,9 @@
     "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
   },
   {
-    "title": "Mushoku Tensei: Reencarnación desde cero (2021)",
-    "location": "Un joven virgen \"nini\" de 34 años es echado de casa cuando se queda sin dinero. Él se arrepiente de su vida cuando muere en un accidente de tráfico. Tras el accidente, se reencarna en un bebé en un mu...",
+    "title": "Matar a los Dioses (2024)",
+    "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/5CLySfrEBC6av0wAQw67lRr5Puy.jpg"
   }
 ]

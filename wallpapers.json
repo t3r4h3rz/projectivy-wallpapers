@@ -27,7 +27,7 @@
     "title": "Obsesión (2026)",
     "location": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una ...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/diOZbaDnB2CIilwd0527AB1qMvW.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg"
   },
   {
     "title": "Scary Movie (2026)",
@@ -54,12 +54,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/54KIfdTEzOliHDKx0OkzYGqAICx.jpg"
   },
   {
-    "title": "Las ovejas detectives (2026)",
-    "location": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/t6O6XWelu27BD0OmIDCCufZZT6d.jpg"
-  },
-  {
     "title": "कॉकटेल २ (2026)",
     "location": "",
     "author": "TMDB",
@@ -70,6 +64,12 @@
     "location": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, qu...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/laR2dpcNpbv83jdlRUNAYPPjH90.jpg"
+  },
+  {
+    "title": "Citizen Vigilante (2026)",
+    "location": "Un hombre decide impartir justicia por su cuenta. Su cruzada lo convierte en un fenómeno de las redes sociales, pero también lo enfrenta al jefe de policía de la ciudad.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/qJ2KSHJhlFvASBMLbGuP7OFMaFg.jpg"
   },
   {
     "title": "The Mandalorian and Grogu (2026)",
@@ -114,12 +114,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg"
   },
   {
-    "title": "Never ending summer (2026)",
-    "location": "Zhou Wan busca la ayuda de Lu Xi Xiao para salvar a su abuela, lo que provoca un romance tierno pero problemático. Diez años después de la angustia y los malentendidos, se reúnen en el trabajo y descu...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/80vo7eYhAXPJltu32lG5JGrGPzG.jpg"
-  },
-  {
     "title": "Los Simpson (1989)",
     "location": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastros...",
     "author": "TMDB",
@@ -136,12 +130,6 @@
     "location": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg"
-  },
-  {
-    "title": "CHILL CLUB 推介 (2020)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/q4Z7mSe0uFRSg7NaZy3tVWa5eAx.jpg"
   },
   {
     "title": "Running Man (2010)",
@@ -178,5 +166,17 @@
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/j11uBblRUMotP6tTFbnYkmsKiAu.jpg"
+  },
+  {
+    "title": "The Daily Show (1996)",
+    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
+  },
+  {
+    "title": "Mushoku Tensei: Reencarnación desde cero (2021)",
+    "location": "Un joven virgen \"nini\" de 34 años es echado de casa cuando se queda sin dinero. Él se arrepiente de su vida cuando muere en un accidente de tráfico. Tras el accidente, se reencarna en un bebé en un mu...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
   }
 ]

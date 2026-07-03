@@ -1,7 +1,7 @@
 [
   {
     "title": "El día de la revelación (2026)",
-    "location": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la re...",
+    "location": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg"
   },
@@ -12,16 +12,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg"
   },
   {
-    "title": "Toy Story 5 (2026)",
-    "location": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+    "title": "Backrooms (2026)",
+    "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg"
   },
   {
-    "title": "Welcome to the Jungle (2026)",
-    "location": "",
+    "title": "Toy Story 5 (2026)",
+    "location": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para c...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/2flMSJfRSZ8OWdPjZEz2kJatBLm.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg"
   },
   {
     "title": "Scary Movie (2026)",
@@ -30,10 +30,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg"
   },
   {
-    "title": "Backrooms (2026)",
-    "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
+    "title": "Welcome to the Jungle (2026)",
+    "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/2flMSJfRSZ8OWdPjZEz2kJatBLm.jpg"
   },
   {
     "title": "En mar abierto (2026)",
@@ -57,7 +57,7 @@
     "title": "Supergirl (2026)",
     "location": "Kara Zor-El es una heroína errabunda que decide aliarse a regañadientes con un compañero improbable para comenzar un viaje épico e interestelar de venganza y justicia, en el cual deberá decidir si su ...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/54KIfdTEzOliHDKx0OkzYGqAICx.jpg"
   },
   {
     "title": "Mortal Kombat II (2026)",
@@ -66,10 +66,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/4EAAwpylq313qrDqpCxulUrXBNF.jpg"
   },
   {
-    "title": "Minions III. Minions y monstruos (2026)",
+    "title": "Minions & Monsters (2026)",
     "location": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg"
+  },
+  {
+    "title": "Enola Holmes 3 (2026)",
+    "location": "Las aventuras de la detective Enola Holmes continúan en Malta, donde sus planes de boda se complican cuando Sherlock desaparece y ella se ve envuelta en un peligroso caso.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/jLuGZc84MvPYCQomQg9DI72mstt.jpg"
   },
   {
     "title": "Hermanito (2026)",
@@ -79,15 +85,9 @@
   },
   {
     "title": "The Mandalorian and Grogu (2026)",
-    "location": "Continuación de la serie \"The Mandalorian\" en forma de película. El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República ...",
+    "location": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclu...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg"
-  },
-  {
-    "title": "Mensajes de voz para Isabelle (2026)",
-    "location": "Una joven deja mensajes de voz bastante explícitos a su difunta hermana, sin saber que los recibe un desconocido que comienza a enamorarse de ella.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg"
   },
   {
     "title": "La casa del dragón (2022)",

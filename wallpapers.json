@@ -114,16 +114,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/zq22918LdWTkBstphgUfxDZUO7i.jpg"
   },
   {
-    "title": "Mentes criminales (2005)",
-    "location": "Mentes criminales (Criminal Minds) es una serie de drama criminológico. Se estrenó el 22 de septiembre de 2005 en el canal de televisión estadounidense, CBS. Muestra el trabajo de los miembros del equ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg"
-  },
-  {
     "title": "Silo (2023)",
     "location": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
+  },
+  {
+    "title": "Mentes criminales (2005)",
+    "location": "Mentes criminales (Criminal Minds) es una serie de drama criminológico. Se estrenó el 22 de septiembre de 2005 en el canal de televisión estadounidense, CBS. Muestra el trabajo de los miembros del equ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg"
   },
   {
     "title": "Running Man (2010)",
@@ -162,21 +162,21 @@
     "url_img": "https://image.tmdb.org/t/p/original/wQ1cpJW9uxfKmO8msAF5z4edK63.jpg"
   },
   {
-    "title": "Mushoku Tensei Jobless Reincarnation (2021)",
-    "location": "Un joven virgen \"nini\" de 34 años es echado de casa cuando se queda sin dinero. Él se arrepiente de su vida cuando muere en un accidente de tráfico. Tras el accidente, se reencarna en un bebé en un mu...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/4n254E5RVKprQbJNV86Kr5WuZaI.jpg"
-  },
-  {
     "title": "Watch What Happens Live with Andy Cohen (2009)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
   },
   {
-    "title": "你好，星期六 (2022)",
+    "title": "奔跑吧 (2014)",
     "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/pvOI0jUuBVigqNTXClGGhIK2dSk.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/pXss1GWhPOcf6SrmRJ4JSkIU3sE.jpg"
+  },
+  {
+    "title": "Renegade Immortal (2023)",
+    "location": "La historia tiene lugar en el mismo universo que Yi Nian Yong Heng (I Will Eternal). Wang Lin es un chico inteligente con padres amorosos. Sin embargo, él y sus padres son rechazados por el resto de l...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/crn53sSGWRZ8wAtEGso52nepEkz.jpg"
   }
 ]

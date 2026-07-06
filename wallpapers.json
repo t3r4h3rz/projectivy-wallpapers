@@ -42,12 +42,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/qJ2KSHJhlFvASBMLbGuP7OFMaFg.jpg"
   },
   {
-    "title": "Welcome to the Jungle (2026)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/2flMSJfRSZ8OWdPjZEz2kJatBLm.jpg"
-  },
-  {
     "title": "Michael (2026)",
     "location": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creati...",
     "author": "TMDB",
@@ -78,16 +72,22 @@
     "url_img": "https://image.tmdb.org/t/p/original/54KIfdTEzOliHDKx0OkzYGqAICx.jpg"
   },
   {
+    "title": "Welcome to the Jungle (2026)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/2flMSJfRSZ8OWdPjZEz2kJatBLm.jpg"
+  },
+  {
     "title": "The Mandalorian and Grogu (2026)",
     "location": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclu...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg"
   },
   {
-    "title": "Hermanito (2026)",
-    "location": "La vida perfecta de un tenso agente inmobiliario da un giro radical cuando su adorable y caótico «hermano pequeño» reaparece de repente.",
+    "title": "The Get Out (2026)",
+    "location": "El dueño de un club nocturno está a punto de dejar atrás su peligroso pasado para volver a vivir con su novia. Cuando unos pistoleros enmascarados le roban y se ve acorralado por despiadados cárteles,...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/mVHyU4pnu9b2LWByPGGM0GGCA1v.jpg"
   },
   {
     "title": "La casa del dragón (2022)",
@@ -100,6 +100,12 @@
     "location": "Un padre normal y corriente desempolva su talento como agente de operaciones encubiertas para dar con su hija desaparecida... pero atrae una atención indeseada.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg"
+  },
+  {
+    "title": "Mushoku Tensei Jobless Reincarnation (2021)",
+    "location": "Un joven virgen \"nini\" de 34 años es echado de casa cuando se queda sin dinero. Él se arrepiente de su vida cuando muere en un accidente de tráfico. Tras el accidente, se reencarna en un bebé en un mu...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
   },
   {
     "title": "Silo (2023)",
@@ -172,11 +178,5 @@
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/eGPH1IwktalozwCmeLTp3aPbHGC.jpg"
-  },
-  {
-    "title": "Gente de barrio (1985)",
-    "location": "Cuenta la vida doméstica y profesional de los habitantes de la ciudad ficticia de Walford, situada en el East End londinense. A lo largo de sus 32 temporadas ha ganado 268 premios y aun sigue en anten...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg"
   }
 ]

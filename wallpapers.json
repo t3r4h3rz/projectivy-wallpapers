@@ -12,16 +12,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg"
   },
   {
-    "title": "Scary Movie (2026)",
-    "location": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg"
-  },
-  {
     "title": "Backrooms (2026)",
     "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg"
+  },
+  {
+    "title": "Scary Movie (2026)",
+    "location": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg"
   },
   {
     "title": "Toy Story 5 (2026)",
@@ -30,16 +30,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg"
   },
   {
-    "title": "En mar abierto (2026)",
-    "location": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/iYjlQzWbcFIjWe2WifbEPb4kErp.jpg"
-  },
-  {
     "title": "Citizen Vigilante (2026)",
     "location": "Un hombre decide impartir justicia por su cuenta. Su cruzada lo convierte en un fenómeno de las redes sociales, pero también lo enfrenta al jefe de policía de la ciudad.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/qJ2KSHJhlFvASBMLbGuP7OFMaFg.jpg"
+  },
+  {
+    "title": "En mar abierto (2026)",
+    "location": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/iYjlQzWbcFIjWe2WifbEPb4kErp.jpg"
   },
   {
     "title": "Michael (2026)",

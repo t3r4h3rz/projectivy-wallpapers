@@ -18,16 +18,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg"
   },
   {
-    "title": "Backrooms (2026)",
-    "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg"
-  },
-  {
     "title": "Scary Movie (2026)",
     "location": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg"
+  },
+  {
+    "title": "Backrooms (2026)",
+    "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg"
   },
   {
     "title": "Citizen Vigilante (2026)",
@@ -40,6 +40,12 @@
     "location": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/szKv713FcUXx6hcfdY369vtkmzr.jpg"
+  },
+  {
+    "title": "The Furious (2026)",
+    "location": "Rainy, hija del experto en artes marciales Wang Wei, es secuestrada por una red de tráfico de menores. En un frenético intento de recuperarla, el padre se lanza a la guerra, enfrentándose a numerosos ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg"
   },
   {
     "title": "Minions y monstruos (2026)",
@@ -60,6 +66,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/jLuGZc84MvPYCQomQg9DI72mstt.jpg"
   },
   {
+    "title": "El pasajero nocturno (2026)",
+    "location": "Después de presenciar un brutal accidente nocturno en la carretera, una joven pareja comprende que algo los ha seguido. Una presencia demoníaca, conocida como El Pasajero Nocturno, se ha unido a ellos...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg"
+  },
+  {
     "title": "Mortal Kombat II (2026)",
     "location": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, qu...",
     "author": "TMDB",
@@ -72,22 +84,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/mVHyU4pnu9b2LWByPGGM0GGCA1v.jpg"
   },
   {
-    "title": "Supergirl (2026)",
-    "location": "Kara Zor-El es una heroína errabunda que decide aliarse a regañadientes con un compañero improbable para comenzar un viaje épico e interestelar de venganza y justicia, en el cual deberá decidir si su ...",
+    "title": "ਸਤਲੁਜ (2026)",
+    "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/cbyslfazMuDUGt4W6QcO3cKq8xj.jpg"
-  },
-  {
-    "title": "El pasajero nocturno (2026)",
-    "location": "Después de presenciar un brutal accidente nocturno en la carretera, una joven pareja comprende que algo los ha seguido. Una presencia demoníaca, conocida como El Pasajero Nocturno, se ha unido a ellos...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg"
-  },
-  {
-    "title": "Hermanito (2026)",
-    "location": "La vida perfecta de un tenso agente inmobiliario da un giro radical cuando su adorable y caótico «hermano pequeño» reaparece de repente.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/h7VptulPVCJUIvWCE2HzXdHljkj.jpg"
   },
   {
     "title": "La casa del dragón (2022)",
@@ -108,8 +108,8 @@
     "url_img": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
   },
   {
-    "title": "ヤニねこ (2026)",
-    "location": "",
+    "title": "Chainsmoker Cat (2026)",
+    "location": "Yani es una chica gato con un hábito de fumar realmente terrible. Fuma tanto que su apartamento huele a ceniza y está lleno de colillas de cigarrillos… ¡y de mucha otra basura! Cada vez que intenta de...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg"
   },

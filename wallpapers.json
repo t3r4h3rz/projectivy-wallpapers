@@ -18,16 +18,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg"
   },
   {
-    "title": "Scary Movie (2026)",
-    "location": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg"
-  },
-  {
     "title": "Backrooms (2026)",
     "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg"
+  },
+  {
+    "title": "Scary Movie (2026)",
+    "location": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg"
   },
   {
     "title": "Citizen Vigilante (2026)",
@@ -45,7 +45,7 @@
     "title": "The Furious (2026)",
     "location": "Rainy, hija del experto en artes marciales Wang Wei, es secuestrada por una red de tráfico de menores. En un frenético intento de recuperarla, el padre se lanza a la guerra, enfrentándose a numerosos ...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/tN0iXjm7qbHnGG4WGrNOGqmTMDt.jpg"
   },
   {
     "title": "Minions y monstruos (2026)",
@@ -114,16 +114,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
   },
   {
-    "title": "Agente Kim reactivado (2026)",
-    "location": "Un padre normal y corriente desempolva su talento como agente de operaciones encubiertas para dar con su hija desaparecida... pero atrae una atención indeseada.",
+    "title": "Rick y Morty (2013)",
+    "location": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg"
-  },
-  {
-    "title": "Hombres en una Misión (2015)",
-    "location": "Las celebridades masculinas juegan a la fantasía como estudiantes de secundaria, dan la bienvenida a estudiantes de transferencia estelar cada semana y participan en batallas de humor ingenioso y paya...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/a8a8z4aJr40zYgRMfmSESppX2eO.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg"
   },
   {
     "title": "Mentes criminales (2005)",
@@ -132,10 +126,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg"
   },
   {
-    "title": "Rick y Morty (2013)",
-    "location": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
+    "title": "Agente Kim reactivado (2026)",
+    "location": "Un padre normal y corriente desempolva su talento como agente de operaciones encubiertas para dar con su hija desaparecida... pero atrae una atención indeseada.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg"
   },
   {
     "title": "검사실의 제안 (2026)",
@@ -150,6 +144,18 @@
     "url_img": "https://image.tmdb.org/t/p/original/cEwNRLINZ3rTtf2qZBbq2EZaLgG.jpg"
   },
   {
+    "title": "Hombres en una Misión (2015)",
+    "location": "Las celebridades masculinas juegan a la fantasía como estudiantes de secundaria, dan la bienvenida a estudiantes de transferencia estelar cada semana y participan en batallas de humor ingenioso y paya...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/a8a8z4aJr40zYgRMfmSESppX2eO.jpg"
+  },
+  {
+    "title": "嫁入高门 (2026)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/ugTBA8nEDCq2sVvxH7ViRAJpUSN.jpg"
+  },
+  {
     "title": "ซีรีส์ (2026)",
     "location": "",
     "author": "TMDB",
@@ -162,21 +168,15 @@
     "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
   },
   {
-    "title": "Running Man (2010)",
-    "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
-  },
-  {
     "title": "Watch What Happens Live with Andy Cohen (2009)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
   },
   {
-    "title": "Renegade Immortal (2023)",
-    "location": "La historia tiene lugar en el mismo universo que Yi Nian Yong Heng (I Will Eternal). Wang Lin es un chico inteligente con padres amorosos. Sin embargo, él y sus padres son rechazados por el resto de l...",
+    "title": "Running Man (2010)",
+    "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/crn53sSGWRZ8wAtEGso52nepEkz.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
   }
 ]

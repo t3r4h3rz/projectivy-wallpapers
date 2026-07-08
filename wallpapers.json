@@ -102,16 +102,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
   },
   {
-    "title": "Silo (2023)",
-    "location": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
-  },
-  {
     "title": "Chainsmoker Cat (2026)",
     "location": "Yani es una chica gato con un hábito de fumar realmente terrible. Fuma tanto que su apartamento huele a ceniza y está lleno de colillas de cigarrillos… ¡y de mucha otra basura! Cada vez que intenta de...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg"
+  },
+  {
+    "title": "Silo (2023)",
+    "location": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
   },
   {
     "title": "Agente Kim reactivado (2026)",
@@ -156,6 +156,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/zq22918LdWTkBstphgUfxDZUO7i.jpg"
   },
   {
+    "title": "Kamen Rider (1971)",
+    "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
+  },
+  {
     "title": "Running Man (2010)",
     "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
     "author": "TMDB",
@@ -166,12 +172,6 @@
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
-  },
-  {
-    "title": "Kamen Rider (1971)",
-    "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
   },
   {
     "title": "Renegade Immortal (2023)",

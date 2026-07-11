@@ -36,16 +36,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg"
   },
   {
-    "title": "Citizen Vigilante (2026)",
-    "location": "Un hombre decide impartir justicia por su cuenta. Su cruzada lo convierte en un fenómeno de las redes sociales, pero también lo enfrenta al jefe de policía de la ciudad.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/qJ2KSHJhlFvASBMLbGuP7OFMaFg.jpg"
-  },
-  {
     "title": "El pasajero nocturno (2026)",
     "location": "Después de presenciar un brutal accidente nocturno en la carretera, una joven pareja comprende que algo los ha seguido. Una presencia demoníaca, conocida como El Pasajero Nocturno, se ha unido a ellos...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg"
+  },
+  {
+    "title": "Citizen Vigilante (2026)",
+    "location": "Un hombre decide impartir justicia por su cuenta. Su cruzada lo convierte en un fenómeno de las redes sociales, pero también lo enfrenta al jefe de policía de la ciudad.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/qJ2KSHJhlFvASBMLbGuP7OFMaFg.jpg"
   },
   {
     "title": "En mar abierto (2026)",
@@ -66,12 +66,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/mVHyU4pnu9b2LWByPGGM0GGCA1v.jpg"
   },
   {
-    "title": "Minions y monstruos (2026)",
-    "location": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg"
-  },
-  {
     "title": "Mortal Kombat II (2026)",
     "location": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, qu...",
     "author": "TMDB",
@@ -84,10 +78,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/jLuGZc84MvPYCQomQg9DI72mstt.jpg"
   },
   {
+    "title": "Minions y monstruos (2026)",
+    "location": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg"
+  },
+  {
     "title": "Vaiana (2026)",
     "location": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/dRqDXLVmPuvGJCegVHayK4WS6Cz.jpg"
   },
   {
     "title": "Chainsmoker Cat (2026)",
@@ -117,7 +117,7 @@
     "title": "Silo (2023)",
     "location": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/cAYMSOqsKmi9vdzWh6yv7FCVHzQ.jpg"
   },
   {
     "title": "嫁入高门 (2026)",

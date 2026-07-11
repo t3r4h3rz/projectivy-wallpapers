@@ -30,7 +30,7 @@
     "url_img": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg"
   },
   {
-    "title": "The Furious (2026)",
+    "title": "The Furious (2025)",
     "location": "Rainy, hija del experto en artes marciales Wang Wei, es secuestrada por una red de tráfico de menores. En un frenético intento de recuperarla, el padre se lanza a la guerra, enfrentándose a numerosos ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg"
@@ -42,28 +42,22 @@
     "url_img": "https://image.tmdb.org/t/p/original/qJ2KSHJhlFvASBMLbGuP7OFMaFg.jpg"
   },
   {
-    "title": "En mar abierto (2026)",
-    "location": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/szKv713FcUXx6hcfdY369vtkmzr.jpg"
-  },
-  {
     "title": "El pasajero nocturno (2026)",
     "location": "Después de presenciar un brutal accidente nocturno en la carretera, una joven pareja comprende que algo los ha seguido. Una presencia demoníaca, conocida como El Pasajero Nocturno, se ha unido a ellos...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg"
   },
   {
+    "title": "En mar abierto (2026)",
+    "location": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/szKv713FcUXx6hcfdY369vtkmzr.jpg"
+  },
+  {
     "title": "Michael (2026)",
     "location": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creati...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg"
-  },
-  {
-    "title": "Enola Holmes 3 (2026)",
-    "location": "Las aventuras de la detective Enola Holmes continúan en Malta, donde sus planes de boda se complican cuando Sherlock desaparece y ella se ve envuelta en un peligroso caso.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/jLuGZc84MvPYCQomQg9DI72mstt.jpg"
   },
   {
     "title": "The Get Out (2026)",
@@ -82,6 +76,12 @@
     "location": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, qu...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/4EAAwpylq313qrDqpCxulUrXBNF.jpg"
+  },
+  {
+    "title": "Enola Holmes 3 (2026)",
+    "location": "Las aventuras de la detective Enola Holmes continúan en Malta, donde sus planes de boda se complican cuando Sherlock desaparece y ella se ve envuelta en un peligroso caso.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/jLuGZc84MvPYCQomQg9DI72mstt.jpg"
   },
   {
     "title": "Vaiana (2026)",

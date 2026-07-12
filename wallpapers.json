@@ -78,16 +78,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/4EAAwpylq313qrDqpCxulUrXBNF.jpg"
   },
   {
-    "title": "Enola Holmes 3 (2026)",
-    "location": "Las aventuras de la detective Enola Holmes continúan en Malta, donde sus planes de boda se complican cuando Sherlock desaparece y ella se ve envuelta en un peligroso caso.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/jLuGZc84MvPYCQomQg9DI72mstt.jpg"
-  },
-  {
     "title": "Minions y monstruos (2026)",
     "location": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg"
+  },
+  {
+    "title": "Enola Holmes 3 (2026)",
+    "location": "Las aventuras de la detective Enola Holmes continúan en Malta, donde sus planes de boda se complican cuando Sherlock desaparece y ella se ve envuelta en un peligroso caso.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/jLuGZc84MvPYCQomQg9DI72mstt.jpg"
   },
   {
     "title": "Chainsmoker Cat (2026)",
@@ -111,7 +111,7 @@
     "title": "Silo (2023)",
     "location": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/cAYMSOqsKmi9vdzWh6yv7FCVHzQ.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
   },
   {
     "title": "嫁入高门 (2026)",
@@ -150,16 +150,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
   },
   {
-    "title": "Watch What Happens Live with Andy Cohen (2009)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
-  },
-  {
     "title": "ซีรีส์ (2026)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/zq22918LdWTkBstphgUfxDZUO7i.jpg"
+  },
+  {
+    "title": "Watch What Happens Live with Andy Cohen (2009)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
   },
   {
     "title": "野狗骨头 (2026)",

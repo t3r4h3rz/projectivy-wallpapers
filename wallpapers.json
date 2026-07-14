@@ -114,22 +114,28 @@
     "url_img": "https://image.tmdb.org/t/p/original/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg"
   },
   {
+    "title": "Renegade Immortal (2023)",
+    "location": "La historia tiene lugar en el mismo universo que Yi Nian Yong Heng (I Will Eternal). Wang Lin es un chico inteligente con padres amorosos. Sin embargo, él y sus padres son rechazados por el resto de l...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/crn53sSGWRZ8wAtEGso52nepEkz.jpg"
+  },
+  {
     "title": "嫁入高门 (2026)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/ugTBA8nEDCq2sVvxH7ViRAJpUSN.jpg"
   },
   {
-    "title": "Mentes criminales (2005)",
-    "location": "Mentes criminales (Criminal Minds) es una serie de drama criminológico. Se estrenó el 22 de septiembre de 2005 en el canal de televisión estadounidense, CBS. Muestra el trabajo de los miembros del equ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg"
-  },
-  {
     "title": "The Daily Show (1996)",
     "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
+  },
+  {
+    "title": "Mentes criminales (2005)",
+    "location": "Mentes criminales (Criminal Minds) es una serie de drama criminológico. Se estrenó el 22 de septiembre de 2005 en el canal de televisión estadounidense, CBS. Muestra el trabajo de los miembros del equ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg"
   },
   {
     "title": "Binnelanders (2005)",
@@ -156,27 +162,21 @@
     "url_img": "https://image.tmdb.org/t/p/original/feISh3qoREwIPWbSaLqqumbmh7m.jpg"
   },
   {
-    "title": "愛·回家之開心速遞 (2017)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/dyFTt1a9ZpFdKE96kPlE9fQvXOJ.jpg"
-  },
-  {
     "title": "Agente Kim reactivado (2026)",
     "location": "Un padre normal y corriente desempolva su talento como agente de operaciones encubiertas para dar con su hija desaparecida... pero atrae una atención indeseada.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg"
   },
   {
-    "title": "Gente de barrio (1985)",
-    "location": "Cuenta la vida doméstica y profesional de los habitantes de la ciudad ficticia de Walford, situada en el East End londinense. A lo largo de sus 32 temporadas ha ganado 268 premios y aun sigue en anten...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg"
-  },
-  {
-    "title": "Flores del Poder (2026)",
+    "title": "愛·回家之開心速遞 (2017)",
     "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/AcNgNI4HtZHeepeSI5nATqtPemZ.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/dyFTt1a9ZpFdKE96kPlE9fQvXOJ.jpg"
+  },
+  {
+    "title": "The Tonight Show Starring Jimmy Fallon (2014)",
+    "location": "Después del segundo retiro de Jay Leno del programa, Jimmy Fallon intervino como su reemplazo permanente. Después de 42 años en Los Ángeles, el programa regresó a Nueva York.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg"
   }
 ]

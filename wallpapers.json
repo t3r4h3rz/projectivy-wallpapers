@@ -18,10 +18,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg"
   },
   {
+    "title": "Backrooms (2026)",
+    "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg"
+  },
+  {
     "title": "Vaiana (2026)",
     "location": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/c6U1Te0p0FK0BOB43hiwGlBKiVY.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg"
   },
   {
     "title": "Scary Movie (2026)",
@@ -30,22 +36,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg"
   },
   {
-    "title": "Backrooms (2026)",
-    "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
+    "title": "The Furious (2026)",
+    "location": "Rainy, hija del experto en artes marciales Wang Wei, es secuestrada por una red de tráfico de menores. En un frenético intento de recuperarla, el padre se lanza a la guerra, enfrentándose a numerosos ...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg"
   },
   {
     "title": "El pasajero nocturno (2026)",
     "location": "Después de presenciar un brutal accidente nocturno en la carretera, una joven pareja comprende que algo los ha seguido. Una presencia demoníaca, conocida como El Pasajero Nocturno, se ha unido a ellos...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg"
-  },
-  {
-    "title": "The Furious (2026)",
-    "location": "Rainy, hija del experto en artes marciales Wang Wei, es secuestrada por una red de tráfico de menores. En un frenético intento de recuperarla, el padre se lanza a la guerra, enfrentándose a numerosos ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg"
   },
   {
     "title": "Citizen Vigilante (2026)",
@@ -72,16 +72,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg"
   },
   {
-    "title": "Posesión infernal: En llamas (2026)",
-    "location": "Película ambientada en el universo de la saga 'Evil Dead / Posesión infernal'. Tras la muerte de su marido, una mujer busca consuelo junto a la familia de este en su aislada casa familiar. Pero, cuand...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg"
-  },
-  {
     "title": "The Get Out (2026)",
     "location": "El dueño de un club nocturno está a punto de dejar atrás su peligroso pasado para volver a vivir con su novia. Cuando unos pistoleros enmascarados le roban y se ve acorralado por despiadados cárteles,...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/mVHyU4pnu9b2LWByPGGM0GGCA1v.jpg"
+  },
+  {
+    "title": "Posesión infernal: En llamas (2026)",
+    "location": "Película ambientada en el universo de la saga 'Evil Dead / Posesión infernal'. Tras la muerte de su marido, una mujer busca consuelo junto a la familia de este en su aislada casa familiar. Pero, cuand...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg"
   },
   {
     "title": "La noche de los muertos vivientes. Estallido zombi (2026)",
@@ -138,12 +138,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg"
   },
   {
-    "title": "The Daily Show (1996)",
-    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
-  },
-  {
     "title": "Agente Kim reactivado (2026)",
     "location": "Un padre normal y corriente desempolva su talento como agente de operaciones encubiertas para dar con su hija desaparecida... pero atrae una atención indeseada.",
     "author": "TMDB",
@@ -168,15 +162,21 @@
     "url_img": "https://image.tmdb.org/t/p/original/vuajwjep1FxphPhMEWKv4bfrCnf.jpg"
   },
   {
+    "title": "The Daily Show (1996)",
+    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
+  },
+  {
     "title": "क्योंकि सास भी कभी बहू थी (2000)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/gwXnESfjDqop3tDLoGxSwCUP8GD.jpg"
   },
   {
-    "title": "Flores del Poder (2026)",
-    "location": "",
+    "title": "Running Man (2010)",
+    "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/AcNgNI4HtZHeepeSI5nATqtPemZ.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
   }
 ]

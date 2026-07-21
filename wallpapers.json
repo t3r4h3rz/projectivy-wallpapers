@@ -18,22 +18,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg"
   },
   {
+    "title": "El día de la revelación (2026)",
+    "location": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/pW4Ah1A6SgZNQNmf5AgiIYPzFHF.jpg"
+  },
+  {
     "title": "Backrooms (2026)",
     "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/2aA8iPlMCks3k131ymFBAY6FL0b.jpg"
-  },
-  {
-    "title": "El día de la revelación (2026)",
-    "location": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg"
-  },
-  {
-    "title": "Toy Story 5 (2026)",
-    "location": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para c...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
   },
   {
     "title": "Minions & Monsters (2026)",
@@ -46,6 +40,12 @@
     "location": "Kara Zor-El es una heroína errabunda que decide aliarse a regañadientes con un compañero improbable para comenzar un viaje épico e interestelar de venganza y justicia, en el cual deberá decidir si su ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg"
+  },
+  {
+    "title": "Toy Story 5 (2026)",
+    "location": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para c...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
   },
   {
     "title": "Scary Movie 6 (2026)",
@@ -96,6 +96,18 @@
     "url_img": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
   },
   {
+    "title": "Binnelanders (2005)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
+  },
+  {
+    "title": "Jeopardy! (1984)",
+    "location": "Jeopardy! es un concurso de televisión estadounidense creado por Merv Griffin. Es un concurso de conocimientos con preguntas sobre numerosos temas como historia, idiomas, literatura, cultura popular, ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg"
+  },
+  {
     "title": "The Daily Show (1996)",
     "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
     "author": "TMDB",
@@ -106,6 +118,12 @@
     "location": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
+  },
+  {
+    "title": "Watch What Happens Live with Andy Cohen (2009)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
   },
   {
     "title": "Mushoku Tensei Jobless Reincarnation (2021)",
@@ -126,12 +144,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/feISh3qoREwIPWbSaLqqumbmh7m.jpg"
   },
   {
-    "title": "Binnelanders (2005)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
-  },
-  {
     "title": "Mentes criminales (2005)",
     "location": "Mentes criminales (Criminal Minds) es una serie de drama criminológico. Se estrenó el 22 de septiembre de 2005 en el canal de televisión estadounidense, CBS. Muestra el trabajo de los miembros del equ...",
     "author": "TMDB",
@@ -144,10 +156,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg"
   },
   {
-    "title": "Watch What Happens Live with Andy Cohen (2009)",
-    "location": "",
+    "title": "Gente de barrio (1985)",
+    "location": "Cuenta la vida doméstica y profesional de los habitantes de la ciudad ficticia de Walford, situada en el East End londinense. A lo largo de sus 32 temporadas ha ganado 268 premios y aun sigue en anten...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg"
   },
   {
     "title": "Lucky (2026)",
@@ -156,27 +168,15 @@
     "url_img": "https://image.tmdb.org/t/p/original/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg"
   },
   {
-    "title": "All Elite Wrestling: Collision (2023)",
-    "location": "",
+    "title": "Coronation Street (1960)",
+    "location": "Esta serie británica sigue las vidas de los residentes de la ficticia calle Coronation, situada en el gran Manchester, y que está conformada principalmente por gente de clase obrera.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/6fbzFk1fTE8I8UEYn9hG9dUo8jh.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg"
   },
   {
-    "title": "Raw (1993)",
+    "title": "Suidooster (2015)",
     "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/384Lam787FIDBnwjwQBvC8gjB2d.jpg"
-  },
-  {
-    "title": "The Tonight Show Starring Jimmy Fallon (2014)",
-    "location": "Después del segundo retiro de Jay Leno del programa, Jimmy Fallon intervino como su reemplazo permanente. Después de 42 años en Los Ángeles, el programa regresó a Nueva York.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg"
-  },
-  {
-    "title": "Secret Story (2007)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/go422YL6ytCPCZsrTCBmAJYaI72.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/ynd225o8GuCahYGjHtFdEt8Xizm.jpg"
   }
 ]

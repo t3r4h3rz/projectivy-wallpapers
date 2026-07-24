@@ -54,28 +54,22 @@
     "url_img": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
   },
   {
-    "title": "Los Descendientes: viaje al mundo oscuro (2026)",
-    "location": "Red y Chloe logran cambiar la historia: impiden que la Reina de Corazones se vuelva villana y salvan a Cenicienta. Todo parece irles de maravilla, pero alterar el pasado tiene consecuencias inesperada...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/idRLKyu43mRhMWNjzd6FiEromNI.jpg"
-  },
-  {
     "title": "Borderline (2026)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/t5iMyppJhIdjPQDAWIWoilO5iYf.jpg"
   },
   {
+    "title": "Los Descendientes: viaje al mundo oscuro (2026)",
+    "location": "Red y Chloe logran cambiar la historia: impiden que la Reina de Corazones se vuelva villana y salvan a Cenicienta. Todo parece irles de maravilla, pero alterar el pasado tiene consecuencias inesperada...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/idRLKyu43mRhMWNjzd6FiEromNI.jpg"
+  },
+  {
     "title": "El pasajero nocturno (2026)",
     "location": "Después de presenciar un brutal accidente nocturno en la carretera, una joven pareja comprende que algo los ha seguido. Una presencia demoníaca, conocida como El Pasajero Nocturno, se ha unido a ellos...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg"
-  },
-  {
-    "title": "The Furious (2026)",
-    "location": "Rainy, hija del experto en artes marciales Wang Wei, es secuestrada por una red de tráfico de menores. En un frenético intento de recuperarla, el padre se lanza a la guerra, enfrentándose a numerosos ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg"
   },
   {
     "title": "Spider-Man: Brand New Day (2026)",
@@ -88,6 +82,12 @@
     "location": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/szKv713FcUXx6hcfdY369vtkmzr.jpg"
+  },
+  {
+    "title": "The Furious (2026)",
+    "location": "Rainy, hija del experto en artes marciales Wang Wei, es secuestrada por una red de tráfico de menores. En un frenético intento de recuperarla, el padre se lanza a la guerra, enfrentándose a numerosos ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg"
   },
   {
     "title": "La casa del dragón (2022)",
@@ -174,9 +174,9 @@
     "url_img": "https://image.tmdb.org/t/p/original/gwXnESfjDqop3tDLoGxSwCUP8GD.jpg"
   },
   {
-    "title": "Raw (1993)",
+    "title": "Bares für Rares (2013)",
     "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/384Lam787FIDBnwjwQBvC8gjB2d.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/wNzhjVcigBJx3dATrlEmaoKbRpx.jpg"
   }
 ]

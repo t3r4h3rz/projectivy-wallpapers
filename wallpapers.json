@@ -6,22 +6,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg"
   },
   {
-    "title": "Vaiana (2026)",
-    "location": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg"
-  },
-  {
     "title": "El día de la revelación (2026)",
     "location": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg"
   },
   {
-    "title": "Backrooms (2026)",
-    "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
+    "title": "Vaiana (2026)",
+    "location": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/2aA8iPlMCks3k131ymFBAY6FL0b.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg"
   },
   {
     "title": "Obsession (2026)",
@@ -30,16 +24,22 @@
     "url_img": "https://image.tmdb.org/t/p/original/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg"
   },
   {
-    "title": "Supergirl (2026)",
-    "location": "Kara Zor-El es una heroína errabunda que decide aliarse a regañadientes con un compañero improbable para comenzar un viaje épico e interestelar de venganza y justicia, en el cual deberá decidir si su ...",
+    "title": "Backrooms (2026)",
+    "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/2aA8iPlMCks3k131ymFBAY6FL0b.jpg"
   },
   {
     "title": "Minions & Monsters (2026)",
     "location": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
+  },
+  {
+    "title": "Supergirl (2026)",
+    "location": "Kara Zor-El es una heroína errabunda que decide aliarse a regañadientes con un compañero improbable para comenzar un viaje épico e interestelar de venganza y justicia, en el cual deberá decidir si su ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg"
   },
   {
     "title": "Toy Story 5 (2026)",
@@ -60,16 +60,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/t5iMyppJhIdjPQDAWIWoilO5iYf.jpg"
   },
   {
-    "title": "Los Descendientes: viaje al mundo oscuro (2026)",
-    "location": "Red y Chloe logran cambiar la historia: impiden que la Reina de Corazones se vuelva villana y salvan a Cenicienta. Todo parece irles de maravilla, pero alterar el pasado tiene consecuencias inesperada...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/idRLKyu43mRhMWNjzd6FiEromNI.jpg"
-  },
-  {
     "title": "Spider-Man: Brand New Day (2026)",
     "location": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama....",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg"
+  },
+  {
+    "title": "Los Descendientes: viaje al mundo oscuro (2026)",
+    "location": "Red y Chloe logran cambiar la historia: impiden que la Reina de Corazones se vuelva villana y salvan a Cenicienta. Todo parece irles de maravilla, pero alterar el pasado tiene consecuencias inesperada...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/idRLKyu43mRhMWNjzd6FiEromNI.jpg"
   },
   {
     "title": "En mar abierto (2026)",

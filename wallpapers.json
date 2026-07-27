@@ -33,7 +33,7 @@
     "title": "Supergirl (2026)",
     "location": "Kara Zor-El es una heroína errabunda que decide aliarse a regañadientes con un compañero improbable para comenzar un viaje épico e interestelar de venganza y justicia, en el cual deberá decidir si su ...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/wj1CsxIx5Y7a2jFuW7p5MqVJoTx.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg"
   },
   {
     "title": "Toy Story 5 (2026)",
@@ -60,6 +60,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/t5iMyppJhIdjPQDAWIWoilO5iYf.jpg"
   },
   {
+    "title": "La leyenda de Aang: El último Airbender (2026)",
+    "location": "Película de animación que seguirá a Aang y sus amigos, ahora como jóvenes adultos, varios años después de los acontecimientos del final de 'Avatar: The Last Airbender'.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg"
+  },
+  {
     "title": "Spider-Man: Brand New Day (2026)",
     "location": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama....",
     "author": "TMDB",
@@ -84,12 +90,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/idRLKyu43mRhMWNjzd6FiEromNI.jpg"
   },
   {
-    "title": "Kraken (2026)",
-    "location": "Johanne es una bióloga marina que está investigando en una piscifactoría de Vangsnes, una comunidad rural situada junto al fiordo, cuando se topa con varios sucesos extraños. Junto con las brutales mu...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/oV472EbPedkc5QzqolGc7sCgCnn.jpg"
-  },
-  {
     "title": "La casa del dragón (2022)",
     "location": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
     "author": "TMDB",
@@ -102,22 +102,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
   },
   {
-    "title": "Rick y Morty (2013)",
-    "location": "Comedia animada que narra las aventuras de un científico loco Rick Sánchez, que regresa después de 20 años para vivir con su hija, su marido y sus hijos Morty y Summer.",
+    "title": "Mushoku Tensei Jobless Reincarnation (2021)",
+    "location": "Un joven virgen \"nini\" de 34 años es echado de casa cuando se queda sin dinero. Él se arrepiente de su vida cuando muere en un accidente de tráfico. Tras el accidente, se reencarna en un bebé en un mu...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/7DE67DzAlZmCOm1OYnAL7gV1B8w.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
   },
   {
     "title": "Watch What Happens Live with Andy Cohen (2009)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
-  },
-  {
-    "title": "Mushoku Tensei Jobless Reincarnation (2021)",
-    "location": "Un joven virgen \"nini\" de 34 años es echado de casa cuando se queda sin dinero. Él se arrepiente de su vida cuando muere en un accidente de tráfico. Tras el accidente, se reencarna en un bebé en un mu...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
   },
   {
     "title": "Agente Kim reactivado (2026)",
@@ -154,6 +148,12 @@
     "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
+  },
+  {
+    "title": "Los Jóvenes Titanes en Acción (2013)",
+    "location": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las si...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg"
   },
   {
     "title": "Kamen Rider (1971)",

@@ -168,15 +168,15 @@
     "url_img": "https://image.tmdb.org/t/p/original/ngmekOxfGjiTtNbWM5T5U4WvzlS.jpg"
   },
   {
-    "title": "Raw (1993)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/384Lam787FIDBnwjwQBvC8gjB2d.jpg"
-  },
-  {
     "title": "Kamen Rider (1971)",
     "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
+  },
+  {
+    "title": "Detective Conan (1996)",
+    "location": "Shinichi Kudo es un joven detective que consigue esclarecer cualquier misterio, por difícil que sea. Un día, nuestro protagonista descubre los maléficos planes de una peligrosa organización criminal y...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/z67lpMtm8YGykJO4p89meuNMvj8.jpg"
   }
 ]

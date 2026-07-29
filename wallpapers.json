@@ -6,22 +6,22 @@
     "url_img": "https://image.tmdb.org/t/p/original/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg"
   },
   {
-    "title": "El día de la revelación (2026)",
-    "location": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg"
-  },
-  {
     "title": "Supergirl (2026)",
     "location": "Kara Zor-El es una heroína errabunda que decide aliarse a regañadientes con un compañero improbable para comenzar un viaje épico e interestelar de venganza y justicia, en el cual deberá decidir si su ...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/wZJTidyAi53smx6x4LBFgfQolRU.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/54KIfdTEzOliHDKx0OkzYGqAICx.jpg"
   },
   {
     "title": "Vaiana (2026)",
     "location": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
+  },
+  {
+    "title": "Spider-Man: Brand New Day (2026)",
+    "location": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama....",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/kbvNLChuMl2nyAzPZvqkD8hZGZn.jpg"
   },
   {
     "title": "Obsession (2026)",
@@ -42,22 +42,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg"
   },
   {
-    "title": "Minions & Monsters (2026)",
-    "location": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
-  },
-  {
     "title": "La muerte de Robin Hood (2026)",
     "location": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/aM3pduSU53VjcALWOfLWNw8v2TI.jpg"
   },
   {
-    "title": "Spider-Man: Brand New Day (2026)",
-    "location": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama....",
+    "title": "Minions & Monsters (2026)",
+    "location": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar ...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/kbvNLChuMl2nyAzPZvqkD8hZGZn.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
   },
   {
     "title": "La leyenda de Aang: El último Airbender (2026)",
@@ -67,21 +61,27 @@
   },
   {
     "title": "Borderline (2026)",
-    "location": "",
+    "location": "Ex militares estadounidenses se alían con operadores políticos para infiltrar ciudades con pandilleros mexicanos secuestrados, esperando caos criminal para ganar apoyo a agendas políticas radicales.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/wPSOPYy2fV62GjeXpVdKyweZGZu.jpg"
   },
   {
-    "title": "Scary Movie (2026)",
-    "location": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+    "title": "Zona Cero (2026)",
+    "location": "El profesor Se-jeong es arrojado a una pesadilla cuando un  virus en rápida mutación se libera durante una conferencia de  biotecnología, lo que lleva a las autoridades a sellar las  instalaciones. At...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg"
   },
   {
     "title": "El cobrador de deudas (2026)",
     "location": "Atormentado por los errores del pasado y un diagnóstico terminal, un excobrador de deudas regresa al mundo del hampa para proteger a las víctimas de una organización violenta.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg"
+  },
+  {
+    "title": "Scary Movie (2026)",
+    "location": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg"
   },
   {
     "title": "Kraken (2026)",
@@ -156,6 +156,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg"
   },
   {
+    "title": "Prodigiosa: Las aventuras de Ladybug (2015)",
+    "location": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg"
+  },
+  {
     "title": "Los Jóvenes Titanes en Acción (2013)",
     "location": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las si...",
     "author": "TMDB",
@@ -172,11 +178,5 @@
     "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
-  },
-  {
-    "title": "Na Wspólnej (2003)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg"
   }
 ]

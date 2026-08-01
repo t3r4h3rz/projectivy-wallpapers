@@ -18,16 +18,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg"
   },
   {
-    "title": "Obsession (2026)",
-    "location": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg"
-  },
-  {
     "title": "Vaiana (2026)",
     "location": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
+  },
+  {
+    "title": "Obsession (2026)",
+    "location": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg"
   },
   {
     "title": "La muerte de Robin Hood (2026)",
@@ -48,16 +48,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg"
   },
   {
-    "title": "Backrooms (2026)",
-    "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/wjwMC7u3xWKkrronolBqsIy4L0L.jpg"
-  },
-  {
     "title": "Minions & Monsters (2026)",
     "location": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
+  },
+  {
+    "title": "Backrooms (2026)",
+    "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/wjwMC7u3xWKkrronolBqsIy4L0L.jpg"
   },
   {
     "title": "Spider-Man: No Way Home (2021)",
@@ -72,6 +72,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg"
   },
   {
+    "title": "La Boca del Diablo (2026)",
+    "location": "Cinco amigos exploran el sistema de cuevas de la Boca del Diablo en Tailandia, para correr una última aventura antes de empezar su vida en el mundo real. Pero pronto descubren que algo los está cazand...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/hwnTaa6eT7c5xxOiJL2NhcVt8qX.jpg"
+  },
+  {
     "title": "El cobrador de deudas (2026)",
     "location": "Atormentado por los errores del pasado y un diagnóstico terminal, un excobrador de deudas regresa al mundo del hampa para proteger a las víctimas de una organización violenta.",
     "author": "TMDB",
@@ -82,12 +88,6 @@
     "location": "Ex militares estadounidenses se alían con operadores políticos para infiltrar ciudades con pandilleros mexicanos secuestrados, esperando caos criminal para ganar apoyo a agendas políticas radicales.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/wPSOPYy2fV62GjeXpVdKyweZGZu.jpg"
-  },
-  {
-    "title": "Kraken (2026)",
-    "location": "Johanne es una bióloga marina que está investigando en una piscifactoría de Vangsnes, una comunidad rural situada junto al fiordo, cuando se topa con varios sucesos extraños. Junto con las brutales mu...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/oV472EbPedkc5QzqolGc7sCgCnn.jpg"
   },
   {
     "title": "La casa del dragón (2022)",

@@ -120,34 +120,22 @@
     "url_img": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
   },
   {
-    "title": "Prodigiosa: Las aventuras de Ladybug (2015)",
-    "location": "Cuando París corre peligro, Marinette se convierte en Ladybug. Lo que no sabe, es que su apuesto amigo Adrien es Cat Noir, otro superhéroe al servicio de la ciudad.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg"
-  },
-  {
     "title": "BBC Proms (1947)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/aE8LrypJQs2EJvyVgmV2Ta6Hovz.jpg"
   },
   {
-    "title": "Late Night with Seth Meyers (2014)",
-    "location": "",
+    "title": "Lucky (2026)",
+    "location": "Cuando un robo de varios millones de dólares sale mal, la estafadora Lucky se ve obligada a huir. Perseguida tanto por el FBI como por un despiadado jefe criminal, Lucky deberá luchar por su vida y bu...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg"
   },
   {
     "title": "Agente Kim reactivado (2026)",
     "location": "Un padre normal y corriente desempolva su talento como agente de operaciones encubiertas para dar con su hija desaparecida... pero atrae una atención indeseada.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg"
-  },
-  {
-    "title": "Lucky (2026)",
-    "location": "Cuando un robo de varios millones de dólares sale mal, la estafadora Lucky se ve obligada a huir. Perseguida tanto por el FBI como por un despiadado jefe criminal, Lucky deberá luchar por su vida y bu...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg"
   },
   {
     "title": "Binnelanders (2005)",
@@ -178,5 +166,17 @@
     "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
+  },
+  {
+    "title": "Operaciones Especiales: Lioness (2023)",
+    "location": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg"
+  },
+  {
+    "title": "Bleach (2004)",
+    "location": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg"
   }
 ]

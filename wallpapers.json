@@ -156,12 +156,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg"
   },
   {
-    "title": "Agente Kim reactivado (2026)",
-    "location": "Un padre normal y corriente desempolva su talento como agente de operaciones encubiertas para dar con su hija desaparecida... pero atrae una atención indeseada.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg"
-  },
-  {
     "title": "Lucky (2026)",
     "location": "Cuando un robo de varios millones de dólares sale mal, la estafadora Lucky se ve obligada a huir. Perseguida tanto por el FBI como por un despiadado jefe criminal, Lucky deberá luchar por su vida y bu...",
     "author": "TMDB",
@@ -178,5 +172,11 @@
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/wNzhjVcigBJx3dATrlEmaoKbRpx.jpg"
+  },
+  {
+    "title": "All Elite Wrestling: Dynamite (2019)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg"
   }
 ]

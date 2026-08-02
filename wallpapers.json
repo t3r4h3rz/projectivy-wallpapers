@@ -24,6 +24,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg"
   },
   {
+    "title": "Spider-Man: No Way Home (2021)",
+    "location": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/AeK2MPOpYrOOgZNfFnfwp0L8tNn.jpg"
+  },
+  {
     "title": "Vaiana (2026)",
     "location": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
     "author": "TMDB",
@@ -36,22 +42,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg"
   },
   {
-    "title": "La leyenda de Aang: El último Airbender (2026)",
-    "location": "Película de animación que seguirá a Aang y sus amigos, ahora como jóvenes adultos, varios años después de los acontecimientos del final de 'Avatar: The Last Airbender'.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg"
-  },
-  {
     "title": "Toy Story 5 (2026)",
     "location": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para c...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg"
   },
   {
-    "title": "Spider-Man: No Way Home (2021)",
-    "location": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún...",
+    "title": "La leyenda de Aang: El último Airbender (2026)",
+    "location": "Película de animación que seguirá a Aang y sus amigos, ahora como jóvenes adultos, varios años después de los acontecimientos del final de 'Avatar: The Last Airbender'.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/AeK2MPOpYrOOgZNfFnfwp0L8tNn.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg"
   },
   {
     "title": "Minions & Monsters (2026)",
@@ -96,6 +96,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
   },
   {
+    "title": "Gute Zeiten, schlechte Zeiten (1992)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg"
+  },
+  {
     "title": "Silo (2023)",
     "location": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu...",
     "author": "TMDB",
@@ -120,28 +126,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
   },
   {
-    "title": "Secret Lives (1999)",
-    "location": "Serie de televisión finlandesa que se estrenó en MTV3 el 25 de enero de 1999. Fue la primera y hasta ahora única telenovela finlandesa.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg"
-  },
-  {
     "title": "Secret Story (2007)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/go422YL6ytCPCZsrTCBmAJYaI72.jpg"
-  },
-  {
-    "title": "Gute Zeiten, schlechte Zeiten (1992)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg"
-  },
-  {
-    "title": "BBC Proms (1947)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/aE8LrypJQs2EJvyVgmV2Ta6Hovz.jpg"
   },
   {
     "title": "Los Jóvenes Titanes en Acción (2013)",
@@ -150,10 +138,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg"
   },
   {
-    "title": "Na Wspólnej (2003)",
+    "title": "Secret Lives (1999)",
+    "location": "Serie de televisión finlandesa que se estrenó en MTV3 el 25 de enero de 1999. Fue la primera y hasta ahora única telenovela finlandesa.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg"
+  },
+  {
+    "title": "BBC Proms (1947)",
     "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/aE8LrypJQs2EJvyVgmV2Ta6Hovz.jpg"
   },
   {
     "title": "Lucky (2026)",
@@ -162,21 +156,27 @@
     "url_img": "https://image.tmdb.org/t/p/original/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg"
   },
   {
+    "title": "Operaciones Especiales: Lioness (2023)",
+    "location": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg"
+  },
+  {
+    "title": "Das perfekte Dinner (2005)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/2CUdryUjbdOrWymDJSlHvlcoPsj.jpg"
+  },
+  {
     "title": "Kamen Rider (1971)",
     "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
   },
   {
-    "title": "Bares für Rares (2013)",
-    "location": "",
+    "title": "Bleach (2004)",
+    "location": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/wNzhjVcigBJx3dATrlEmaoKbRpx.jpg"
-  },
-  {
-    "title": "All Elite Wrestling: Dynamite (2019)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg"
   }
 ]

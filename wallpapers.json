@@ -48,16 +48,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg"
   },
   {
+    "title": "La Boca del Diablo (2026)",
+    "location": "Cinco amigos exploran el sistema de cuevas de la Boca del Diablo en Tailandia, para correr una última aventura antes de empezar su vida en el mundo real. Pero pronto descubren que algo los está cazand...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/hwnTaa6eT7c5xxOiJL2NhcVt8qX.jpg"
+  },
+  {
     "title": "La leyenda de Aang: El último Airbender (2026)",
     "location": "Película de animación que seguirá a Aang y sus amigos, ahora como jóvenes adultos, varios años después de los acontecimientos del final de 'Avatar: The Last Airbender'.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg"
-  },
-  {
-    "title": "Minions & Monsters (2026)",
-    "location": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
   },
   {
     "title": "Backrooms (2026)",
@@ -66,10 +66,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/wjwMC7u3xWKkrronolBqsIy4L0L.jpg"
   },
   {
-    "title": "La Boca del Diablo (2026)",
-    "location": "Cinco amigos exploran el sistema de cuevas de la Boca del Diablo en Tailandia, para correr una última aventura antes de empezar su vida en el mundo real. Pero pronto descubren que algo los está cazand...",
+    "title": "Minions & Monsters (2026)",
+    "location": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar ...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/hwnTaa6eT7c5xxOiJL2NhcVt8qX.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
   },
   {
     "title": "Zona Cero (2026)",
@@ -120,10 +120,22 @@
     "url_img": "https://image.tmdb.org/t/p/original/m9lBl3aEn2nGt8qHQYL2sIJbvcB.jpg"
   },
   {
+    "title": "Operaciones Especiales: Lioness (2023)",
+    "location": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/3Udwq6W7y4AIsuJDXV2YwowZ1gQ.jpg"
+  },
+  {
     "title": "Mushoku Tensei Jobless Reincarnation (2021)",
     "location": "Un joven virgen \"nini\" de 34 años es echado de casa cuando se queda sin dinero. Él se arrepiente de su vida cuando muere en un accidente de tráfico. Tras el accidente, se reencarna en un bebé en un mu...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
+  },
+  {
+    "title": "Bleach (2004)",
+    "location": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg"
   },
   {
     "title": "Secret Story (2007)",
@@ -156,12 +168,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg"
   },
   {
-    "title": "Operaciones Especiales: Lioness (2023)",
-    "location": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/3Udwq6W7y4AIsuJDXV2YwowZ1gQ.jpg"
-  },
-  {
     "title": "Das perfekte Dinner (2005)",
     "location": "",
     "author": "TMDB",
@@ -172,11 +178,5 @@
     "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
-  },
-  {
-    "title": "Bleach (2004)",
-    "location": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg"
   }
 ]

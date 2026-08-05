@@ -12,16 +12,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg"
   },
   {
-    "title": "Supergirl (2026)",
-    "location": "Kara Zor-El es una heroína errabunda que decide aliarse a regañadientes con un compañero improbable para comenzar un viaje épico e interestelar de venganza y justicia, en el cual deberá decidir si su ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg"
-  },
-  {
     "title": "Spider-Man: No Way Home (2021)",
     "location": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg"
+  },
+  {
+    "title": "Supergirl (2026)",
+    "location": "Kara Zor-El es una heroína errabunda que decide aliarse a regañadientes con un compañero improbable para comenzar un viaje épico e interestelar de venganza y justicia, en el cual deberá decidir si su ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg"
   },
   {
     "title": "Obsession (2026)",
@@ -48,6 +48,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/se8LfmZYFiNerF6U7zMUKePV0vE.jpg"
   },
   {
+    "title": "The Odyssey (2026)",
+    "location": "Tras una década de guerra, un rey griego emprende un peligroso viaje a casa con su esposa y reino, enfrentando amenazas sobrenaturales y la ira divina más peligrosas que cualquier batalla.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/rOIaKlAX0SeNC25dFbM0y1mFsH6.jpg"
+  },
+  {
     "title": "Vaiana (2026)",
     "location": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
     "author": "TMDB",
@@ -64,12 +70,6 @@
     "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg"
-  },
-  {
-    "title": "The Odyssey (2026)",
-    "location": "Tras una década de guerra, un rey griego emprende un peligroso viaje a casa con su esposa y reino, enfrentando amenazas sobrenaturales y la ira divina más peligrosas que cualquier batalla.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/rOIaKlAX0SeNC25dFbM0y1mFsH6.jpg"
   },
   {
     "title": "La leyenda de Aang: El último Airbender (2026)",

@@ -66,16 +66,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg"
   },
   {
-    "title": "La leyenda de Aang: El último Airbender (2026)",
-    "location": "Película de animación que seguirá a Aang y sus amigos, ahora como jóvenes adultos, varios años después de los acontecimientos del final de 'Avatar: The Last Airbender'.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/qPNG2riEQLBknaa20RhUCr8QtWA.jpg"
-  },
-  {
     "title": "The Odyssey (2026)",
     "location": "Tras una década de guerra, un rey griego emprende un peligroso viaje a casa con su esposa y reino, enfrentando amenazas sobrenaturales y la ira divina más peligrosas que cualquier batalla.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/rOIaKlAX0SeNC25dFbM0y1mFsH6.jpg"
+  },
+  {
+    "title": "La leyenda de Aang: El último Airbender (2026)",
+    "location": "Película de animación que seguirá a Aang y sus amigos, ahora como jóvenes adultos, varios años después de los acontecimientos del final de 'Avatar: The Last Airbender'.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg"
   },
   {
     "title": "Zona Cero (2026)",
@@ -112,6 +112,12 @@
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
+  },
+  {
+    "title": "Reacher (2022)",
+    "location": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y p...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/JYgqp8g2kI3SEus9XBDSHukfBN.jpg"
   },
   {
     "title": "Mushoku Tensei Jobless Reincarnation (2021)",
@@ -172,11 +178,5 @@
     "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
-  },
-  {
-    "title": "Secret Story (2007)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/go422YL6ytCPCZsrTCBmAJYaI72.jpg"
   }
 ]

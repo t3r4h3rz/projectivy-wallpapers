@@ -120,6 +120,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/JYgqp8g2kI3SEus9XBDSHukfBN.jpg"
   },
   {
+    "title": "Bleach (2004)",
+    "location": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg"
+  },
+  {
     "title": "Mushoku Tensei Jobless Reincarnation (2021)",
     "location": "Un joven virgen \"nini\" de 34 años es echado de casa cuando se queda sin dinero. Él se arrepiente de su vida cuando muere en un accidente de tráfico. Tras el accidente, se reencarna en un bebé en un mu...",
     "author": "TMDB",
@@ -132,16 +138,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg"
   },
   {
-    "title": "Bleach (2004)",
-    "location": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D...",
+    "title": "Futurama (1999)",
+    "location": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg"
-  },
-  {
-    "title": "Jornal Nacional (1969)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/meWAnliwwbNAwzgE8aVJpZlHWux.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg"
   },
   {
     "title": "Renegade Immortal (2023)",
@@ -150,16 +150,22 @@
     "url_img": "https://image.tmdb.org/t/p/original/crn53sSGWRZ8wAtEGso52nepEkz.jpg"
   },
   {
-    "title": "Futurama (1999)",
-    "location": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie...",
+    "title": "Jornal Nacional (1969)",
+    "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/meWAnliwwbNAwzgE8aVJpZlHWux.jpg"
   },
   {
-    "title": "Lucky (2026)",
-    "location": "Cuando un robo de varios millones de dólares sale mal, la estafadora Lucky se ve obligada a huir. Perseguida tanto por el FBI como por un despiadado jefe criminal, Lucky deberá luchar por su vida y bu...",
+    "title": "Los Jóvenes Titanes en Acción (2013)",
+    "location": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las si...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg"
+  },
+  {
+    "title": "Running Man (2010)",
+    "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
   },
   {
     "title": "Kamen Rider (1971)",
@@ -168,15 +174,9 @@
     "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
   },
   {
-    "title": "All Elite Wrestling: Dynamite (2019)",
-    "location": "",
+    "title": "Lucky (2026)",
+    "location": "Cuando un robo de varios millones de dólares sale mal, la estafadora Lucky se ve obligada a huir. Perseguida tanto por el FBI como por un despiadado jefe criminal, Lucky deberá luchar por su vida y bu...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg"
-  },
-  {
-    "title": "Running Man (2010)",
-    "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg"
   }
 ]

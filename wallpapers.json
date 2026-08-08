@@ -72,6 +72,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg"
   },
   {
+    "title": "The Odyssey (2026)",
+    "location": "Tras una década de guerra, un rey griego emprende un peligroso viaje a casa con su esposa y reino, enfrentando amenazas sobrenaturales y la ira divina más peligrosas que cualquier batalla.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/rOIaKlAX0SeNC25dFbM0y1mFsH6.jpg"
+  },
+  {
     "title": "La leyenda de Aang: El último Airbender (2026)",
     "location": "Película de animación que seguirá a Aang y sus amigos, ahora como jóvenes adultos, varios años después de los acontecimientos del final de 'Avatar: The Last Airbender'.",
     "author": "TMDB",
@@ -82,12 +88,6 @@
     "location": "Tras la muerte de su marido, una mujer busca consuelo junto a la familia de este en su aislada casa familiar. Pero, cuando uno a uno comienzan a convertirse en seres poseídos, el encuentro acaba convi...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg"
-  },
-  {
-    "title": "Scary Movie (2026)",
-    "location": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg"
   },
   {
     "title": "La casa del dragón (2022)",
@@ -144,6 +144,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg"
   },
   {
+    "title": "脱口秀和Ta的朋友们 (2024)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/sGK1f1Y2dnExqpjRnsHpI4ZWqJr.jpg"
+  },
+  {
     "title": "All Elite Wrestling: Dynamite (2019)",
     "location": "",
     "author": "TMDB",
@@ -172,11 +178,5 @@
     "location": "X-Men '97 vuelve a la icónica época de los años 90, donde los X-Men, un grupo de mutantes que utilizan sus asombrosos poderes para proteger a un mundo que los odia y los teme, se enfrentarán a su mayo...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg"
-  },
-  {
-    "title": "Renegade Immortal (2023)",
-    "location": "La historia tiene lugar en el mismo universo que Yi Nian Yong Heng (I Will Eternal). Wang Lin es un chico inteligente con padres amorosos. Sin embargo, él y sus padres son rechazados por el resto de l...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/crn53sSGWRZ8wAtEGso52nepEkz.jpg"
   }
 ]

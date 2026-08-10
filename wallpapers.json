@@ -90,12 +90,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg"
   },
   {
-    "title": "La casa del dragón (2022)",
-    "location": "Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
-  },
-  {
     "title": "Operaciones Especiales: Lioness (2023)",
     "location": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe...",
     "author": "TMDB",
@@ -126,16 +120,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg"
   },
   {
-    "title": "Ted Lasso (2020)",
-    "location": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con su...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg"
-  },
-  {
     "title": "Mushoku Tensei Jobless Reincarnation (2021)",
     "location": "Un joven virgen \"nini\" de 34 años es echado de casa cuando se queda sin dinero. Él se arrepiente de su vida cuando muere en un accidente de tráfico. Tras el accidente, se reencarna en un bebé en un mu...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
+  },
+  {
+    "title": "Ted Lasso (2020)",
+    "location": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con su...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg"
   },
   {
     "title": "脱口秀和Ta的朋友们 (2024)",
@@ -156,22 +150,28 @@
     "url_img": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg"
   },
   {
-    "title": "Futurama (1999)",
-    "location": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg"
-  },
-  {
     "title": "Kamen Rider (1971)",
     "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
   },
   {
+    "title": "Futurama (1999)",
+    "location": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg"
+  },
+  {
     "title": "BBC Proms (1947)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/aE8LrypJQs2EJvyVgmV2Ta6Hovz.jpg"
+  },
+  {
+    "title": "Lucky (2026)",
+    "location": "Cuando un robo de varios millones de dólares sale mal, la estafadora Lucky se ve obligada a huir. Perseguida tanto por el FBI como por un despiadado jefe criminal, Lucky deberá luchar por su vida y bu...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg"
   },
   {
     "title": "Running Man (2010)",

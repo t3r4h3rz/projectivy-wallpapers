@@ -42,6 +42,18 @@
     "url_img": "https://image.tmdb.org/t/p/original/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg"
   },
   {
+    "title": "Zona Cero (2026)",
+    "location": "El profesor Se-jeong es arrojado a una pesadilla cuando un  virus en rápida mutación se libera durante una conferencia de  biotecnología, lo que lleva a las autoridades a sellar las  instalaciones. At...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/cOKATn8lOcvVnOqqV5oYWaI9z2Z.jpg"
+  },
+  {
+    "title": "Posesión infernal. En llamas (2026)",
+    "location": "Tras la muerte de su marido, una mujer busca consuelo junto a la familia de este en su aislada casa familiar. Pero, cuando uno a uno comienzan a convertirse en seres poseídos, el encuentro acaba convi...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg"
+  },
+  {
     "title": "Obsesión (2026)",
     "location": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una...",
     "author": "TMDB",
@@ -54,22 +66,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
   },
   {
-    "title": "Posesión infernal. En llamas (2026)",
-    "location": "Tras la muerte de su marido, una mujer busca consuelo junto a la familia de este en su aislada casa familiar. Pero, cuando uno a uno comienzan a convertirse en seres poseídos, el encuentro acaba convi...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg"
-  },
-  {
     "title": "La Boca del Diablo (2026)",
     "location": "La aventura de un grupo de amigos universitarios en Tailandia se vuelve mortal cuando quedan atrapados en unas cuevas sumergidas con un peligroso depredador. A medida que el oxígeno se agota, los conf...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/se8LfmZYFiNerF6U7zMUKePV0vE.jpg"
-  },
-  {
-    "title": "Zona Cero (2026)",
-    "location": "El profesor Se-jeong es arrojado a una pesadilla cuando un  virus en rápida mutación se libera durante una conferencia de  biotecnología, lo que lleva a las autoridades a sellar las  instalaciones. At...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/cOKATn8lOcvVnOqqV5oYWaI9z2Z.jpg"
   },
   {
     "title": "Vaiana (2026)",
@@ -78,16 +78,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
   },
   {
-    "title": "La odisea (2026)",
-    "location": "El rey Odiseo regresa por fin a casa tras diez años de intensos combates y derramamiento de sangre en la guerra de Troya. Pero su arduo viaje para volver junto a su amada está plagado de monstruos pel...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/rOIaKlAX0SeNC25dFbM0y1mFsH6.jpg"
-  },
-  {
     "title": "Backrooms (2026)",
     "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg"
+  },
+  {
+    "title": "La odisea (2026)",
+    "location": "El rey Odiseo regresa por fin a casa tras diez años de intensos combates y derramamiento de sangre en la guerra de Troya. Pero su arduo viaje para volver junto a su amada está plagado de monstruos pel...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/rOIaKlAX0SeNC25dFbM0y1mFsH6.jpg"
   },
   {
     "title": "Operaciones Especiales: Lioness (2023)",

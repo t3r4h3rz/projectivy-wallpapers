@@ -30,16 +30,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg"
   },
   {
-    "title": "Toy Story 5 (2026)",
-    "location": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para c...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg"
-  },
-  {
     "title": "Obsesión (2026)",
     "location": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg"
+  },
+  {
+    "title": "Toy Story 5 (2026)",
+    "location": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para c...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg"
   },
   {
     "title": "Posesión infernal. En llamas (2026)",
@@ -60,16 +60,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
   },
   {
-    "title": "La Boca del Diablo (2026)",
-    "location": "La aventura de un grupo de amigos universitarios en Tailandia se vuelve mortal cuando quedan atrapados en unas cuevas sumergidas con un peligroso depredador. A medida que el oxígeno se agota, los conf...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/se8LfmZYFiNerF6U7zMUKePV0vE.jpg"
-  },
-  {
     "title": "Soulm8te (2026)",
     "location": "Un hombre adquiere un androide con Inteligencia Artificial para hacer frente a la pérdida de su esposa recientemente fallecida. En un intento por crear una pareja verdaderamente sensible, sin darse cu...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg"
+  },
+  {
+    "title": "La Boca del Diablo (2026)",
+    "location": "La aventura de un grupo de amigos universitarios en Tailandia se vuelve mortal cuando quedan atrapados en unas cuevas sumergidas con un peligroso depredador. A medida que el oxígeno se agota, los conf...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/se8LfmZYFiNerF6U7zMUKePV0vE.jpg"
   },
   {
     "title": "Backrooms (2026)",
@@ -84,16 +84,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg"
   },
   {
-    "title": "Leviticus (2026)",
-    "location": "Dos adolescentes en un pequeño pueblo rural son atormentados por una violenta entidad sobrenatural que adopta la forma de la persona que más desean.",
+    "title": "Lucky Strike (2026)",
+    "location": "Un soldado estadounidense herido queda atrapado tras las líneas alemanas durante la Batalla de las Ardenas, en la II Guerra Mundial.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg"
-  },
-  {
-    "title": "Operaciones Especiales: Lioness (2023)",
-    "location": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/1ebY06Gc1eUZcCoO7IoD4tWCFxm.jpg"
   },
   {
     "title": "Reacher (2022)",
@@ -102,16 +96,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg"
   },
   {
+    "title": "Operaciones Especiales: Lioness (2023)",
+    "location": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg"
+  },
+  {
     "title": "Secret Story (2007)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/go422YL6ytCPCZsrTCBmAJYaI72.jpg"
-  },
-  {
-    "title": "Gran hermano (2001)",
-    "location": "Esta serie de telerrealidad argentina forma parte de la franquicia Big Brother desarrollada por primera vez en Holanda.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/1E8PabwfDIaxREyfe9fxfINqauu.jpg"
   },
   {
     "title": "Watch What Happens Live with Andy Cohen (2009)",
@@ -120,16 +114,22 @@
     "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
   },
   {
+    "title": "Gran hermano (2001)",
+    "location": "Esta serie de telerrealidad argentina forma parte de la franquicia Big Brother desarrollada por primera vez en Holanda.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/1E8PabwfDIaxREyfe9fxfINqauu.jpg"
+  },
+  {
     "title": "Silo (2023)",
     "location": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
   },
   {
-    "title": "Secret Lives (1999)",
-    "location": "Serie de televisión finlandesa que se estrenó en MTV3 el 25 de enero de 1999. Fue la primera y hasta ahora única telenovela finlandesa.",
+    "title": "Ulice (2005)",
+    "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/cchlQWYrnMPyl1EbjZWCzeAz8l5.jpg"
   },
   {
     "title": "Ted Lasso (2020)",
@@ -138,34 +138,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg"
   },
   {
-    "title": "Mushoku Tensei Jobless Reincarnation (2021)",
-    "location": "Un joven virgen \"nini\" de 34 años es echado de casa cuando se queda sin dinero. Él se arrepiente de su vida cuando muere en un accidente de tráfico. Tras el accidente, se reencarna en un bebé en un mu...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
-  },
-  {
-    "title": "Gute Zeiten, schlechte Zeiten (1992)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg"
-  },
-  {
     "title": "Kamen Rider (1971)",
     "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
   },
   {
-    "title": "Jornal Nacional (1969)",
-    "location": "",
+    "title": "Mushoku Tensei Jobless Reincarnation (2021)",
+    "location": "Un joven virgen \"nini\" de 34 años es echado de casa cuando se queda sin dinero. Él se arrepiente de su vida cuando muere en un accidente de tráfico. Tras el accidente, se reencarna en un bebé en un mu...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/meWAnliwwbNAwzgE8aVJpZlHWux.jpg"
-  },
-  {
-    "title": "Binnelanders (2005)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
   },
   {
     "title": "Raw (1993)",
@@ -174,9 +156,27 @@
     "url_img": "https://image.tmdb.org/t/p/original/qvq06zocz1zhMHdJAPUg0NCBj3z.jpg"
   },
   {
+    "title": "Secret Lives (1999)",
+    "location": "Serie de televisión finlandesa que se estrenó en MTV3 el 25 de enero de 1999. Fue la primera y hasta ahora única telenovela finlandesa.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg"
+  },
+  {
     "title": "BBC Proms (1947)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/aE8LrypJQs2EJvyVgmV2Ta6Hovz.jpg"
+  },
+  {
+    "title": "脱口秀和Ta的朋友们 (2024)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/sGK1f1Y2dnExqpjRnsHpI4ZWqJr.jpg"
+  },
+  {
+    "title": "Futurama (1999)",
+    "location": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg"
   }
 ]

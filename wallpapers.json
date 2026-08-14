@@ -108,16 +108,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/go422YL6ytCPCZsrTCBmAJYaI72.jpg"
   },
   {
-    "title": "Watch What Happens Live with Andy Cohen (2009)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
-  },
-  {
     "title": "Gran hermano (2001)",
     "location": "Esta serie de telerrealidad argentina forma parte de la franquicia Big Brother desarrollada por primera vez en Holanda.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/1E8PabwfDIaxREyfe9fxfINqauu.jpg"
+  },
+  {
+    "title": "Watch What Happens Live with Andy Cohen (2009)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
   },
   {
     "title": "Silo (2023)",
@@ -126,22 +126,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
   },
   {
-    "title": "Ulice (2005)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/cchlQWYrnMPyl1EbjZWCzeAz8l5.jpg"
-  },
-  {
     "title": "Ted Lasso (2020)",
     "location": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con su...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg"
-  },
-  {
-    "title": "Kamen Rider (1971)",
-    "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
   },
   {
     "title": "Mushoku Tensei Jobless Reincarnation (2021)",
@@ -150,22 +138,34 @@
     "url_img": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
   },
   {
-    "title": "Raw (1993)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/qvq06zocz1zhMHdJAPUg0NCBj3z.jpg"
-  },
-  {
     "title": "Secret Lives (1999)",
     "location": "Serie de televisión finlandesa que se estrenó en MTV3 el 25 de enero de 1999. Fue la primera y hasta ahora única telenovela finlandesa.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg"
   },
   {
-    "title": "BBC Proms (1947)",
+    "title": "Kamen Rider (1971)",
+    "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
+  },
+  {
+    "title": "All Elite Wrestling: Dynamite (2019)",
     "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/aE8LrypJQs2EJvyVgmV2Ta6Hovz.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg"
+  },
+  {
+    "title": "Los Jóvenes Titanes en Acción (2013)",
+    "location": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las si...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg"
+  },
+  {
+    "title": "Raw (1993)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/qvq06zocz1zhMHdJAPUg0NCBj3z.jpg"
   },
   {
     "title": "Futurama (1999)",
@@ -174,9 +174,9 @@
     "url_img": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg"
   },
   {
-    "title": "Running Man (2010)",
-    "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
+    "title": "Lucky (2026)",
+    "location": "Cuando un robo de varios millones de dólares sale mal, la estafadora Lucky se ve obligada a huir. Perseguida tanto por el FBI como por un despiadado jefe criminal, Lucky deberá luchar por su vida y bu...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg"
   }
 ]

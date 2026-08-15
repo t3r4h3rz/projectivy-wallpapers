@@ -36,16 +36,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg"
   },
   {
-    "title": "Obsesión (2026)",
-    "location": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg"
-  },
-  {
     "title": "La muerte de Robin Hood (2026)",
     "location": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg"
+  },
+  {
+    "title": "Obsesión (2026)",
+    "location": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg"
   },
   {
     "title": "Posesión infernal. En llamas (2026)",
@@ -60,6 +60,18 @@
     "url_img": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
   },
   {
+    "title": "El final de Oak Street (2026)",
+    "location": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervive...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg"
+  },
+  {
+    "title": "La Boca del Diablo (2026)",
+    "location": "La aventura de un grupo de amigos universitarios en Tailandia se vuelve mortal cuando quedan atrapados en unas cuevas sumergidas con un peligroso depredador. A medida que el oxígeno se agota, los conf...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/4wmvU2Px3C8v3qqyNpBmgJrWQEx.jpg"
+  },
+  {
     "title": "Soulm8te (2026)",
     "location": "Un hombre adquiere un androide con Inteligencia Artificial para hacer frente a la pérdida de su esposa recientemente fallecida. En un intento por crear una pareja verdaderamente sensible, sin darse cu...",
     "author": "TMDB",
@@ -70,18 +82,6 @@
     "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg"
-  },
-  {
-    "title": "La Boca del Diablo (2026)",
-    "location": "La aventura de un grupo de amigos universitarios en Tailandia se vuelve mortal cuando quedan atrapados en unas cuevas sumergidas con un peligroso depredador. A medida que el oxígeno se agota, los conf...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/4wmvU2Px3C8v3qqyNpBmgJrWQEx.jpg"
-  },
-  {
-    "title": "El final de Oak Street (2026)",
-    "location": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervive...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg"
   },
   {
     "title": "La leyenda de Aang: El último Airbender (2026)",
@@ -102,16 +102,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg"
   },
   {
-    "title": "Secret Story (2007)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/go422YL6ytCPCZsrTCBmAJYaI72.jpg"
-  },
-  {
     "title": "Gran hermano (2001)",
     "location": "Esta serie de telerrealidad argentina forma parte de la franquicia Big Brother desarrollada por primera vez en Holanda.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/1E8PabwfDIaxREyfe9fxfINqauu.jpg"
+  },
+  {
+    "title": "Secret Story (2007)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/go422YL6ytCPCZsrTCBmAJYaI72.jpg"
   },
   {
     "title": "Watch What Happens Live with Andy Cohen (2009)",

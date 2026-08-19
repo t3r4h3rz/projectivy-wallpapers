@@ -105,7 +105,7 @@
     "title": "Linternas (2026)",
     "location": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg"
   },
   {
     "title": "The Tonight Show Starring Jimmy Fallon (2014)",
@@ -126,6 +126,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
   },
   {
+    "title": "Los Simpson (1989)",
+    "location": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastros...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg"
+  },
+  {
     "title": "Secret Story (2007)",
     "location": "",
     "author": "TMDB",
@@ -138,16 +144,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
   },
   {
-    "title": "Ted Lasso (2020)",
-    "location": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con su...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg"
-  },
-  {
     "title": "Kamen Rider (1971)",
     "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
+  },
+  {
+    "title": "Ted Lasso (2020)",
+    "location": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con su...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg"
   },
   {
     "title": "Raw (1993)",
@@ -172,11 +178,5 @@
     "location": "Urano Motuso es una joven amante de los libros que va a cumplir su sueño de trabajar como bibliotecaria. Sin embargo, durante un terremoto, muere aplastada por el colapso de una estantería de la bibli...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/2ta3O7D1Nh42nTZof9qxJCVAvwk.jpg"
-  },
-  {
-    "title": "Coronation Street (1960)",
-    "location": "Esta serie británica sigue las vidas de los residentes de la ficticia calle Coronation, situada en el gran Manchester, y que está conformada principalmente por gente de clase obrera.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg"
   }
 ]

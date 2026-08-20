@@ -120,12 +120,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/1E8PabwfDIaxREyfe9fxfINqauu.jpg"
   },
   {
-    "title": "The Tonight Show Starring Jimmy Fallon (2014)",
-    "location": "Después del segundo retiro de Jay Leno del programa, Jimmy Fallon intervino como su reemplazo permanente. Después de 42 años en Los Ángeles, el programa regresó a Nueva York.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg"
-  },
-  {
     "title": "Los Simpson (1989)",
     "location": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastros...",
     "author": "TMDB",
@@ -138,16 +132,22 @@
     "url_img": "https://image.tmdb.org/t/p/original/go422YL6ytCPCZsrTCBmAJYaI72.jpg"
   },
   {
+    "title": "All Elite Wrestling: Dynamite (2019)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg"
+  },
+  {
     "title": "Binnelanders (2005)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
   },
   {
-    "title": "All Elite Wrestling: Dynamite (2019)",
-    "location": "",
+    "title": "Futurama (1999)",
+    "location": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg"
   },
   {
     "title": "Ted Lasso (2020)",

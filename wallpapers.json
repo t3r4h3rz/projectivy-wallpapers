@@ -12,16 +12,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg"
   },
   {
-    "title": "Toy Story 5 (2026)",
-    "location": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para c...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg"
-  },
-  {
     "title": "La señal del apocalipsis (2026)",
     "location": "En un futuro caótico, Jemma, agente de una unidad especial internacional, sufre visiones inquietantes. Cuando niños desaparecen en todo el mundo, descubre un patrón ligado a una antigua profecía apoca...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/z7lZgL5tzefTfhyRtouThFhsuUS.jpg"
+  },
+  {
+    "title": "Toy Story 5 (2026)",
+    "location": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para c...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg"
   },
   {
     "title": "Colony (2026)",
@@ -45,7 +45,13 @@
     "title": "El motín (2026)",
     "location": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir u...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/jUdV706J4d3nUEbfimqVnGZqTbW.jpg"
+  },
+  {
+    "title": "Vaiana (2026)",
+    "location": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
   },
   {
     "title": "La última casa (2026)",
@@ -64,12 +70,6 @@
     "location": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervive...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg"
-  },
-  {
-    "title": "Vaiana (2026)",
-    "location": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
   },
   {
     "title": "Posesión infernal. En llamas (2026)",

@@ -162,6 +162,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg"
   },
   {
+    "title": "Secret Story (2007)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/go422YL6ytCPCZsrTCBmAJYaI72.jpg"
+  },
+  {
     "title": "El programa de Kelly Clarkson (2019)",
     "location": "",
     "author": "TMDB",
@@ -172,11 +178,5 @@
     "location": "Una terrible calamidad ha caído sobre Zhang Fan, no sólo se ha convertido en uno de los tres supervivientes de la Aldea del Templo de la Hierba, donde todos los demás fueron horriblemente masacrados, ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/5fq2lbecTwvpitm7WHfQGa0VGXh.jpg"
-  },
-  {
-    "title": "Raw (1993)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/gjRnFAQk4EVg1P1s5512FT1Lq9c.jpg"
   }
 ]

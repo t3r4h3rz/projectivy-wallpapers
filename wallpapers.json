@@ -18,22 +18,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg"
   },
   {
-    "title": "Toy Story 5 (2026)",
-    "location": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para c...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
-  },
-  {
     "title": "La señal del apocalipsis (2026)",
     "location": "En un futuro caótico, Jemma, agente de una unidad especial internacional, sufre visiones inquietantes. Cuando niños desaparecen en todo el mundo, descubre un patrón ligado a una antigua profecía apoca...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/z7lZgL5tzefTfhyRtouThFhsuUS.jpg"
   },
   {
-    "title": "Colony (2026)",
-    "location": "El profesor Se-jeong es arrojado a una pesadilla cuando un  virus en rápida mutación se libera durante una conferencia de  biotecnología, lo que lleva a las autoridades a sellar las  instalaciones. At...",
+    "title": "Toy Story 5 (2026)",
+    "location": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para c...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/84FEpVVbSKYvKXDZJDZXOKBxCEm.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
   },
   {
     "title": "Obsesión (2026)",
@@ -42,16 +36,28 @@
     "url_img": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg"
   },
   {
+    "title": "Vaiana (2026)",
+    "location": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
+  },
+  {
+    "title": "La captura (2026)",
+    "location": "2016, estado de Sinaloa. Dos policías mexicanos, durante un control rutinario en las últimas horas de su turno, detienen un coche robado y se encuentran cara a cara con uno de los delincuentes más pel...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
+  },
+  {
     "title": "Minions & Monsters (2026)",
     "location": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
   },
   {
-    "title": "Vaiana (2026)",
-    "location": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+    "title": "Colony (2026)",
+    "location": "El profesor Se-jeong es arrojado a una pesadilla cuando un  virus en rápida mutación se libera durante una conferencia de  biotecnología, lo que lleva a las autoridades a sellar las  instalaciones. At...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/84FEpVVbSKYvKXDZJDZXOKBxCEm.jpg"
   },
   {
     "title": "La muerte de Robin Hood (2026)",
@@ -66,10 +72,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg"
   },
   {
-    "title": "El final de Oak Street (2026)",
-    "location": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervive...",
+    "title": "Backrooms (2026)",
+    "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg"
   },
   {
     "title": "Posesión infernal. En llamas (2026)",
@@ -78,16 +84,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg"
   },
   {
-    "title": "Backrooms (2026)",
-    "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
+    "title": "El final de Oak Street (2026)",
+    "location": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervive...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg"
-  },
-  {
-    "title": "Rosebush Pruning (2026)",
-    "location": "En una opulenta villa española, los hermanos estadounidenses Jack, Ed, Anna y Robert se regodean en el aislamiento y en su fortuna heredada. Cuando Jack, el hermano mayor y pieza clave de la familia, ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/vcZ3UUVmFNk90DBSrTBlTKCdbbE.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg"
   },
   {
     "title": "Reacher (2022)",
@@ -120,40 +120,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/jv7E1Fr6roiVQSvql6bWqOQVDC9.jpg"
   },
   {
-    "title": "Gran hermano (2001)",
-    "location": "Esta serie de telerrealidad argentina forma parte de la franquicia Big Brother desarrollada por primera vez en Holanda.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/1E8PabwfDIaxREyfe9fxfINqauu.jpg"
-  },
-  {
     "title": "Los Simpson (1989)",
     "location": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastros...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg"
   },
   {
-    "title": "Ted Lasso (2020)",
-    "location": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con su...",
+    "title": "Gran hermano (2001)",
+    "location": "Esta serie de telerrealidad argentina forma parte de la franquicia Big Brother desarrollada por primera vez en Holanda.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg"
-  },
-  {
-    "title": "All Elite Wrestling: Dynamite (2019)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg"
-  },
-  {
-    "title": "Mushoku Tensei Jobless Reincarnation (2021)",
-    "location": "Un joven virgen \"nini\" de 34 años es echado de casa cuando se queda sin dinero. Él se arrepiente de su vida cuando muere en un accidente de tráfico. Tras el accidente, se reencarna en un bebé en un mu...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
-  },
-  {
-    "title": "Bleach (2004)",
-    "location": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/1E8PabwfDIaxREyfe9fxfINqauu.jpg"
   },
   {
     "title": "Kamen Rider (1971)",
@@ -162,10 +138,22 @@
     "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
   },
   {
-    "title": "Futurama (1999)",
-    "location": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie...",
+    "title": "Ted Lasso (2020)",
+    "location": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con su...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg"
+  },
+  {
+    "title": "Hombres en una Misión (2015)",
+    "location": "Las celebridades masculinas juegan a la fantasía como estudiantes de secundaria, dan la bienvenida a estudiantes de transferencia estelar cada semana y participan en batallas de humor ingenioso y paya...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/a8a8z4aJr40zYgRMfmSESppX2eO.jpg"
+  },
+  {
+    "title": "Jornal Nacional (1969)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/m9lBl3aEn2nGt8qHQYL2sIJbvcB.jpg"
   },
   {
     "title": "Gute Zeiten, schlechte Zeiten (1992)",
@@ -174,9 +162,21 @@
     "url_img": "https://image.tmdb.org/t/p/original/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg"
   },
   {
+    "title": "Futurama (1999)",
+    "location": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg"
+  },
+  {
     "title": "Binnelanders (2005)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
+  },
+  {
+    "title": "Goede Tijden, Slechte Tijden (1990)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/hlVfglhjnlCP5tp8hFvTQKQVaMp.jpg"
   }
 ]

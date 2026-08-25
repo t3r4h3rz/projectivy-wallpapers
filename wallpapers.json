@@ -36,28 +36,28 @@
     "url_img": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg"
   },
   {
-    "title": "Vaiana (2026)",
-    "location": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
-  },
-  {
     "title": "La captura (2026)",
     "location": "2016, estado de Sinaloa. Dos policías mexicanos, durante un control rutinario en las últimas horas de su turno, detienen un coche robado y se encuentran cara a cara con uno de los delincuentes más pel...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
   },
   {
-    "title": "Minions & Monsters (2026)",
-    "location": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar ...",
+    "title": "Vaiana (2026)",
+    "location": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
   },
   {
     "title": "Colony (2026)",
     "location": "El profesor Se-jeong es arrojado a una pesadilla cuando un  virus en rápida mutación se libera durante una conferencia de  biotecnología, lo que lleva a las autoridades a sellar las  instalaciones. At...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/84FEpVVbSKYvKXDZJDZXOKBxCEm.jpg"
+  },
+  {
+    "title": "Minions & Monsters (2026)",
+    "location": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
   },
   {
     "title": "La muerte de Robin Hood (2026)",
@@ -78,16 +78,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg"
   },
   {
-    "title": "Posesión infernal. En llamas (2026)",
-    "location": "Tras la muerte de su marido, una mujer busca consuelo junto a la familia de este en su aislada casa familiar. Pero, cuando uno a uno comienzan a convertirse en seres poseídos, el encuentro acaba convi...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg"
-  },
-  {
     "title": "El final de Oak Street (2026)",
     "location": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervive...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg"
+  },
+  {
+    "title": "Posesión infernal: En llamas (2026)",
+    "location": "Tras la muerte de su marido, una mujer busca consuelo junto a la familia de este en su aislada casa familiar. Pero, cuando uno a uno comienzan a convertirse en seres poseídos, el encuentro acaba convi...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg"
   },
   {
     "title": "Reacher (2022)",
@@ -102,34 +102,34 @@
     "url_img": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg"
   },
   {
-    "title": "Silo (2023)",
-    "location": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
-  },
-  {
     "title": "Linternas (2026)",
     "location": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg"
   },
   {
+    "title": "Silo (2023)",
+    "location": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
+  },
+  {
     "title": "Paradise Hotel (2005)",
     "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/jv7E1Fr6roiVQSvql6bWqOQVDC9.jpg"
-  },
-  {
-    "title": "Los Simpson (1989)",
-    "location": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastros...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/pLCg3tEGumMXFM6nLR7ldufvlqG.jpg"
   },
   {
     "title": "Gran hermano (2001)",
     "location": "Esta serie de telerrealidad argentina forma parte de la franquicia Big Brother desarrollada por primera vez en Holanda.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/1E8PabwfDIaxREyfe9fxfINqauu.jpg"
+  },
+  {
+    "title": "Los Simpson (1989)",
+    "location": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastros...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg"
   },
   {
     "title": "Kamen Rider (1971)",
@@ -162,12 +162,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg"
   },
   {
-    "title": "Futurama (1999)",
-    "location": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg"
-  },
-  {
     "title": "Binnelanders (2005)",
     "location": "",
     "author": "TMDB",
@@ -178,5 +172,11 @@
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/hlVfglhjnlCP5tp8hFvTQKQVaMp.jpg"
+  },
+  {
+    "title": "Secret Lives (1999)",
+    "location": "Serie de televisión finlandesa que se estrenó en MTV3 el 25 de enero de 1999. Fue la primera y hasta ahora única telenovela finlandesa.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg"
   }
 ]

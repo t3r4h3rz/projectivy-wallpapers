@@ -27,7 +27,7 @@
     "title": "Sunrise. El último amanecer (2026)",
     "location": "Basada en la aclamada novela, SUNRISE. El último amanecer presenta a Ry, una estudiante con una enfermedad crónica durante un verano en Mallorca con su madre. Tras enamorarse de Julián y empezar a viv...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/tvY4QPyopLVaRkPVOQb3Y1dyy7f.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/5lB7yPaRhJHQ9dx7AnvPUi0GZDU.jpg"
   },
   {
     "title": "La señal del apocalipsis (2026)",
@@ -36,16 +36,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/z7lZgL5tzefTfhyRtouThFhsuUS.jpg"
   },
   {
-    "title": "Obsesión (2026)",
-    "location": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg"
-  },
-  {
     "title": "Toy Story 5 (2026)",
     "location": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para c...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg"
+  },
+  {
+    "title": "Obsesión (2026)",
+    "location": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg"
   },
   {
     "title": "Vaiana (2026)",
@@ -120,12 +120,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
   },
   {
-    "title": "Paradise Hotel (2005)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/pLCg3tEGumMXFM6nLR7ldufvlqG.jpg"
-  },
-  {
     "title": "Ted Lasso (2020)",
     "location": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con su...",
     "author": "TMDB",
@@ -138,10 +132,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/m9lBl3aEn2nGt8qHQYL2sIJbvcB.jpg"
   },
   {
-    "title": "Gute Zeiten, schlechte Zeiten (1992)",
+    "title": "Paradise Hotel (2005)",
     "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/pLCg3tEGumMXFM6nLR7ldufvlqG.jpg"
   },
   {
     "title": "Kamen Rider (1971)",
@@ -150,33 +144,39 @@
     "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
   },
   {
+    "title": "Gute Zeiten, schlechte Zeiten (1992)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg"
+  },
+  {
+    "title": "El programa de Kelly Clarkson (2019)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/bk7QdAIUqkGpZO5GUX4AMB2AZIB.jpg"
+  },
+  {
+    "title": "Hombres en una Misión (2015)",
+    "location": "Las celebridades masculinas juegan a la fantasía como estudiantes de secundaria, dan la bienvenida a estudiantes de transferencia estelar cada semana y participan en batallas de humor ingenioso y paya...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/a8a8z4aJr40zYgRMfmSESppX2eO.jpg"
+  },
+  {
+    "title": "Mushoku Tensei Jobless Reincarnation (2021)",
+    "location": "Un joven virgen \"nini\" de 34 años es echado de casa cuando se queda sin dinero. Él se arrepiente de su vida cuando muere en un accidente de tráfico. Tras el accidente, se reencarna en un bebé en un mu...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
+  },
+  {
+    "title": "Bleach (2004)",
+    "location": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg"
+  },
+  {
     "title": "Futurama (1999)",
     "location": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg"
-  },
-  {
-    "title": "Goede Tijden, Slechte Tijden (1990)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/hlVfglhjnlCP5tp8hFvTQKQVaMp.jpg"
-  },
-  {
-    "title": "Secret Lives (1999)",
-    "location": "Serie de televisión finlandesa que se estrenó en MTV3 el 25 de enero de 1999. Fue la primera y hasta ahora única telenovela finlandesa.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg"
-  },
-  {
-    "title": "Binnelanders (2005)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
-  },
-  {
-    "title": "Match of the Day (1964)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/3EGjqKhVHGsvNHvBIbxmqS17Aal.jpg"
   }
 ]

@@ -48,12 +48,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg"
   },
   {
-    "title": "Tóxico: Un cuento de hadas para adultos (2026)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg"
-  },
-  {
     "title": "Vaiana (2026)",
     "location": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
     "author": "TMDB",
@@ -90,22 +84,28 @@
     "url_img": "https://image.tmdb.org/t/p/original/84FEpVVbSKYvKXDZJDZXOKBxCEm.jpg"
   },
   {
+    "title": "La muerte de Robin Hood (2026)",
+    "location": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg"
+  },
+  {
     "title": "Reacher (2022)",
     "location": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y p...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg"
   },
   {
-    "title": "Operaciones Especiales: Lioness (2023)",
-    "location": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg"
-  },
-  {
     "title": "Silo (2023)",
     "location": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
+  },
+  {
+    "title": "Operaciones Especiales: Lioness (2023)",
+    "location": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg"
   },
   {
     "title": "Linternas (2026)",
@@ -156,6 +156,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/bk7QdAIUqkGpZO5GUX4AMB2AZIB.jpg"
   },
   {
+    "title": "Cuando empiece la primavera (2026)",
+    "location": "El recién graduado Shang Zhitao se une como novato a una importante agencia de publicidad mundial. Su directo jefe, Luan Nian, le dice que deje de fumar desde el primer día, pero ella persevera a pesa...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+  },
+  {
     "title": "Bleach (2004)",
     "location": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D...",
     "author": "TMDB",
@@ -172,11 +178,5 @@
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg"
-  },
-  {
-    "title": "Hombres en una Misión (2015)",
-    "location": "Las celebridades masculinas juegan a la fantasía como estudiantes de secundaria, dan la bienvenida a estudiantes de transferencia estelar cada semana y participan en batallas de humor ingenioso y paya...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/a8a8z4aJr40zYgRMfmSESppX2eO.jpg"
   }
 ]

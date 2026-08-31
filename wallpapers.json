@@ -78,16 +78,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
   },
   {
-    "title": "Backrooms (2026)",
-    "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg"
-  },
-  {
     "title": "Rosebush Pruning (2026)",
     "location": "En una opulenta villa española, los hermanos estadounidenses Jack, Ed, Anna y Robert se regodean en el aislamiento y en su fortuna heredada. Cuando Jack, el hermano mayor y pieza clave de la familia, ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/vcZ3UUVmFNk90DBSrTBlTKCdbbE.jpg"
+  },
+  {
+    "title": "Backrooms (2026)",
+    "location": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg"
   },
   {
     "title": "Reacher (2022)",
@@ -96,16 +96,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg"
   },
   {
-    "title": "Silo (2023)",
-    "location": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
-  },
-  {
     "title": "Operaciones Especiales: Lioness (2023)",
     "location": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg"
+  },
+  {
+    "title": "Silo (2023)",
+    "location": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
   },
   {
     "title": "Linternas (2026)",
@@ -120,6 +120,18 @@
     "url_img": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg"
   },
   {
+    "title": "รักสุดใจนายแฟนบอย (2026)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/4wsQ7ZvIBscpWupLPFltfKv0Ca8.jpg"
+  },
+  {
+    "title": "The Rachel Maddow Show (2008)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/lrKyCG1DSJHvpJsw7YozU3e4ydV.jpg"
+  },
+  {
     "title": "Jornal Nacional (1969)",
     "location": "",
     "author": "TMDB",
@@ -132,28 +144,22 @@
     "url_img": "https://image.tmdb.org/t/p/original/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg"
   },
   {
-    "title": "Kamen Rider (1971)",
-    "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
-  },
-  {
-    "title": "Paradise Hotel (2005)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/pLCg3tEGumMXFM6nLR7ldufvlqG.jpg"
-  },
-  {
-    "title": "Cuando empiece la primavera (2026)",
-    "location": "El recién graduado Shang Zhitao se une como novato a una importante agencia de publicidad mundial. Su directo jefe, Luan Nian, le dice que deje de fumar desde el primer día, pero ella persevera a pesa...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
-  },
-  {
     "title": "Mushoku Tensei Jobless Reincarnation (2021)",
     "location": "Un joven virgen \"nini\" de 34 años es echado de casa cuando se queda sin dinero. Él se arrepiente de su vida cuando muere en un accidente de tráfico. Tras el accidente, se reencarna en un bebé en un mu...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
+  },
+  {
+    "title": "Hombres en una Misión (2015)",
+    "location": "Las celebridades masculinas juegan a la fantasía como estudiantes de secundaria, dan la bienvenida a estudiantes de transferencia estelar cada semana y participan en batallas de humor ingenioso y paya...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/a8a8z4aJr40zYgRMfmSESppX2eO.jpg"
+  },
+  {
+    "title": "El programa de Kelly Clarkson (2019)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/bk7QdAIUqkGpZO5GUX4AMB2AZIB.jpg"
   },
   {
     "title": "Los Jóvenes Titanes en Acción (2013)",
@@ -168,15 +174,9 @@
     "url_img": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg"
   },
   {
-    "title": "All Elite Wrestling: Dynamite (2019)",
+    "title": "Paradise Hotel (2005)",
     "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg"
-  },
-  {
-    "title": "El programa de Kelly Clarkson (2019)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/bk7QdAIUqkGpZO5GUX4AMB2AZIB.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/pLCg3tEGumMXFM6nLR7ldufvlqG.jpg"
   }
 ]

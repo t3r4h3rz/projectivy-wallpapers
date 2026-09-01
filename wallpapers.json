@@ -48,16 +48,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg"
   },
   {
-    "title": "Pinocho esta Desquiciado (2026)",
-    "location": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/dNKFETDDujxm2PUN873Jwiw5VML.jpg"
-  },
-  {
     "title": "Toy Story 5 (2026)",
     "location": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para c...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg"
+  },
+  {
+    "title": "Pinocho: Desatado (2026)",
+    "location": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/dNKFETDDujxm2PUN873Jwiw5VML.jpg"
   },
   {
     "title": "Susurran tu nombre (2026)",
@@ -78,16 +78,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
   },
   {
+    "title": "Coyote vs. Acme (2026)",
+    "location": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg"
+  },
+  {
     "title": "Colony (2026)",
     "location": "El profesor Se-jeong es arrojado a una pesadilla cuando un  virus en rápida mutación se libera durante una conferencia de  biotecnología, lo que lleva a las autoridades a sellar las  instalaciones. At...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/bC2Ho27PQDAVVVmFe285ClOEyGm.jpg"
-  },
-  {
-    "title": "Ghost in the Cell (2026)",
-    "location": "En una conocida prisión, una fuerza invisible comienza a matar brutalmente a los reclusos, obligando a las bandas enemigas y a los guardias corruptos a trabajar juntos mientras intentan sobrevivir al ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg"
   },
   {
     "title": "Reacher (2022)",
@@ -108,16 +108,22 @@
     "url_img": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
   },
   {
+    "title": "Linternas (2026)",
+    "location": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg"
+  },
+  {
     "title": "Gran hermano (2001)",
     "location": "Esta serie de telerrealidad argentina forma parte de la franquicia Big Brother desarrollada por primera vez en Holanda.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/1E8PabwfDIaxREyfe9fxfINqauu.jpg"
   },
   {
-    "title": "Linternas (2026)",
-    "location": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó...",
+    "title": "Watch What Happens Live with Andy Cohen (2009)",
+    "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
   },
   {
     "title": "Ted Lasso (2020)",
@@ -168,15 +174,9 @@
     "url_img": "https://image.tmdb.org/t/p/original/a8a8z4aJr40zYgRMfmSESppX2eO.jpg"
   },
   {
-    "title": "El programa de Kelly Clarkson (2019)",
-    "location": "",
+    "title": "The Daily Show (1996)",
+    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/bk7QdAIUqkGpZO5GUX4AMB2AZIB.jpg"
-  },
-  {
-    "title": "Los Jóvenes Titanes en Acción (2013)",
-    "location": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las si...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
   }
 ]

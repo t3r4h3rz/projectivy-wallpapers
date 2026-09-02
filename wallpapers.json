@@ -3,7 +3,7 @@
     "title": "Spider-Man: Brand New Day (2026)",
     "location": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama....",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg"
   },
   {
     "title": "La Odisea (2026)",
@@ -42,10 +42,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg"
   },
   {
-    "title": "Obsesión (2026)",
-    "location": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una...",
+    "title": "Susurran tu nombre (2026)",
+    "location": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
   },
   {
     "title": "Pinocho: Desatado (2026)",
@@ -54,16 +54,22 @@
     "url_img": "https://image.tmdb.org/t/p/original/dNKFETDDujxm2PUN873Jwiw5VML.jpg"
   },
   {
-    "title": "Susurran tu nombre (2026)",
-    "location": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
+    "title": "Obsesión (2026)",
+    "location": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg"
   },
   {
     "title": "La señal del apocalipsis (2026)",
     "location": "En un futuro caótico, Jemma, agente de una unidad especial internacional, sufre visiones inquietantes. Cuando niños desaparecen en todo el mundo, descubre un patrón ligado a una antigua profecía apoca...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/z7lZgL5tzefTfhyRtouThFhsuUS.jpg"
+  },
+  {
+    "title": "Minions & Monsters (2026)",
+    "location": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
   },
   {
     "title": "Colony (2026)",
@@ -76,12 +82,6 @@
     "location": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
-  },
-  {
-    "title": "Minions & Monsters (2026)",
-    "location": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
   },
   {
     "title": "Ghost in the Cell (2026)",
@@ -138,18 +138,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
   },
   {
-    "title": "Hombres en una Misión (2015)",
-    "location": "Las celebridades masculinas juegan a la fantasía como estudiantes de secundaria, dan la bienvenida a estudiantes de transferencia estelar cada semana y participan en batallas de humor ingenioso y paya...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/a8a8z4aJr40zYgRMfmSESppX2eO.jpg"
-  },
-  {
-    "title": "The Daily Show (1996)",
-    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
-  },
-  {
     "title": "รักสุดใจนายแฟนบอย (2026)",
     "location": "",
     "author": "TMDB",
@@ -172,6 +160,18 @@
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg"
+  },
+  {
+    "title": "The Daily Show (1996)",
+    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
+  },
+  {
+    "title": "Hombres en una Misión (2015)",
+    "location": "Las celebridades masculinas juegan a la fantasía como estudiantes de secundaria, dan la bienvenida a estudiantes de transferencia estelar cada semana y participan en batallas de humor ingenioso y paya...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/a8a8z4aJr40zYgRMfmSESppX2eO.jpg"
   },
   {
     "title": "Bleach (2004)",

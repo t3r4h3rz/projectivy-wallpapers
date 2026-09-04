@@ -18,28 +18,34 @@
     "url_img": "https://image.tmdb.org/t/p/original/qDa0fqDqIBCovRp975RvtGPcuN3.jpg"
   },
   {
-    "title": "Sunrise. El último amanecer (2026)",
-    "location": "Basada en la aclamada novela, SUNRISE. El último amanecer presenta a Ry, una estudiante con una enfermedad crónica durante un verano en Mallorca con su madre. Tras enamorarse de Julián y empezar a viv...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg"
-  },
-  {
     "title": "Coyote vs. Acme (2026)",
     "location": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg"
   },
   {
-    "title": "Tóxico: Un cuento de hadas para adultos (2026)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg"
-  },
-  {
     "title": "La captura (2026)",
     "location": "2016, estado de Sinaloa. Dos policías mexicanos, durante un control rutinario en las últimas horas de su turno, detienen un coche robado y se encuentran cara a cara con uno de los delincuentes más pel...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
+  },
+  {
+    "title": "Sunrise. El último amanecer (2026)",
+    "location": "Basada en la aclamada novela, SUNRISE. El último amanecer presenta a Ry, una estudiante con una enfermedad crónica durante un verano en Mallorca con su madre. Tras enamorarse de Julián y empezar a viv...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg"
+  },
+  {
+    "title": "A la carrera (2026)",
+    "location": "En el thriller psicológico A la carrera, Maia Marten, una brillante abogada londinense, ve cómo su vida se desmorona tras recibir una llamada durante su carrera matutina: han secuestrado a su hijo. Pa...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/ziXF8wIBguHNCeplNthUlDTCZP8.jpg"
+  },
+  {
+    "title": "Tóxico: Un cuento de hadas para adultos (2026)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg"
   },
   {
     "title": "Susurran tu nombre (2026)",
@@ -84,12 +90,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
   },
   {
-    "title": "Vaiana (2026)",
-    "location": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
-  },
-  {
     "title": "Reacher (2022)",
     "location": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y p...",
     "author": "TMDB",
@@ -100,12 +100,6 @@
     "location": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg"
-  },
-  {
-    "title": "Silo (2023)",
-    "location": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
   },
   {
     "title": "Ted Lasso (2020)",
@@ -130,6 +124,12 @@
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
+  },
+  {
+    "title": "Solo en casa (2013)",
+    "location": "Puede ser una insignia de honor estar \"soltero\". “I Live Alone” es una serie de telerrealidad surcoreana de estilo documental que sigue a los miembros de un club autoformado llamado Rainbow, que está ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg"
   },
   {
     "title": "Cuando empiece la primavera (2026)",

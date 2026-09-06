@@ -72,6 +72,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg"
   },
   {
+    "title": "Mayday (2026)",
+    "location": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exag...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/7SD2DK6xR7ls0Vc44sHgcWh3pbN.jpg"
+  },
+  {
     "title": "La señal del apocalipsis (2026)",
     "location": "En un futuro caótico, Jemma, agente de una unidad especial internacional, sufre visiones inquietantes. Cuando niños desaparecen en todo el mundo, descubre un patrón ligado a una antigua profecía apoca...",
     "author": "TMDB",
@@ -82,12 +88,6 @@
     "location": "Un grupo de amigos se embarca en unas vacaciones inolvidables. Lo que empieza como una aventura de fiestas y buceo, pronto se convierte en una pesadilla cuando son atacados por criminales en mar abier...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg"
-  },
-  {
-    "title": "Minions & Monsters (2026)",
-    "location": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
   },
   {
     "title": "Watch What Happens Live with Andy Cohen (2009)",
@@ -126,6 +126,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg"
   },
   {
+    "title": "Padre made in USA (2005)",
+    "location": "Padre made in USA, es una serie de televisión de animación para adolescentes y adultos del creador de Padre de familia, Seth MacFarlane.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/iixxhk3ycXmFqBn616pAsC3lu53.jpg"
+  },
+  {
     "title": "Linternas (2026)",
     "location": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó...",
     "author": "TMDB",
@@ -156,12 +162,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg"
   },
   {
-    "title": "Cuando empiece la primavera (2026)",
-    "location": "El recién graduado Shang Zhitao se une como novato a una importante agencia de publicidad mundial. Su directo jefe, Luan Nian, le dice que deje de fumar desde el primer día, pero ella persevera a pesa...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
-  },
-  {
     "title": "The Daily Show (1996)",
     "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
     "author": "TMDB",
@@ -174,9 +174,9 @@
     "url_img": "https://image.tmdb.org/t/p/original/g4qh9J4Z7d1kSTJN4ZorQr5JinH.jpg"
   },
   {
-    "title": "Good Mythical Morning (2012)",
-    "location": "",
+    "title": "Cuando empiece la primavera (2026)",
+    "location": "El recién graduado Shang Zhitao se une como novato a una importante agencia de publicidad mundial. Su directo jefe, Luan Nian, le dice que deje de fumar desde el primer día, pero ella persevera a pesa...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
   }
 ]

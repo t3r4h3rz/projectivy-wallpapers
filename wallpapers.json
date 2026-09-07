@@ -15,7 +15,7 @@
     "title": "Coyote vs. Acme (2026)",
     "location": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/7GOW6jod9lLurW5utokAatxg7ql.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg"
   },
   {
     "title": "El motín (2026)",
@@ -33,7 +33,19 @@
     "title": "Colony (2026)",
     "location": "El profesor Se-jeong es arrojado a una pesadilla cuando un  virus en rápida mutación se libera durante una conferencia de  biotecnología, lo que lleva a las autoridades a sellar las  instalaciones. At...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/qBZd6U5yDI922M2d2lACM1uhK4W.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg"
+  },
+  {
+    "title": "Ghost in the Cell (2026)",
+    "location": "En una conocida prisión, una fuerza invisible comienza a matar brutalmente a los reclusos, obligando a las bandas enemigas y a los guardias corruptos a trabajar juntos mientras intentan sobrevivir al ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg"
+  },
+  {
+    "title": "Mayday (2026)",
+    "location": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exag...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/4gyx49ibwQslyrwuUS1c58PJEEd.jpg"
   },
   {
     "title": "Obsesión (2026)",
@@ -48,12 +60,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg"
   },
   {
-    "title": "Ghost in the Cell (2026)",
-    "location": "En una conocida prisión, una fuerza invisible comienza a matar brutalmente a los reclusos, obligando a las bandas enemigas y a los guardias corruptos a trabajar juntos mientras intentan sobrevivir al ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg"
-  },
-  {
     "title": "La captura (2026)",
     "location": "2016, estado de Sinaloa. Dos policías mexicanos, durante un control rutinario en las últimas horas de su turno, detienen un coche robado y se encuentran cara a cara con uno de los delincuentes más pel...",
     "author": "TMDB",
@@ -64,12 +70,6 @@
     "location": "Chloe, la hermana pequeña, desarrolla de repente un poder energético impredecible, y la Liga de Héroes exige enviarla a un internado de alta seguridad. La familia se divide: unos quieren entregarla po...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/tBZMwg5oCJn8P0pStfuOMhhSQD3.jpg"
-  },
-  {
-    "title": "Mayday (2026)",
-    "location": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exag...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/5N456LS26jNCKYMcJWbEeDsvKWf.jpg"
   },
   {
     "title": "Tóxico: Un cuento de hadas para adultos (2026)",
@@ -144,22 +144,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg"
   },
   {
-    "title": "Los Jóvenes Titanes en Acción (2013)",
-    "location": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las si...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg"
-  },
-  {
     "title": "Kamen Rider (1971)",
     "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
   },
   {
-    "title": "Cuando empiece la primavera (2026)",
-    "location": "El recién graduado Shang Zhitao se une como novato a una importante agencia de publicidad mundial. Su directo jefe, Luan Nian, le dice que deje de fumar desde el primer día, pero ella persevera a pesa...",
+    "title": "Los Jóvenes Titanes en Acción (2013)",
+    "location": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las si...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg"
   },
   {
     "title": "The Daily Show (1996)",
@@ -168,15 +162,21 @@
     "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
   },
   {
+    "title": "Mushoku Tensei Jobless Reincarnation (2021)",
+    "location": "Un joven virgen \"nini\" de 34 años es echado de casa cuando se queda sin dinero. Él se arrepiente de su vida cuando muere en un accidente de tráfico. Tras el accidente, se reencarna en un bebé en un mu...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
+  },
+  {
+    "title": "Cuando empiece la primavera (2026)",
+    "location": "El recién graduado Shang Zhitao se une como novato a una importante agencia de publicidad mundial. Su directo jefe, Luan Nian, le dice que deje de fumar desde el primer día, pero ella persevera a pesa...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
+  },
+  {
     "title": "Bleach (2004)",
     "location": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg"
-  },
-  {
-    "title": "Demain nous appartient (2017)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/g4qh9J4Z7d1kSTJN4ZorQr5JinH.jpg"
   }
 ]

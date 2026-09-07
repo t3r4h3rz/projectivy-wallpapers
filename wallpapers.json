@@ -6,16 +6,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg"
   },
   {
-    "title": "La Odisea (2026)",
-    "location": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentar...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg"
-  },
-  {
     "title": "Coyote vs. Acme (2026)",
     "location": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg"
+  },
+  {
+    "title": "La Odisea (2026)",
+    "location": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentar...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg"
   },
   {
     "title": "El motín (2026)",
@@ -48,10 +48,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/4gyx49ibwQslyrwuUS1c58PJEEd.jpg"
   },
   {
-    "title": "Obsesión (2026)",
+    "title": "Obsession (2026)",
     "location": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg"
+  },
+  {
+    "title": "Furia de los Thunderman (2026)",
+    "location": "Chloe, la hermana pequeña, desarrolla de repente un poder energético impredecible, y la Liga de Héroes exige enviarla a un internado de alta seguridad. La familia se divide: unos quieren entregarla po...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/tBZMwg5oCJn8P0pStfuOMhhSQD3.jpg"
   },
   {
     "title": "Sunrise. El último amanecer (2026)",
@@ -66,22 +72,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg"
   },
   {
-    "title": "Furia de los Thunderman (2026)",
-    "location": "Chloe, la hermana pequeña, desarrolla de repente un poder energético impredecible, y la Liga de Héroes exige enviarla a un internado de alta seguridad. La familia se divide: unos quieren entregarla po...",
+    "title": "Above & Below (2026)",
+    "location": "Un grupo de amigos se embarca en unas vacaciones inolvidables. Lo que empieza como una aventura de fiestas y buceo, pronto se convierte en una pesadilla cuando son atacados por criminales en mar abier...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/tBZMwg5oCJn8P0pStfuOMhhSQD3.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg"
   },
   {
-    "title": "Tóxico: Un cuento de hadas para adultos (2026)",
-    "location": "En el paraíso costero de Goa, un poderoso cártel de la droga mueve los hilos tras una fachada de playas bañadas por el sol y vibrante cultura. A medida que las rutas del contrabando se convierten en c...",
+    "title": "La señal del apocalipsis (2026)",
+    "location": "En un futuro caótico, Jemma, agente de una unidad especial internacional, sufre visiones inquietantes. Cuando niños desaparecen en todo el mundo, descubre un patrón ligado a una antigua profecía apoca...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg"
-  },
-  {
-    "title": "Susurran tu nombre (2026)",
-    "location": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/z7lZgL5tzefTfhyRtouThFhsuUS.jpg"
   },
   {
     "title": "Minions & Monsters (2026)",
@@ -111,13 +111,19 @@
     "title": "Ted Lasso (2020)",
     "location": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con su...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/4bG49jVR7NrCNQjahDUsDqvIwle.jpg"
   },
   {
     "title": "Coronation Street (1960)",
     "location": "Esta serie británica sigue las vidas de los residentes de la ficticia calle Coronation, situada en el gran Manchester, y que está conformada principalmente por gente de clase obrera.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg"
+  },
+  {
+    "title": "Solo en casa (2013)",
+    "location": "Puede ser una insignia de honor estar \"soltero\". “I Live Alone” es una serie de telerrealidad surcoreana de estilo documental que sigue a los miembros de un club autoformado llamado Rainbow, que está ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg"
   },
   {
     "title": "Linternas (2026)",
@@ -132,34 +138,34 @@
     "url_img": "https://image.tmdb.org/t/p/original/1E8PabwfDIaxREyfe9fxfINqauu.jpg"
   },
   {
-    "title": "Padre made in USA (2005)",
-    "location": "Padre made in USA, es una serie de televisión de animación para adolescentes y adultos del creador de Padre de familia, Seth MacFarlane.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/iixxhk3ycXmFqBn616pAsC3lu53.jpg"
-  },
-  {
-    "title": "Solo en casa (2013)",
-    "location": "Puede ser una insignia de honor estar \"soltero\". “I Live Alone” es una serie de telerrealidad surcoreana de estilo documental que sigue a los miembros de un club autoformado llamado Rainbow, que está ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg"
-  },
-  {
     "title": "Kamen Rider (1971)",
     "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
   },
   {
-    "title": "Los Jóvenes Titanes en Acción (2013)",
-    "location": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las si...",
+    "title": "Padre made in USA (2005)",
+    "location": "Padre made in USA, es una serie de televisión de animación para adolescentes y adultos del creador de Padre de familia, Seth MacFarlane.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/iixxhk3ycXmFqBn616pAsC3lu53.jpg"
+  },
+  {
+    "title": "Hombres en una Misión (2015)",
+    "location": "Las celebridades masculinas juegan a la fantasía como estudiantes de secundaria, dan la bienvenida a estudiantes de transferencia estelar cada semana y participan en batallas de humor ingenioso y paya...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/a8a8z4aJr40zYgRMfmSESppX2eO.jpg"
   },
   {
     "title": "The Daily Show (1996)",
     "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
+  },
+  {
+    "title": "Los Jóvenes Titanes en Acción (2013)",
+    "location": "Teen Titans Go! es una serie de animación que sigue las aventuras de los Jóvenes Titanes cuando no están salvando el mundo mientras viven juntos como adolescentes sin adultos que se entrometan. Las si...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg"
   },
   {
     "title": "Mushoku Tensei Jobless Reincarnation (2021)",
@@ -172,11 +178,5 @@
     "location": "El recién graduado Shang Zhitao se une como novato a una importante agencia de publicidad mundial. Su directo jefe, Luan Nian, le dice que deje de fumar desde el primer día, pero ella persevera a pesa...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg"
-  },
-  {
-    "title": "Bleach (2004)",
-    "location": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg"
   }
 ]

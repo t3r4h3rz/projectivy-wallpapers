@@ -150,22 +150,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
   },
   {
-    "title": "Ted Lasso (2020)",
-    "location": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con su...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/4bG49jVR7NrCNQjahDUsDqvIwle.jpg"
-  },
-  {
     "title": "Gran hermano (2001)",
     "location": "Esta serie de telerrealidad argentina forma parte de la franquicia Big Brother desarrollada por primera vez en Holanda.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/1E8PabwfDIaxREyfe9fxfINqauu.jpg"
   },
   {
-    "title": "The Daily Show (1996)",
-    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
+    "title": "Ted Lasso (2020)",
+    "location": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con su...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/4bG49jVR7NrCNQjahDUsDqvIwle.jpg"
   },
   {
     "title": "Good Mythical Morning (2012)",
@@ -178,5 +172,11 @@
     "location": "Padre made in USA, es una serie de televisión de animación para adolescentes y adultos del creador de Padre de familia, Seth MacFarlane.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/iixxhk3ycXmFqBn616pAsC3lu53.jpg"
+  },
+  {
+    "title": "The Daily Show (1996)",
+    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
   }
 ]

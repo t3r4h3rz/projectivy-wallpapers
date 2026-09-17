@@ -15,7 +15,7 @@
     "title": "La Odisea (2026)",
     "location": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentar...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/iuylzRSllrGn7YB322kwKoOVMcq.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg"
   },
   {
     "title": "El final de Oak Street (2026)",
@@ -90,12 +90,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg"
   },
   {
-    "title": "Reacher (2022)",
-    "location": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y p...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg"
-  },
-  {
     "title": "Watch What Happens Live with Andy Cohen (2009)",
     "location": "",
     "author": "TMDB",
@@ -138,22 +132,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg"
   },
   {
-    "title": "Emmerdale (1972)",
-    "location": "Telenovela británica ambientada en un pueblo ficticio de Yorkshire.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/kkyrixKwSU6fHCUOD9QJj6XKYmi.jpg"
-  },
-  {
     "title": "The Daily Show (1996)",
     "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
-  },
-  {
-    "title": "Coronation Street (1960)",
-    "location": "Esta serie británica sigue las vidas de los residentes de la ficticia calle Coronation, situada en el gran Manchester, y que está conformada principalmente por gente de clase obrera.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg"
   },
   {
     "title": "Gute Zeiten, schlechte Zeiten (1992)",
@@ -178,5 +160,23 @@
     "location": "Puede ser una insignia de honor estar \"soltero\". “I Live Alone” es una serie de telerrealidad surcoreana de estilo documental que sigue a los miembros de un club autoformado llamado Rainbow, que está ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg"
+  },
+  {
+    "title": "Coronation Street (1960)",
+    "location": "Esta serie británica sigue las vidas de los residentes de la ficticia calle Coronation, situada en el gran Manchester, y que está conformada principalmente por gente de clase obrera.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg"
+  },
+  {
+    "title": "Binnelanders (2005)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
+  },
+  {
+    "title": "Emmerdale (1972)",
+    "location": "Telenovela británica ambientada en un pueblo ficticio de Yorkshire.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/kkyrixKwSU6fHCUOD9QJj6XKYmi.jpg"
   }
 ]

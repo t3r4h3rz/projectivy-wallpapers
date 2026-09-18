@@ -30,16 +30,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg"
   },
   {
-    "title": "Vaiana (2026)",
-    "location": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para de...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
-  },
-  {
     "title": "Resident Evil (2026)",
     "location": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la superviv...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg"
+  },
+  {
+    "title": "Vaiana (2026)",
+    "location": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para de...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
   },
   {
     "title": "Enfrentados: Marfil (2026)",
@@ -84,10 +84,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg"
   },
   {
-    "title": "Furia de los Thunderman (2026)",
-    "location": "Chloe, la hermana pequeña, desarrolla de repente un poder energético impredecible, y la Liga de Héroes exige enviarla a un internado de alta seguridad. La familia se divide: unos quieren entregarla po...",
+    "title": "Pinocho: Desatado (2026)",
+    "location": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo ...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/tBZMwg5oCJn8P0pStfuOMhhSQD3.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/dNKFETDDujxm2PUN873Jwiw5VML.jpg"
   },
   {
     "title": "Watch What Happens Live with Andy Cohen (2009)",
@@ -102,10 +102,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg"
   },
   {
-    "title": "Demain nous appartient (2017)",
-    "location": "",
+    "title": "Hombres en una Misión (2015)",
+    "location": "Las celebridades masculinas juegan a la fantasía como estudiantes de secundaria, dan la bienvenida a estudiantes de transferencia estelar cada semana y participan en batallas de humor ingenioso y paya...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/g4qh9J4Z7d1kSTJN4ZorQr5JinH.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/a8a8z4aJr40zYgRMfmSESppX2eO.jpg"
   },
   {
     "title": "Kamen Rider (1971)",
@@ -120,16 +120,34 @@
     "url_img": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg"
   },
   {
+    "title": "Demain nous appartient (2017)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/g4qh9J4Z7d1kSTJN4ZorQr5JinH.jpg"
+  },
+  {
+    "title": "The Daily Show (1996)",
+    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
+  },
+  {
+    "title": "Emmerdale (1972)",
+    "location": "Telenovela británica ambientada en un pueblo ficticio de Yorkshire.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/kkyrixKwSU6fHCUOD9QJj6XKYmi.jpg"
+  },
+  {
     "title": "Linternas (2026)",
     "location": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg"
   },
   {
-    "title": "Hombres en una Misión (2015)",
-    "location": "Las celebridades masculinas juegan a la fantasía como estudiantes de secundaria, dan la bienvenida a estudiantes de transferencia estelar cada semana y participan en batallas de humor ingenioso y paya...",
+    "title": "Jeopardy! (1984)",
+    "location": "Jeopardy! es un concurso de televisión estadounidense creado por Merv Griffin. Es un concurso de conocimientos con preguntas sobre numerosos temas como historia, idiomas, literatura, cultura popular, ...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/a8a8z4aJr40zYgRMfmSESppX2eO.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg"
   },
   {
     "title": "Coronation Street (1960)",
@@ -144,16 +162,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/8NIvQY34tNPc4txNeym2zEYk9ek.jpg"
   },
   {
-    "title": "Emmerdale (1972)",
-    "location": "Telenovela británica ambientada en un pueblo ficticio de Yorkshire.",
+    "title": "Solo en casa (2013)",
+    "location": "Puede ser una insignia de honor estar \"soltero\". “I Live Alone” es una serie de telerrealidad surcoreana de estilo documental que sigue a los miembros de un club autoformado llamado Rainbow, que está ...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/kkyrixKwSU6fHCUOD9QJj6XKYmi.jpg"
-  },
-  {
-    "title": "The Daily Show (1996)",
-    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg"
   },
   {
     "title": "Gute Zeiten, schlechte Zeiten (1992)",
@@ -166,17 +178,5 @@
     "location": "Un joven virgen \"nini\" de 34 años es echado de casa cuando se queda sin dinero. Él se arrepiente de su vida cuando muere en un accidente de tráfico. Tras el accidente, se reencarna en un bebé en un mu...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
-  },
-  {
-    "title": "Late Night with Seth Meyers (2014)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg"
-  },
-  {
-    "title": "Jeopardy! (1984)",
-    "location": "Jeopardy! es un concurso de televisión estadounidense creado por Merv Griffin. Es un concurso de conocimientos con preguntas sobre numerosos temas como historia, idiomas, literatura, cultura popular, ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg"
   }
 ]

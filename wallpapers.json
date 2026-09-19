@@ -42,12 +42,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
   },
   {
-    "title": "Enfrentados: Marfil (2026)",
-    "location": "Parte 1 de la saga Enfrentados. Marfil, hija de un poderoso empresario español, ve cómo su vida en Nueva York da un vuelco al ser secuestrada y liberada sin explicación. Su padre contrata a Sebastian ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/i65y7cMae36K0giN0GRaMjAHUru.jpg"
-  },
-  {
     "title": "Zip Wire (2026)",
     "location": "Cuando le roban su revolucionario descubrimiento farmacéutico y asesinan a su compañero, la investigadora Amy debe enfrentarse a su miedo a las alturas para escapar de unos atacantes sin escrúpulos, s...",
     "author": "TMDB",
@@ -60,22 +54,28 @@
     "url_img": "https://image.tmdb.org/t/p/original/jzBWExXacS33rMQ2zLBrqIVweyG.jpg"
   },
   {
+    "title": "Enfrentados: Marfil (2026)",
+    "location": "Parte 1 de la saga Enfrentados. Marfil, hija de un poderoso empresario español, ve cómo su vida en Nueva York da un vuelco al ser secuestrada y liberada sin explicación. Su padre contrata a Sebastian ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/i65y7cMae36K0giN0GRaMjAHUru.jpg"
+  },
+  {
     "title": "Vishwanath e hijos (2026)",
     "location": "Un famoso campeón de tiro olímpico viaja a los Estados Unidos en busca de un donante para su hijo, pero un romance inesperado complica su misión.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg"
   },
   {
-    "title": "Mayday (2026)",
-    "location": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exag...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg"
-  },
-  {
     "title": "Obsession (2026)",
     "location": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg"
+  },
+  {
+    "title": "Mayday (2026)",
+    "location": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exag...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg"
   },
   {
     "title": "Ghost in the Cell (2026)",

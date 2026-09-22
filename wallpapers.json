@@ -1,15 +1,15 @@
 [
   {
-    "title": "El final de Oak Street (2026)",
-    "location": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervive...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg"
-  },
-  {
     "title": "Resident Evil (2026)",
     "location": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la superviv...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg"
+  },
+  {
+    "title": "El final de Oak Street (2026)",
+    "location": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervive...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg"
   },
   {
     "title": "Coyote vs. Acme (2026)",
@@ -84,10 +84,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg"
   },
   {
-    "title": "Mayday (2026)",
-    "location": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exag...",
+    "title": "Ghost in the Cell (2026)",
+    "location": "En una conocida prisión, una fuerza invisible comienza a matar brutalmente a los reclusos, obligando a las bandas enemigas y a los guardias corruptos a trabajar juntos mientras intentan sobrevivir al ...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg"
   },
   {
     "title": "Watch What Happens Live with Andy Cohen (2009)",
@@ -138,6 +138,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
   },
   {
+    "title": "Linternas (2026)",
+    "location": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg"
+  },
+  {
     "title": "Jeopardy! (1984)",
     "location": "Jeopardy! es un concurso de televisión estadounidense creado por Merv Griffin. Es un concurso de conocimientos con preguntas sobre numerosos temas como historia, idiomas, literatura, cultura popular, ...",
     "author": "TMDB",
@@ -162,21 +168,15 @@
     "url_img": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg"
   },
   {
+    "title": "Tierra de mafiosos (2025)",
+    "location": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vid...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg"
+  },
+  {
     "title": "Solo en casa (2013)",
     "location": "Puede ser una insignia de honor estar \"soltero\". “I Live Alone” es una serie de telerrealidad surcoreana de estilo documental que sigue a los miembros de un club autoformado llamado Rainbow, que está ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg"
-  },
-  {
-    "title": "Mushoku Tensei Jobless Reincarnation (2021)",
-    "location": "Un joven virgen \"nini\" de 34 años es echado de casa cuando se queda sin dinero. Él se arrepiente de su vida cuando muere en un accidente de tráfico. Tras el accidente, se reencarna en un bebé en un mu...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
-  },
-  {
-    "title": "Tierra de mafiosos (2025)",
-    "location": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vid...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/vW6oPZEdqxZyQIYimouqA5b78mT.jpg"
   }
 ]

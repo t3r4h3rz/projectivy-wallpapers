@@ -72,16 +72,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/jzBWExXacS33rMQ2zLBrqIVweyG.jpg"
   },
   {
-    "title": "Minions & Monsters (2026)",
-    "location": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
-  },
-  {
     "title": "Adolescencia, sexo y muerte en campamento Miasma (2026)",
     "location": "Tras años de secuelas cutres y un fandom en declive, la franquicia slasher 'Camp Miasma' es puesta en manos de una joven y entusiasta directora para que la resucite. Pero cuando visita a la estrella d...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/d1n2ySWSanU34eEsluRjfrjRq52.jpg"
+  },
+  {
+    "title": "Minions & Monsters (2026)",
+    "location": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
   },
   {
     "title": "Mayday (2026)",
@@ -105,7 +105,7 @@
     "title": "Los Simpson (1989)",
     "location": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastros...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/ncQ8D4j8GSuL9CzncLEXnhHDxHy.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg"
   },
   {
     "title": "Late Night with Seth Meyers (2014)",
@@ -114,34 +114,28 @@
     "url_img": "https://image.tmdb.org/t/p/original/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg"
   },
   {
-    "title": "The Daily Show (1996)",
-    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
-  },
-  {
-    "title": "라디오스타 (2007)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/kCd0rmnNwCd3sgupO9DqSi9aHa0.jpg"
-  },
-  {
     "title": "Kamen Rider (1971)",
     "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
   },
   {
-    "title": "Linternas (2026)",
-    "location": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó...",
+    "title": "The Daily Show (1996)",
+    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
   },
   {
     "title": "Hombres en una Misión (2015)",
     "location": "Las celebridades masculinas juegan a la fantasía como estudiantes de secundaria, dan la bienvenida a estudiantes de transferencia estelar cada semana y participan en batallas de humor ingenioso y paya...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/a8a8z4aJr40zYgRMfmSESppX2eO.jpg"
+  },
+  {
+    "title": "Linternas (2026)",
+    "location": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg"
   },
   {
     "title": "Mushoku Tensei Jobless Reincarnation (2021)",
@@ -171,12 +165,18 @@
     "title": "Tierra de mafiosos (2025)",
     "location": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vid...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg"
   },
   {
     "title": "The View (1997)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/tHZsAFdtNsKNxE58jopl9Eh4f7a.jpg"
+  },
+  {
+    "title": "Ted Lasso (2020)",
+    "location": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con su...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg"
   }
 ]

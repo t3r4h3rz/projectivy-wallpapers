@@ -36,6 +36,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg"
   },
   {
+    "title": "La hipótesis del amor (2026)",
+    "location": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Ad...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/c8hvRzN5nijvp1VcSs8nqHly1bK.jpg"
+  },
+  {
     "title": "Zip Wire (2026)",
     "location": "Cuando le roban su revolucionario descubrimiento farmacéutico y asesinan a su compañero, la investigadora Amy debe enfrentarse a su miedo a las alturas para escapar de unos atacantes sin escrúpulos, s...",
     "author": "TMDB",
@@ -52,6 +58,18 @@
     "location": "Parte 1 de la saga Enfrentados. Marfil, hija de un poderoso empresario español, ve cómo su vida en Nueva York da un vuelco al ser secuestrada y liberada sin explicación. Su padre contrata a Sebastian ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/i65y7cMae36K0giN0GRaMjAHUru.jpg"
+  },
+  {
+    "title": "Un último disparo (2026)",
+    "location": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg"
+  },
+  {
+    "title": "Operación Teherán (2026)",
+    "location": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una últim...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg"
   },
   {
     "title": "Pinocho: Desatado (2026)",
@@ -72,24 +90,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/jzBWExXacS33rMQ2zLBrqIVweyG.jpg"
   },
   {
-    "title": "Obsession (2026)",
-    "location": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg"
-  },
-  {
-    "title": "Minions & Monsters (2026)",
-    "location": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg"
-  },
-  {
-    "title": "After Impact (2026)",
-    "location": "Después de heredar el enorme invernadero de su padre cuando un asteroide amenaza a la Tierra, Ethan enfrenta la traición y el aislamiento. Sobreviviendo al impacto en el búnker de su familia, maltrata...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg"
-  },
-  {
     "title": "Watch What Happens Live with Andy Cohen (2009)",
     "location": "",
     "author": "TMDB",
@@ -102,16 +102,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg"
   },
   {
-    "title": "Los Simpson (1989)",
-    "location": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastros...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg"
-  },
-  {
     "title": "Late Night with Seth Meyers (2014)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg"
+  },
+  {
+    "title": "Los Simpson (1989)",
+    "location": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastros...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg"
   },
   {
     "title": "The Daily Show (1996)",
@@ -132,6 +132,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
   },
   {
+    "title": "Tierra de mafiosos (2025)",
+    "location": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vid...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg"
+  },
+  {
     "title": "Raw (1993)",
     "location": "",
     "author": "TMDB",
@@ -144,10 +150,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
   },
   {
-    "title": "Tierra de mafiosos (2025)",
-    "location": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vid...",
+    "title": "Hombres en una Misión (2015)",
+    "location": "Las celebridades masculinas juegan a la fantasía como estudiantes de secundaria, dan la bienvenida a estudiantes de transferencia estelar cada semana y participan en batallas de humor ingenioso y paya...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/a8a8z4aJr40zYgRMfmSESppX2eO.jpg"
   },
   {
     "title": "Jeopardy! (1984)",
@@ -156,27 +162,21 @@
     "url_img": "https://image.tmdb.org/t/p/original/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg"
   },
   {
-    "title": "Hombres en una Misión (2015)",
-    "location": "Las celebridades masculinas juegan a la fantasía como estudiantes de secundaria, dan la bienvenida a estudiantes de transferencia estelar cada semana y participan en batallas de humor ingenioso y paya...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/a8a8z4aJr40zYgRMfmSESppX2eO.jpg"
-  },
-  {
     "title": "Binnelanders (2005)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
   },
   {
-    "title": "Ted Lasso (2020)",
-    "location": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con su...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg"
-  },
-  {
     "title": "The View (1997)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/tHZsAFdtNsKNxE58jopl9Eh4f7a.jpg"
+  },
+  {
+    "title": "Ted Lasso (2020)",
+    "location": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con su...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg"
   }
 ]

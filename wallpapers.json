@@ -156,6 +156,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
   },
   {
+    "title": "American Horror Story (2011)",
+    "location": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferent...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/6TSJRc77dDOesKzcNqkz0KeXdLz.jpg"
+  },
+  {
     "title": "Goede Tijden, Slechte Tijden (1990)",
     "location": "",
     "author": "TMDB",
@@ -166,11 +172,5 @@
     "location": "Saturday Night Live es un show televisivo nocturno estadounidense, emitido en vivo, que revolucionó la televisión en los años 70 con su combinación de sketches, comedia, variedad, actores, músicos, e ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/sSAX59Kf01lBRkBW4UcIL4kIoIm.jpg"
-  },
-  {
-    "title": "The View (1997)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/tHZsAFdtNsKNxE58jopl9Eh4f7a.jpg"
   }
 ]

@@ -96,10 +96,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
   },
   {
-    "title": "The Tonight Show Starring Jimmy Fallon (2014)",
-    "location": "Después del segundo retiro de Jay Leno del programa, Jimmy Fallon intervino como su reemplazo permanente. Después de 42 años en Los Ángeles, el programa regresó a Nueva York.",
+    "title": "Ley y orden: Unidad de Víctimas Especiales (1999)",
+    "location": "‘Ley y Orden: Unidad de Víctimas Especiales’ es una serie de televisión estadounidense grabada en Nueva York donde es también principalmente producida. Con el estilo de la original ‘Ley y Orden’ los e...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg"
+  },
+  {
+    "title": "Ley y orden (1990)",
+    "location": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg"
   },
   {
     "title": "Los Simpson (1989)",
@@ -112,12 +118,6 @@
     "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
-  },
-  {
-    "title": "Late Night with Seth Meyers (2014)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg"
   },
   {
     "title": "The Daily Show (1996)",
@@ -156,16 +156,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
   },
   {
-    "title": "Linternas (2026)",
-    "location": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg"
-  },
-  {
     "title": "Tierra de mafiosos (2025)",
     "location": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vid...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg"
+  },
+  {
+    "title": "Linternas (2026)",
+    "location": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg"
   },
   {
     "title": "Raw (1993)",
@@ -174,9 +174,9 @@
     "url_img": "https://image.tmdb.org/t/p/original/gjRnFAQk4EVg1P1s5512FT1Lq9c.jpg"
   },
   {
-    "title": "Demain nous appartient (2017)",
-    "location": "",
+    "title": "Hombres en una Misión (2015)",
+    "location": "Las celebridades masculinas juegan a la fantasía como estudiantes de secundaria, dan la bienvenida a estudiantes de transferencia estelar cada semana y participan en batallas de humor ingenioso y paya...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/a8a8z4aJr40zYgRMfmSESppX2eO.jpg"
   }
 ]

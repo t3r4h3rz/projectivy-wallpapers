@@ -42,16 +42,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg"
   },
   {
-    "title": "El final de Oak Street (2026)",
-    "location": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervive...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg"
-  },
-  {
     "title": "Digger (2026)",
     "location": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg"
+  },
+  {
+    "title": "El final de Oak Street (2026)",
+    "location": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervive...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg"
   },
   {
     "title": "La hipótesis del amor (2026)",
@@ -114,12 +114,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
   },
   {
-    "title": "Los Simpson (1989)",
-    "location": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastros...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg"
-  },
-  {
     "title": "Ley y orden (1990)",
     "location": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
     "author": "TMDB",
@@ -150,12 +144,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg"
   },
   {
-    "title": "Linternas (2026)",
-    "location": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg"
-  },
-  {
     "title": "Doraemon, el gato cósmico (2005)",
     "location": "Doraemon es un gato robot cósmico que viene del futuro, es amigo de Novita, un niño muy despistado y algo torpe, al cual ayudara con sus grandiosos inventos futuristas los cuales saca de su bolsillo m...",
     "author": "TMDB",
@@ -178,5 +166,17 @@
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg"
+  },
+  {
+    "title": "Binnelanders (2005)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
+  },
+  {
+    "title": "Kamen Rider (1971)",
+    "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
   }
 ]

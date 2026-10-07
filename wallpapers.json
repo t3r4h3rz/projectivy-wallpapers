@@ -48,12 +48,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg"
   },
   {
-    "title": "El final de Oak Street (2026)",
-    "location": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervive...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg"
-  },
-  {
     "title": "La hipótesis del amor (2026)",
     "location": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Ad...",
     "author": "TMDB",
@@ -90,6 +84,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg"
   },
   {
+    "title": "Verity. La sombra de un engaño (2026)",
+    "location": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietant...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg"
+  },
+  {
     "title": "Watch What Happens Live with Andy Cohen (2009)",
     "location": "",
     "author": "TMDB",
@@ -102,16 +102,22 @@
     "url_img": "https://image.tmdb.org/t/p/original/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg"
   },
   {
+    "title": "Ley y orden: Unidad de Víctimas Especiales (1999)",
+    "location": "‘Ley y Orden: Unidad de Víctimas Especiales’ es una serie de televisión estadounidense grabada en Nueva York donde es también principalmente producida. Con el estilo de la original ‘Ley y Orden’ los e...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg"
+  },
+  {
     "title": "Running Man (2010)",
     "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
   },
   {
-    "title": "Ley y orden: Unidad de Víctimas Especiales (1999)",
-    "location": "‘Ley y Orden: Unidad de Víctimas Especiales’ es una serie de televisión estadounidense grabada en Nueva York donde es también principalmente producida. Con el estilo de la original ‘Ley y Orden’ los e...",
+    "title": "Late Night with Seth Meyers (2014)",
+    "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg"
   },
   {
     "title": "Ley y orden (1990)",
@@ -120,10 +126,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg"
   },
   {
-    "title": "Late Night with Seth Meyers (2014)",
+    "title": "Goede Tijden, Slechte Tijden (1990)",
     "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg"
   },
   {
     "title": "The Daily Show (1996)",
@@ -144,10 +150,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg"
   },
   {
-    "title": "Goede Tijden, Slechte Tijden (1990)",
+    "title": "Doraemon, el gato cósmico (2005)",
+    "location": "Doraemon es un gato robot cósmico que viene del futuro, es amigo de Novita, un niño muy despistado y algo torpe, al cual ayudara con sus grandiosos inventos futuristas los cuales saca de su bolsillo m...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg"
+  },
+  {
+    "title": "Raw (1993)",
     "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg"
   },
   {
     "title": "American Horror Story (2011)",
@@ -156,22 +168,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg"
   },
   {
-    "title": "Doraemon, el gato cósmico (2005)",
-    "location": "Doraemon es un gato robot cósmico que viene del futuro, es amigo de Novita, un niño muy despistado y algo torpe, al cual ayudara con sus grandiosos inventos futuristas los cuales saca de su bolsillo m...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg"
-  },
-  {
     "title": "Ted Lasso (2020)",
     "location": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con su...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg"
-  },
-  {
-    "title": "Raw (1993)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg"
   },
   {
     "title": "Binnelanders (2005)",

@@ -30,16 +30,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/iXR79oKsLHwLno9jdzxxeFP21sy.jpg"
   },
   {
-    "title": "Coyote vs. Acme (2026)",
-    "location": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg"
-  },
-  {
     "title": "After Impact (2026)",
     "location": "Después de heredar el enorme invernadero de su padre cuando un asteroide amenaza a la Tierra, Ethan enfrenta la traición y el aislamiento. Sobreviviendo al impacto en el búnker de su familia, maltrata...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg"
+  },
+  {
+    "title": "Coyote vs. Acme (2026)",
+    "location": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg"
   },
   {
     "title": "Digger (2026)",
@@ -60,18 +60,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg"
   },
   {
-    "title": "Colony (2026)",
-    "location": "El profesor Se-jeong es arrojado a una pesadilla cuando un  virus en rápida mutación se libera durante una conferencia de  biotecnología, lo que lleva a las autoridades a sellar las  instalaciones. At...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg"
-  },
-  {
-    "title": "El motín (2026)",
-    "location": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir u...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg"
-  },
-  {
     "title": "Pinocho: Desatado (2026)",
     "location": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo ...",
     "author": "TMDB",
@@ -88,6 +76,18 @@
     "location": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg"
+  },
+  {
+    "title": "Dead Residents Evil (2026)",
+    "location": "Un padre lucha contra un ejercito de no-muertos junto a su hija, gravemente herida, para llegar a la cura antes de que ella se transforme. Si logra llegar al laboratorio con la vacuna a tiempo, cree q...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/yKx5gYrYgakKZuUWAsuFDStBroy.jpg"
+  },
+  {
+    "title": "El motín (2026)",
+    "location": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir u...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg"
   },
   {
     "title": "Watch What Happens Live with Andy Cohen (2009)",
@@ -120,12 +120,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg"
   },
   {
-    "title": "Ley y orden (1990)",
-    "location": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg"
-  },
-  {
     "title": "Goede Tijden, Slechte Tijden (1990)",
     "location": "",
     "author": "TMDB",
@@ -148,6 +142,12 @@
     "location": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg"
+  },
+  {
+    "title": "Ley y orden (1990)",
+    "location": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg"
   },
   {
     "title": "Doraemon, el gato cósmico (2005)",
@@ -174,9 +174,9 @@
     "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
   },
   {
-    "title": "Kamen Rider (1971)",
-    "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
+    "title": "Slow Horses (2022)",
+    "location": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del e...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg"
   }
 ]

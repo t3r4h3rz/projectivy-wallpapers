@@ -36,6 +36,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg"
   },
   {
+    "title": "Vértigo 2: Punto muerto (2026)",
+    "location": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floj...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg"
+  },
+  {
     "title": "Coyote vs. Acme (2026)",
     "location": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand...",
     "author": "TMDB",
@@ -66,12 +72,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/vgZDb7kmaxP24cFbt1KJdMLlHFZ.jpg"
   },
   {
-    "title": "Verity. La sombra de un engaño (2026)",
-    "location": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietant...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/9qxyrJfjk577ym5WD6HCDmunoyO.jpg"
-  },
-  {
     "title": "El hombre que desafió al rey (2026)",
     "location": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
     "author": "TMDB",
@@ -90,16 +90,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg"
   },
   {
-    "title": "Watch What Happens Live with Andy Cohen (2009)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
-  },
-  {
     "title": "The Tonight Show Starring Jimmy Fallon (2014)",
     "location": "Después del segundo retiro de Jay Leno del programa, Jimmy Fallon intervino como su reemplazo permanente. Después de 42 años en Los Ángeles, el programa regresó a Nueva York.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg"
+  },
+  {
+    "title": "Watch What Happens Live with Andy Cohen (2009)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
   },
   {
     "title": "Ley y orden: Unidad de Víctimas Especiales (1999)",
@@ -118,6 +118,12 @@
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg"
+  },
+  {
+    "title": "Anatomía de Grey (2005)",
+    "location": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hosp...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg"
   },
   {
     "title": "Ley y orden (1990)",
@@ -172,11 +178,5 @@
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
-  },
-  {
-    "title": "Slow Horses (2022)",
-    "location": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del e...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg"
   }
 ]

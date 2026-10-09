@@ -18,12 +18,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg"
   },
   {
-    "title": "仙逆剧场版：弑仙之战 (2026)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg"
-  },
-  {
     "title": "Entrega al límite (2026)",
     "location": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que l...",
     "author": "TMDB",
@@ -60,10 +54,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg"
   },
   {
-    "title": "La hipótesis del amor (2026)",
-    "location": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Ad...",
+    "title": "仙逆剧场版：弑仙之战 (2026)",
+    "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg"
   },
   {
     "title": "Pinocho: Desatado (2026)",
@@ -78,16 +72,22 @@
     "url_img": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg"
   },
   {
-    "title": "Verity. La sombra de un engaño (2026)",
-    "location": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietant...",
+    "title": "La hipótesis del amor (2026)",
+    "location": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Ad...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/9qxyrJfjk577ym5WD6HCDmunoyO.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg"
   },
   {
     "title": "El motín (2026)",
     "location": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir u...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg"
+  },
+  {
+    "title": "Verity. La sombra de un engaño (2026)",
+    "location": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietant...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/9qxyrJfjk577ym5WD6HCDmunoyO.jpg"
   },
   {
     "title": "Watch What Happens Live with Andy Cohen (2009)",
@@ -108,16 +108,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
   },
   {
-    "title": "Anatomía de Grey (2005)",
-    "location": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hosp...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg"
-  },
-  {
     "title": "Ley y orden (1990)",
     "location": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg"
+  },
+  {
+    "title": "Anatomía de Grey (2005)",
+    "location": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hosp...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg"
   },
   {
     "title": "Navy: Investigación criminal (2003)",
@@ -126,10 +126,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg"
   },
   {
-    "title": "Goede Tijden, Slechte Tijden (1990)",
-    "location": "",
+    "title": "Doraemon, el gato cósmico (2005)",
+    "location": "Doraemon es un gato robot cósmico que viene del futuro, es amigo de Novita, un niño muy despistado y algo torpe, al cual ayudara con sus grandiosos inventos futuristas los cuales saca de su bolsillo m...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg"
   },
   {
     "title": "Tierra de mafiosos (2025)",
@@ -138,10 +138,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg"
   },
   {
-    "title": "Doraemon, el gato cósmico (2005)",
-    "location": "Doraemon es un gato robot cósmico que viene del futuro, es amigo de Novita, un niño muy despistado y algo torpe, al cual ayudara con sus grandiosos inventos futuristas los cuales saca de su bolsillo m...",
+    "title": "Goede Tijden, Slechte Tijden (1990)",
+    "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg"
   },
   {
     "title": "Slow Horses (2022)",

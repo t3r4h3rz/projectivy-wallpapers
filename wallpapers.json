@@ -48,16 +48,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/yKx5gYrYgakKZuUWAsuFDStBroy.jpg"
   },
   {
-    "title": "Digger (2026)",
-    "location": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg"
-  },
-  {
     "title": "仙逆剧场版：弑仙之战 (2026)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg"
+  },
+  {
+    "title": "Digger (2026)",
+    "location": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg"
   },
   {
     "title": "Pinocho: Desatado (2026)",
@@ -120,6 +120,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg"
   },
   {
+    "title": "Tierra de mafiosos (2025)",
+    "location": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vid...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg"
+  },
+  {
     "title": "Navy: Investigación criminal (2003)",
     "location": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
     "author": "TMDB",
@@ -132,22 +138,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg"
   },
   {
-    "title": "Tierra de mafiosos (2025)",
-    "location": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vid...",
+    "title": "Slow Horses (2022)",
+    "location": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del e...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg"
   },
   {
     "title": "Goede Tijden, Slechte Tijden (1990)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg"
-  },
-  {
-    "title": "Slow Horses (2022)",
-    "location": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del e...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg"
   },
   {
     "title": "Raw (1993)",

@@ -36,6 +36,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg"
   },
   {
+    "title": "Animales (2026)",
+    "location": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/tzoarEu7TsG959upiELyYPm5kO9.jpg"
+  },
+  {
     "title": "Dead Residents Evil (2026)",
     "location": "Un padre lucha contra un ejercito de no-muertos junto a su hija, gravemente herida, para llegar a la cura antes de que ella se transforme. Si logra llegar al laboratorio con la vacuna a tiempo, cree q...",
     "author": "TMDB",
@@ -70,12 +76,6 @@
     "location": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg"
-  },
-  {
-    "title": "Animales (2026)",
-    "location": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/tzoarEu7TsG959upiELyYPm5kO9.jpg"
   },
   {
     "title": "La hipótesis del amor (2026)",
@@ -114,28 +114,28 @@
     "url_img": "https://image.tmdb.org/t/p/original/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg"
   },
   {
+    "title": "Los Simpson (1989)",
+    "location": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastros...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg"
+  },
+  {
     "title": "Navy: Investigación criminal (2003)",
     "location": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg"
   },
   {
-    "title": "Anatomía de Grey (2005)",
-    "location": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hosp...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg"
-  },
-  {
-    "title": "Doraemon, el gato cósmico (2005)",
-    "location": "Doraemon es un gato robot cósmico que viene del futuro, es amigo de Novita, un niño muy despistado y algo torpe, al cual ayudara con sus grandiosos inventos futuristas los cuales saca de su bolsillo m...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg"
-  },
-  {
     "title": "Tierra de mafiosos (2025)",
     "location": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vid...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg"
+  },
+  {
+    "title": "Anatomía de Grey (2005)",
+    "location": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hosp...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg"
   },
   {
     "title": "Goede Tijden, Slechte Tijden (1990)",
@@ -174,9 +174,9 @@
     "url_img": "https://image.tmdb.org/t/p/original/a8a8z4aJr40zYgRMfmSESppX2eO.jpg"
   },
   {
-    "title": "ちびまる子ちゃん (1990)",
+    "title": "Demain nous appartient (2017)",
     "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/vuajwjep1FxphPhMEWKv4bfrCnf.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg"
   }
 ]

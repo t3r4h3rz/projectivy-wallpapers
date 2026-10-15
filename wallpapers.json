@@ -15,7 +15,7 @@
     "title": "La Odisea (2026)",
     "location": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentar...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg"
   },
   {
     "title": "Fall 2: Deadpoint (2026)",
@@ -144,10 +144,22 @@
     "url_img": "https://image.tmdb.org/t/p/original/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg"
   },
   {
+    "title": "VisionQuest (2026)",
+    "location": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg"
+  },
+  {
     "title": "Tierra de mafiosos (2025)",
     "location": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vid...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg"
+  },
+  {
+    "title": "Chicago Fire (2012)",
+    "location": "El espectáculo sigue las vidas de los bomberos y paramédicos que trabajan en el Departamento de Bomberos de la ciudad de Chicago en la estación de bomberos 51, formada por el Camión 81, la Brigada 3, ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/otaBZzLIqrKdXcovbAvVONJCnb4.jpg"
   },
   {
     "title": "Hombres en una Misión (2015)",
@@ -166,17 +178,5 @@
     "location": "Puede ser una insignia de honor estar \"soltero\". “I Live Alone” es una serie de telerrealidad surcoreana de estilo documental que sigue a los miembros de un club autoformado llamado Rainbow, que está ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg"
-  },
-  {
-    "title": "Coronation Street (1960)",
-    "location": "Esta serie británica sigue las vidas de los residentes de la ficticia calle Coronation, situada en el gran Manchester, y que está conformada principalmente por gente de clase obrera.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg"
-  },
-  {
-    "title": "Raw (1993)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg"
   }
 ]

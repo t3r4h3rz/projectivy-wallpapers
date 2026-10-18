@@ -96,10 +96,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
   },
   {
-    "title": "Ley y orden: Unidad de Víctimas Especiales (1999)",
-    "location": "Una unidad especial de la policía de Nueva York se dedica a investigar delitos de carácter sexual: violaciones, pedofilia y malos tratos infantiles.",
+    "title": "Ley y orden (1990)",
+    "location": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg"
   },
   {
     "title": "Los Simpson (1989)",
@@ -108,10 +108,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg"
   },
   {
-    "title": "Ley y orden (1990)",
-    "location": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
+    "title": "Ley y orden: Unidad de Víctimas Especiales (1999)",
+    "location": "Una unidad especial de la policía de Nueva York se dedica a investigar delitos de carácter sexual: violaciones, pedofilia y malos tratos infantiles.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/oOce9hLMVFubjAJliau4kiSNPnW.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg"
   },
   {
     "title": "Late Night with Seth Meyers (2014)",
@@ -144,6 +144,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
   },
   {
+    "title": "VisionQuest (2026)",
+    "location": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg"
+  },
+  {
     "title": "Doraemon, el gato cósmico (2005)",
     "location": "Doraemon es un gato robot cósmico que viene del futuro, es amigo de Novita, un niño muy despistado y algo torpe, al cual ayudara con sus grandiosos inventos futuristas los cuales saca de su bolsillo m...",
     "author": "TMDB",
@@ -162,21 +168,15 @@
     "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
   },
   {
-    "title": "VisionQuest (2026)",
-    "location": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas...",
+    "title": "Tierra de mafiosos (2025)",
+    "location": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vid...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg"
   },
   {
     "title": "Kamen Rider (1971)",
     "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
-  },
-  {
-    "title": "Tierra de mafiosos (2025)",
-    "location": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vid...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg"
   }
 ]

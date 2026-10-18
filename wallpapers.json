@@ -66,16 +66,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg"
   },
   {
-    "title": "Coyote vs. Acme (2026)",
-    "location": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg"
-  },
-  {
     "title": "En directo (2026)",
     "location": "Una reportera joven y su reticente cámara buscan una historia... y acaban formando parte de una red de extracción ilegal de arena dirigida por una despiadada organización mafiosa.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg"
+  },
+  {
+    "title": "Coyote vs. Acme (2026)",
+    "location": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg"
   },
   {
     "title": "Obsession (2026)",
@@ -84,7 +84,7 @@
     "url_img": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg"
   },
   {
-    "title": "אחרי הפגיעה (2026)",
+    "title": "After Impact (2026)",
     "location": "Después de heredar el enorme invernadero de su padre cuando un asteroide amenaza a la Tierra, Ethan enfrenta la traición y el aislamiento. Sobreviviendo al impacto en el búnker de su familia, maltrata...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg"

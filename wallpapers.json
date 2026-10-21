@@ -1,15 +1,9 @@
 [
   {
-    "title": "La Odisea (2026)",
-    "location": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentar...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg"
-  },
-  {
     "title": "Street Fighter (2026)",
     "location": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamient...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg"
   },
   {
     "title": "Hope (2026)",
@@ -60,12 +54,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg"
   },
   {
-    "title": "Entrega al límite (2026)",
-    "location": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que l...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg"
-  },
-  {
     "title": "Animales (2026)",
     "location": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
     "author": "TMDB",
@@ -81,13 +69,25 @@
     "title": "Sentido y sensibilidad (2026)",
     "location": "Una historia de amor, familia y hermandad basada en *Sentido y sensibilidad* de Jane Austen.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/nrLVr8C2pkbOGwXKay2xrxvlHmh.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/YpzEwCpoOdFD2itSYf3pbVGTXH.jpg"
   },
   {
     "title": "Digger (2026)",
     "location": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg"
+  },
+  {
+    "title": "Entrega al límite (2026)",
+    "location": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que l...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg"
+  },
+  {
+    "title": "El Precio de la Red (2026)",
+    "location": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg"
   },
   {
     "title": "Ley y orden (1990)",

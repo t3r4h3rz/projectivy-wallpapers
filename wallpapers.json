@@ -48,16 +48,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg"
   },
   {
-    "title": "Operación Teherán (2026)",
-    "location": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una últim...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg"
-  },
-  {
     "title": "Animales (2026)",
     "location": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/tzoarEu7TsG959upiELyYPm5kO9.jpg"
+  },
+  {
+    "title": "Operación Teherán (2026)",
+    "location": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una últim...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg"
   },
   {
     "title": "Resident Evil (2026)",
@@ -120,6 +120,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
   },
   {
+    "title": "The Tonight Show Starring Jimmy Fallon (2014)",
+    "location": "Después del segundo retiro de Jay Leno del programa, Jimmy Fallon intervino como su reemplazo permanente. Después de 42 años en Los Ángeles, el programa regresó a Nueva York.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg"
+  },
+  {
     "title": "VisionQuest (2026)",
     "location": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas...",
     "author": "TMDB",
@@ -138,16 +144,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg"
   },
   {
-    "title": "Doraemon, el gato cósmico (2005)",
-    "location": "Doraemon es un gato robot cósmico que viene del futuro, es amigo de Novita, un niño muy despistado y algo torpe, al cual ayudara con sus grandiosos inventos futuristas los cuales saca de su bolsillo m...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg"
-  },
-  {
     "title": "Anatomía de Grey (2005)",
     "location": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hosp...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg"
+  },
+  {
+    "title": "Doraemon, el gato cósmico (2005)",
+    "location": "Doraemon es un gato robot cósmico que viene del futuro, es amigo de Novita, un niño muy despistado y algo torpe, al cual ayudara con sus grandiosos inventos futuristas los cuales saca de su bolsillo m...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg"
   },
   {
     "title": "Late Night with Seth Meyers (2014)",
@@ -172,11 +178,5 @@
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg"
-  },
-  {
-    "title": "Raw (1993)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg"
   }
 ]

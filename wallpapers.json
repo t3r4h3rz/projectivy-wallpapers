@@ -6,16 +6,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg"
   },
   {
-    "title": "Clayface (2026)",
-    "location": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg"
-  },
-  {
     "title": "Fall 2: Deadpoint (2026)",
     "location": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floj...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg"
+  },
+  {
+    "title": "Clayface (2026)",
+    "location": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg"
   },
   {
     "title": "Street Fighter (2026)",
@@ -33,7 +33,13 @@
     "title": "Masterplan (2026)",
     "location": "Un legendario ladrón se propone robar la Mona Lisa y recluta a dos jóvenes para que le ayuden: Chiara, una experta en cibercrimen italiana, y Jay, un especialista en explosivos francés. Más tarde, les...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/nhJab93yQdDJa7btFEu9MQ8s2OG.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg"
+  },
+  {
+    "title": "Buddy (2026)",
+    "location": "Un mágico unicornio naranja que canta retiene a su elenco como rehén en una dimensión surrealista de programa de televisión, mientras se vuelve cada vez más demente.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg"
   },
   {
     "title": "La otra madre (2026)",
@@ -60,12 +66,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg"
   },
   {
-    "title": "Buddy (2026)",
-    "location": "Un mágico unicornio naranja que canta retiene a su elenco como rehén en una dimensión surrealista de programa de televisión, mientras se vuelve cada vez más demente.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg"
-  },
-  {
     "title": "Pinocho: Desatado (2026)",
     "location": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo ...",
     "author": "TMDB",
@@ -78,16 +78,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/tzoarEu7TsG959upiELyYPm5kO9.jpg"
   },
   {
-    "title": "Entrega al límite (2026)",
-    "location": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que l...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg"
-  },
-  {
     "title": "You Can See Everything (2026)",
     "location": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg"
+  },
+  {
+    "title": "Prácticamente magia 2 (2026)",
+    "location": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg"
   },
   {
     "title": "Anatomía de Grey (2005)",

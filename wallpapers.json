@@ -18,22 +18,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg"
   },
   {
-    "title": "Street Fighter (2026)",
-    "location": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamient...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg"
-  },
-  {
     "title": "Matchbox: La película (2026)",
     "location": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg"
-  },
-  {
-    "title": "Masterplan (2026)",
-    "location": "Un legendario ladrón se propone robar la Mona Lisa y recluta a dos jóvenes para que le ayuden: Chiara, una experta en cibercrimen italiana, y Jay, un especialista en explosivos francés. Más tarde, les...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg"
   },
   {
     "title": "Buddy (2026)",
@@ -42,16 +30,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg"
   },
   {
-    "title": "La otra madre (2026)",
-    "location": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amen...",
+    "title": "Street Fighter (2026)",
+    "location": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamient...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg"
   },
   {
-    "title": "Operación Teherán (2026)",
-    "location": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una últim...",
+    "title": "Masterplan (2026)",
+    "location": "Un legendario ladrón se propone robar la Mona Lisa y recluta a dos jóvenes para que le ayuden: Chiara, una experta en cibercrimen italiana, y Jay, un especialista en explosivos francés. Más tarde, les...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg"
   },
   {
     "title": "Resident Evil (2026)",
@@ -60,16 +48,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
   },
   {
-    "title": "Whalefall (2026)",
-    "location": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno rest...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg"
-  },
-  {
     "title": "Pinocho: Desatado (2026)",
     "location": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/7RsPdXLDNugDIlwXPVeeprNfMx.jpg"
+  },
+  {
+    "title": "Operación Teherán (2026)",
+    "location": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una últim...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg"
   },
   {
     "title": "Animales (2026)",
@@ -78,16 +66,28 @@
     "url_img": "https://image.tmdb.org/t/p/original/tzoarEu7TsG959upiELyYPm5kO9.jpg"
   },
   {
-    "title": "You Can See Everything (2026)",
-    "location": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza ...",
+    "title": "La otra madre (2026)",
+    "location": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amen...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg"
   },
   {
     "title": "Prácticamente magia 2 (2026)",
     "location": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg"
+  },
+  {
+    "title": "Wildwood: El Bosque Salvaje (2026)",
+    "location": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para res...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg"
+  },
+  {
+    "title": "You Can See Everything (2026)",
+    "location": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg"
   },
   {
     "title": "Anatomía de Grey (2005)",

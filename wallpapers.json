@@ -24,16 +24,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg"
   },
   {
-    "title": "Clayface (2026)",
-    "location": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg"
-  },
-  {
     "title": "Verity. La sombra de un engaño (2026)",
     "location": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietant...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg"
+  },
+  {
+    "title": "Clayface (2026)",
+    "location": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg"
   },
   {
     "title": "El despertar (2026)",
@@ -66,12 +66,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg"
   },
   {
-    "title": "Resident Evil (2026)",
-    "location": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la superviv...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
-  },
-  {
     "title": "Operación Teherán (2026)",
     "location": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una últim...",
     "author": "TMDB",
@@ -88,6 +82,12 @@
     "location": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/cNICUho5uiAGkfCAQq1ihyaMla4.jpg"
+  },
+  {
+    "title": "Resident Evil (2026)",
+    "location": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la superviv...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
   },
   {
     "title": "Ley y orden: Unidad de Víctimas Especiales (1999)",
@@ -144,10 +144,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg"
   },
   {
-    "title": "VisionQuest (2026)",
-    "location": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas...",
+    "title": "Tierra de mafiosos (2025)",
+    "location": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vid...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg"
   },
   {
     "title": "Ley y orden (1990)",
@@ -156,16 +156,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg"
   },
   {
-    "title": "Tierra de mafiosos (2025)",
-    "location": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vid...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg"
-  },
-  {
     "title": "Demain nous appartient (2017)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg"
+  },
+  {
+    "title": "VisionQuest (2026)",
+    "location": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg"
   },
   {
     "title": "The Daily Show (1996)",

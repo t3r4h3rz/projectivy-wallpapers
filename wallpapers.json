@@ -30,16 +30,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg"
   },
   {
-    "title": "Verity. La sombra de un engaño (2026)",
-    "location": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietant...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg"
-  },
-  {
     "title": "El despertar (2026)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg"
+  },
+  {
+    "title": "Verity. La sombra de un engaño (2026)",
+    "location": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietant...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg"
   },
   {
     "title": "Buddy (2026)",
@@ -52,6 +52,12 @@
     "location": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/7RsPdXLDNugDIlwXPVeeprNfMx.jpg"
+  },
+  {
+    "title": "The Mongoose (2026)",
+    "location": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, c...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg"
   },
   {
     "title": "Clayface (2026)",
@@ -72,22 +78,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/uI3kWI7kGW5E0F8WduewgQYPt34.jpg"
   },
   {
-    "title": "The Mongoose (2026)",
-    "location": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, c...",
+    "title": "Operación Teherán (2026)",
+    "location": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una últim...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg"
   },
   {
     "title": "Crawlers (Arácnidos) (2026)",
     "location": "Cuando un hombre regresa de un viaje albergando sin saberlo una nueva raza de arácnidos, los habitantes de un bloque de apartamentos son puestos en cuarentena y abandonados a su suerte contra una plag...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg"
-  },
-  {
-    "title": "Matchbox: La película (2026)",
-    "location": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg"
   },
   {
     "title": "Ley y orden: Unidad de Víctimas Especiales (1999)",
@@ -150,28 +150,28 @@
     "url_img": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg"
   },
   {
-    "title": "VisionQuest (2026)",
-    "location": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg"
-  },
-  {
     "title": "The Daily Show (1996)",
     "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
   },
   {
-    "title": "Late Night with Seth Meyers (2014)",
-    "location": "",
+    "title": "VisionQuest (2026)",
+    "location": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg"
   },
   {
     "title": "Tulsa King (2022)",
     "location": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Okla...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg"
+  },
+  {
+    "title": "Late Night with Seth Meyers (2014)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg"
   },
   {
     "title": "Binnelanders (2005)",

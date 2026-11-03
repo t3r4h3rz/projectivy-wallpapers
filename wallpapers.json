@@ -12,16 +12,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/j96rurZqmBjyY37Fncl3IB0qJNe.jpg"
   },
   {
-    "title": "Drive: Los farsantes (2026)",
-    "location": "Una joven mecánica de coches de carreras finge estar comprometida con la estrella más escandalosa del mundo del automovilismo: oficialmente, por su reputación; pero, en secreto, para tener la oportuni...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg"
-  },
-  {
     "title": "Apocalipsis Z: Nuevo mundo (2026)",
     "location": "Tras el brote del virus TSJ, las Islas Canarias son el último refugio de Europa. Cuando una misión viaja a Madrid en busca de suministros, Roberto se une al equipo con dudosas intenciones. Rodeados de...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg"
+  },
+  {
+    "title": "Drive: Los farsantes (2026)",
+    "location": "Una joven mecánica de coches de carreras finge estar comprometida con la estrella más escandalosa del mundo del automovilismo: oficialmente, por su reputación; pero, en secreto, para tener la oportuni...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg"
   },
   {
     "title": "Fall 2: Deadpoint (2026)",
@@ -48,6 +48,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg"
   },
   {
+    "title": "Resident Evil (2026)",
+    "location": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la superviv...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
+  },
+  {
     "title": "Pinocho: Desatado (2026)",
     "location": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo ...",
     "author": "TMDB",
@@ -60,6 +66,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/z26LxXDMmAIzKr06FPDudCJyvsM.jpg"
   },
   {
+    "title": "Colisión (2026)",
+    "location": "España, 2013. Tras atracar un banco, un fatal accidente de auto saca a la luz la cara oculta de una banda de ladrones y desvela que las traiciones comenzaron mucho antes del robo.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/uI3kWI7kGW5E0F8WduewgQYPt34.jpg"
+  },
+  {
     "title": "The Mongoose (2026)",
     "location": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, c...",
     "author": "TMDB",
@@ -70,18 +82,6 @@
     "location": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg"
-  },
-  {
-    "title": "Colisión (2026)",
-    "location": "España, 2013. Tras atracar un banco, un fatal accidente de auto saca a la luz la cara oculta de una banda de ladrones y desvela que las traiciones comenzaron mucho antes del robo.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/uI3kWI7kGW5E0F8WduewgQYPt34.jpg"
-  },
-  {
-    "title": "Operación Teherán (2026)",
-    "location": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una últim...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg"
   },
   {
     "title": "Crawlers (Arácnidos) (2026)",
@@ -138,16 +138,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
   },
   {
-    "title": "The Tonight Show Starring Jimmy Fallon (2014)",
-    "location": "Después del segundo retiro de Jay Leno del programa, Jimmy Fallon intervino como su reemplazo permanente. Después de 42 años en Los Ángeles, el programa regresó a Nueva York.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg"
-  },
-  {
     "title": "Tierra de mafiosos (2025)",
     "location": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vid...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg"
+  },
+  {
+    "title": "The Tonight Show Starring Jimmy Fallon (2014)",
+    "location": "Después del segundo retiro de Jay Leno del programa, Jimmy Fallon intervino como su reemplazo permanente. Después de 42 años en Los Ángeles, el programa regresó a Nueva York.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg"
   },
   {
     "title": "Navy: Investigación criminal (2003)",
@@ -162,10 +162,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg"
   },
   {
-    "title": "VisionQuest (2026)",
-    "location": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas...",
+    "title": "The Daily Show (1996)",
+    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
   },
   {
     "title": "Late Night with Seth Meyers (2014)",

@@ -1,15 +1,15 @@
 [
   {
-    "title": "Wildwood: El Bosque Salvaje (2026)",
-    "location": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para res...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg"
-  },
-  {
     "title": "Resident Evil (2026)",
     "location": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la superviv...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
+  },
+  {
+    "title": "Wildwood: El Bosque Salvaje (2026)",
+    "location": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para res...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg"
   },
   {
     "title": "Apocalipsis Z: Nuevo mundo (2026)",
@@ -42,22 +42,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg"
   },
   {
-    "title": "Verity. La sombra de un engaño (2026)",
-    "location": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietant...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg"
-  },
-  {
     "title": "El despertar (2026)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg"
   },
   {
-    "title": "Fall 2: Deadpoint (2026)",
-    "location": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floj...",
+    "title": "Verity. La sombra de un engaño (2026)",
+    "location": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietant...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg"
   },
   {
     "title": "Drive: Los farsantes (2026)",
@@ -66,10 +60,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg"
   },
   {
-    "title": "Colisión (2026)",
-    "location": "España, 2013. Tras atracar un banco, un fatal accidente de auto saca a la luz la cara oculta de una banda de ladrones y desvela que las traiciones comenzaron mucho antes del robo.",
+    "title": "Fall 2: Deadpoint (2026)",
+    "location": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floj...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/uI3kWI7kGW5E0F8WduewgQYPt34.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg"
   },
   {
     "title": "Godzilla Minus Zero (2026)",
@@ -84,22 +78,28 @@
     "url_img": "https://image.tmdb.org/t/p/original/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg"
   },
   {
+    "title": "Colisión (2026)",
+    "location": "España, 2013. Tras atracar un banco, un fatal accidente de auto saca a la luz la cara oculta de una banda de ladrones y desvela que las traiciones comenzaron mucho antes del robo.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/uI3kWI7kGW5E0F8WduewgQYPt34.jpg"
+  },
+  {
     "title": "La bola negra (2026)",
     "location": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg"
   },
   {
-    "title": "Los Simpson (1989)",
-    "location": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastros...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg"
-  },
-  {
     "title": "Ley y orden: Unidad de Víctimas Especiales (1999)",
     "location": "Una unidad especial de la policía de Nueva York se dedica a investigar delitos de carácter sexual: violaciones, pedofilia y malos tratos infantiles.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg"
+  },
+  {
+    "title": "Los Simpson (1989)",
+    "location": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastros...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg"
   },
   {
     "title": "WWE NXT (2010)",
@@ -138,6 +138,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg"
   },
   {
+    "title": "Navy: Investigación criminal (2003)",
+    "location": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg"
+  },
+  {
     "title": "The Daily Show (1996)",
     "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
     "author": "TMDB",
@@ -150,16 +156,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg"
   },
   {
-    "title": "Raw (1993)",
+    "title": "Demain nous appartient (2017)",
     "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg"
-  },
-  {
-    "title": "Navy: Investigación criminal (2003)",
-    "location": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg"
   },
   {
     "title": "Binnelanders (2005)",

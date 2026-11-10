@@ -9,7 +9,7 @@
     "title": "En el corazón de la bestia (2026)",
     "location": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentarán regresar a la civilización desde un remoto lugar en medio de los p...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/6uVRPFflyJpo8Cx872olmlGTWla.jpg"
   },
   {
     "title": "Apocalipsis Z: Nuevo mundo (2026)",
@@ -30,12 +30,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg"
   },
   {
-    "title": "La mangosta (2026)",
-    "location": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, c...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg"
-  },
-  {
     "title": "Godzilla Minus Zero (2026)",
     "location": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida...",
     "author": "TMDB",
@@ -48,22 +42,28 @@
     "url_img": "https://image.tmdb.org/t/p/original/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg"
   },
   {
+    "title": "La mangosta (2026)",
+    "location": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, c...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg"
+  },
+  {
     "title": "El despertar (2026)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg"
   },
   {
+    "title": "Ramayana: El Nacimiento de una Leyenda (2026)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/yHVZncPRZr63mezRX20IyKLrSkv.jpg"
+  },
+  {
     "title": "Fall 2: Deadpoint (2026)",
     "location": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floj...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg"
-  },
-  {
-    "title": "Wildwood: El Bosque Salvaje (2026)",
-    "location": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para res...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg"
   },
   {
     "title": "Drive: Los farsantes (2026)",
@@ -78,16 +78,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg"
   },
   {
-    "title": "Ramayana: El Nacimiento de una Leyenda (2026)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/yHVZncPRZr63mezRX20IyKLrSkv.jpg"
-  },
-  {
     "title": "La bola negra (2026)",
     "location": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg"
+  },
+  {
+    "title": "La razón de estar contigo: Una Navidad perfecta (2026)",
+    "location": "Una urgencia médica separa a la familia Goss y Winstead, su fiel perro, hará todo lo posible por reunirlos de nuevo antes de Nochebuena.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg"
   },
   {
     "title": "Ley y orden: Unidad de Víctimas Especiales (1999)",
@@ -102,12 +102,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg"
   },
   {
-    "title": "WWE NXT (2010)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/2ugy3IP3yvdRdEepHDOml82TKFT.jpg"
-  },
-  {
     "title": "Running Man (2010)",
     "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
     "author": "TMDB",
@@ -118,6 +112,12 @@
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
+  },
+  {
+    "title": "WWE NXT (2010)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/2ugy3IP3yvdRdEepHDOml82TKFT.jpg"
   },
   {
     "title": "Tierra de mafiosos (2025)",

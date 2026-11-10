@@ -12,16 +12,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/6uVRPFflyJpo8Cx872olmlGTWla.jpg"
   },
   {
-    "title": "Apocalipsis Z: Nuevo mundo (2026)",
-    "location": "Tras el brote del virus TSJ, las Islas Canarias son el último refugio de Europa. Cuando una misión viaja a Madrid en busca de suministros, Roberto se une al equipo con dudosas intenciones. Rodeados de...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg"
-  },
-  {
     "title": "Hope (2026)",
     "location": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender u...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/j96rurZqmBjyY37Fncl3IB0qJNe.jpg"
+  },
+  {
+    "title": "Apocalipsis Z: Nuevo mundo (2026)",
+    "location": "Tras el brote del virus TSJ, las Islas Canarias son el último refugio de Europa. Cuando una misión viaja a Madrid en busca de suministros, Roberto se une al equipo con dudosas intenciones. Rodeados de...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg"
   },
   {
     "title": "La historia de Derry (2026)",
@@ -36,22 +36,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg"
   },
   {
-    "title": "Verity. La sombra de un engaño (2026)",
-    "location": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietant...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg"
-  },
-  {
     "title": "La mangosta (2026)",
     "location": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, c...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg"
   },
   {
-    "title": "El despertar (2026)",
-    "location": "",
+    "title": "Verity. La sombra de un engaño (2026)",
+    "location": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietant...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg"
   },
   {
     "title": "Ramayana: El Nacimiento de una Leyenda (2026)",
@@ -60,22 +54,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/yHVZncPRZr63mezRX20IyKLrSkv.jpg"
   },
   {
-    "title": "Fall 2: Deadpoint (2026)",
-    "location": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floj...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg"
-  },
-  {
-    "title": "Drive: Los farsantes (2026)",
-    "location": "Una joven mecánica de coches de carreras finge estar comprometida con la estrella más escandalosa del mundo del automovilismo: oficialmente, por su reputación; pero, en secreto, para tener la oportuni...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg"
-  },
-  {
     "title": "Boiuna: La leyenda del Amazonas (2026)",
     "location": "Un equipo de médicos se embarca en una misión local en la selva amazónica, pero pronto queda claro que no todo el mundo, ni todo, está contento de verlos. Su repentina aparición llama la atención de u...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg"
+  },
+  {
+    "title": "El despertar (2026)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg"
   },
   {
     "title": "La bola negra (2026)",
@@ -84,10 +72,22 @@
     "url_img": "https://image.tmdb.org/t/p/original/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg"
   },
   {
-    "title": "La razón de estar contigo: Una Navidad perfecta (2026)",
-    "location": "Una urgencia médica separa a la familia Goss y Winstead, su fiel perro, hará todo lo posible por reunirlos de nuevo antes de Nochebuena.",
+    "title": "Drive: Los farsantes (2026)",
+    "location": "Una joven mecánica de coches de carreras finge estar comprometida con la estrella más escandalosa del mundo del automovilismo: oficialmente, por su reputación; pero, en secreto, para tener la oportuni...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg"
+  },
+  {
+    "title": "Fall 2: Deadpoint (2026)",
+    "location": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floj...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg"
+  },
+  {
+    "title": "Buddy (2026)",
+    "location": "Un mágico unicornio naranja que canta retiene a su elenco como rehén en una dimensión surrealista de programa de televisión, mientras se vuelve cada vez más demente.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg"
   },
   {
     "title": "Ley y orden: Unidad de Víctimas Especiales (1999)",
@@ -102,16 +102,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg"
   },
   {
-    "title": "Running Man (2010)",
-    "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
-  },
-  {
     "title": "Watch What Happens Live with Andy Cohen (2009)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
+  },
+  {
+    "title": "Running Man (2010)",
+    "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
   },
   {
     "title": "WWE NXT (2010)",
@@ -138,16 +138,22 @@
     "url_img": "https://image.tmdb.org/t/p/original/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg"
   },
   {
+    "title": "The Daily Show (1996)",
+    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
+  },
+  {
     "title": "Navy: Investigación criminal (2003)",
     "location": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg"
   },
   {
-    "title": "The Daily Show (1996)",
-    "location": "Presentado por el humorista Jon Stewart, es el formato de sátira política más popular de la televisión norteamericana. Ha estado en antena en Comedy Central desde 1996 y ha ganado 18 Primetime Emmys. ...",
+    "title": "Binnelanders (2005)",
+    "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
   },
   {
     "title": "Late Night with Seth Meyers (2014)",
@@ -156,27 +162,21 @@
     "url_img": "https://image.tmdb.org/t/p/original/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg"
   },
   {
-    "title": "Demain nous appartient (2017)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg"
-  },
-  {
-    "title": "Ley y orden (1990)",
-    "location": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg"
-  },
-  {
     "title": "Tulsa King (2022)",
     "location": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Okla...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg"
   },
   {
-    "title": "Binnelanders (2005)",
+    "title": "Goede Tijden, Slechte Tijden (1990)",
     "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg"
+  },
+  {
+    "title": "Ley y orden (1990)",
+    "location": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg"
   }
 ]

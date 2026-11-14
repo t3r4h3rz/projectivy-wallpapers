@@ -54,6 +54,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/yHVZncPRZr63mezRX20IyKLrSkv.jpg"
   },
   {
+    "title": "No nos rendimos (2026)",
+    "location": "Una peligrosa banda irrumpe en la remota casa de un veterano atormentado por la culpa. Para sobrevivir, tendrá que unir fuerzas con unos nietos a los que apenas conoce.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg"
+  },
+  {
     "title": "La mangosta (2026)",
     "location": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, c...",
     "author": "TMDB",
@@ -84,12 +90,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/ggqvhSdAASrseKuMlzk51sbvbE8.jpg"
   },
   {
-    "title": "Fall 2: Deadpoint (2026)",
-    "location": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floj...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg"
-  },
-  {
     "title": "Los Simpson (1989)",
     "location": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastros...",
     "author": "TMDB",
@@ -100,6 +100,12 @@
     "location": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuos...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/hVRWuAY03KfLjjAbwmy9QhrfAPs.jpg"
+  },
+  {
+    "title": "The Voice (2011)",
+    "location": "Los cantantes aficionados compiten por los máximos honores en un concurso de canto de telerrealidad en el que los artistas famosos se emparejan con equipos de cantantes que entrenarán y guiarán hasta ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/x8pSFa3BXyVpkjHyn7YxmLyhjoh.jpg"
   },
   {
     "title": "Watch What Happens Live with Andy Cohen (2009)",
@@ -138,16 +144,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
   },
   {
-    "title": "Navy: Investigación criminal (2003)",
-    "location": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg"
-  },
-  {
     "title": "Binnelanders (2005)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
+  },
+  {
+    "title": "Navy: Investigación criminal (2003)",
+    "location": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg"
   },
   {
     "title": "La emperatriz divorciada (2026)",
@@ -166,12 +172,6 @@
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg"
-  },
-  {
-    "title": "Demain nous appartient (2017)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg"
   },
   {
     "title": "Tulsa King (2022)",

@@ -36,16 +36,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg"
   },
   {
-    "title": "Godzilla Minus Zero (2026)",
-    "location": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg"
-  },
-  {
     "title": "Boiuna: La leyenda del Amazonas (2026)",
     "location": "Un equipo de médicos se embarca en una misión local en la selva amazónica, pero pronto queda claro que no todo el mundo, ni todo, está contento de verlos. Su repentina aparición llama la atención de u...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg"
+  },
+  {
+    "title": "Godzilla Minus Zero (2026)",
+    "location": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg"
   },
   {
     "title": "No nos rendimos (2026)",
@@ -66,6 +66,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg"
   },
   {
+    "title": "El Ángel Guardián (2026)",
+    "location": "Henry Fitzgerald, un agente gubernamental que vive apartado de la sociedad en Wyoming, diseña nuevos sistemas para una agencia de investigación armamentística. Cuando una firma de gestión de inversion...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/ggqvhSdAASrseKuMlzk51sbvbE8.jpg"
+  },
+  {
     "title": "Verity. La sombra de un engaño (2026)",
     "location": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietant...",
     "author": "TMDB",
@@ -82,12 +88,6 @@
     "location": "Una joven mecánica de coches de carreras finge estar comprometida con la estrella más escandalosa del mundo del automovilismo: oficialmente, por su reputación; pero, en secreto, para tener la oportuni...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg"
-  },
-  {
-    "title": "El Ángel Guardián (2026)",
-    "location": "Henry Fitzgerald, un agente gubernamental que vive apartado de la sociedad en Wyoming, diseña nuevos sistemas para una agencia de investigación armamentística. Cuando una firma de gestión de inversion...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/ggqvhSdAASrseKuMlzk51sbvbE8.jpg"
   },
   {
     "title": "Los Simpson (1989)",
@@ -126,12 +126,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
   },
   {
-    "title": "WWE NXT (2010)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/2ugy3IP3yvdRdEepHDOml82TKFT.jpg"
-  },
-  {
     "title": "Anatomía de Grey (2005)",
     "location": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hosp...",
     "author": "TMDB",
@@ -156,16 +150,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/rHKRZCBpDFSNc45kzyf665LJYp3.jpg"
   },
   {
-    "title": "La emperatriz divorciada (2026)",
-    "location": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg"
-  },
-  {
     "title": "Late Night with Seth Meyers (2014)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg"
+  },
+  {
+    "title": "Tulsa King (2022)",
+    "location": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Okla...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg"
   },
   {
     "title": "Goede Tijden, Slechte Tijden (1990)",
@@ -174,9 +168,15 @@
     "url_img": "https://image.tmdb.org/t/p/original/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg"
   },
   {
-    "title": "Tulsa King (2022)",
-    "location": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Okla...",
+    "title": "La emperatriz divorciada (2026)",
+    "location": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de ...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg"
+  },
+  {
+    "title": "WWE NXT (2010)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/2ugy3IP3yvdRdEepHDOml82TKFT.jpg"
   }
 ]

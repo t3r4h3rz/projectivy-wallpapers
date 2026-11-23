@@ -30,6 +30,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
   },
   {
+    "title": "Guardaespaldas por navidad (2026)",
+    "location": "Una estricta guardaespaldas viaja a un rancho de Montana con el famoso actor al que protege. Pero al fingir ser pareja por Navidad surge un amor real.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg"
+  },
+  {
     "title": "La historia de Derry (2026)",
     "location": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
     "author": "TMDB",
@@ -40,12 +46,6 @@
     "location": "Un equipo de médicos se embarca en una misión local en la selva amazónica, pero pronto queda claro que no todo el mundo, ni todo, está contento de verlos. Su repentina aparición llama la atención de u...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg"
-  },
-  {
-    "title": "Guardaespaldas por navidad (2026)",
-    "location": "Una estricta guardaespaldas viaja a un rancho de Montana con el famoso actor al que protege. Pero al fingir ser pareja por Navidad surge un amor real.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg"
   },
   {
     "title": "Ramayana: El Nacimiento de una Leyenda (2026)",
@@ -120,16 +120,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
   },
   {
-    "title": "Running Man (2010)",
-    "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
-  },
-  {
     "title": "Goede Tijden, Slechte Tijden (1990)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg"
+  },
+  {
+    "title": "Running Man (2010)",
+    "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
   },
   {
     "title": "Tulsa King (2022)",
@@ -174,9 +174,9 @@
     "url_img": "https://image.tmdb.org/t/p/original/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg"
   },
   {
-    "title": "La emperatriz divorciada (2026)",
-    "location": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de ...",
+    "title": "Kamen Rider (1971)",
+    "location": "Cada temporada de Kamen Rider presenta una historia diferente con personajes y tramas independientes, aunque todas siguen un esquema similar. El protagonista suele ser un motorista que por diversos me...",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg"
   }
 ]

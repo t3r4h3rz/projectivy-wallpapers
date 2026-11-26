@@ -30,22 +30,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg"
   },
   {
-    "title": "No nos rendimos (2026)",
-    "location": "Una peligrosa banda irrumpe en la remota casa de un veterano atormentado por la culpa. Para sobrevivir, tendrá que unir fuerzas con unos nietos a los que apenas conoce.",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
-  },
-  {
     "title": "Boiuna: La leyenda del Amazonas (2026)",
     "location": "Un equipo de médicos se embarca en una misión local en la selva amazónica, pero pronto queda claro que no todo el mundo, ni todo, está contento de verlos. Su repentina aparición llama la atención de u...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg"
   },
   {
-    "title": "La historia de Derry (2026)",
-    "location": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
+    "title": "No nos rendimos (2026)",
+    "location": "Una peligrosa banda irrumpe en la remota casa de un veterano atormentado por la culpa. Para sobrevivir, tendrá que unir fuerzas con unos nietos a los que apenas conoce.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/z26LxXDMmAIzKr06FPDudCJyvsM.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg"
   },
   {
     "title": "Hermanastras (2026)",
@@ -54,16 +48,28 @@
     "url_img": "https://image.tmdb.org/t/p/original/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg"
   },
   {
-    "title": "El Ángel Guardián (2026)",
-    "location": "Henry Fitzgerald, un agente gubernamental que vive apartado de la sociedad en Wyoming, diseña nuevos sistemas para una agencia de investigación armamentística. Cuando una firma de gestión de inversion...",
+    "title": "La historia de Derry (2026)",
+    "location": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/ggqvhSdAASrseKuMlzk51sbvbE8.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/z26LxXDMmAIzKr06FPDudCJyvsM.jpg"
+  },
+  {
+    "title": "Puedes verlo todo (2026)",
+    "location": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/rrbbzCyS45yooXpUGJatfptlHYI.jpg"
   },
   {
     "title": "Breeder (2026)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg"
+  },
+  {
+    "title": "El Ángel Guardián (2026)",
+    "location": "Henry Fitzgerald, un agente gubernamental que vive apartado de la sociedad en Wyoming, diseña nuevos sistemas para una agencia de investigación armamentística. Cuando una firma de gestión de inversion...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/ggqvhSdAASrseKuMlzk51sbvbE8.jpg"
   },
   {
     "title": "Ramayana: El Nacimiento de una Leyenda (2026)",
@@ -78,12 +84,6 @@
     "url_img": "https://image.tmdb.org/t/p/original/uAe2LEuZ2xg312FY7D8Ei4bl0aG.jpg"
   },
   {
-    "title": "Puedes verlo todo (2026)",
-    "location": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/rrbbzCyS45yooXpUGJatfptlHYI.jpg"
-  },
-  {
     "title": "Fall 2: Deadpoint (2026)",
     "location": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floj...",
     "author": "TMDB",
@@ -94,6 +94,12 @@
     "location": "Miniserie dramática de corte policial en la que un detective regresa a su pueblo natal tras varios años de ausencia. Las islas Shetland son el hogar natal del detective Jimmy Perez (Douglas Henshall, ...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/AdlDrgoNCDu3naYjZMwmiklBHnV.jpg"
+  },
+  {
+    "title": "La edad dorada (2022)",
+    "location": "La Edad Dorada comienza en 1882 con la mudanza de la joven Marian Brook de la zona rural de Pensilvania a la ciudad de Nueva York después de la muerte de su padre para vivir con sus tías adineradas Ag...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/afUVsProh46h31w2EvL7qyHXrqj.jpg"
   },
   {
     "title": "Ley y orden: Unidad de Víctimas Especiales (1999)",
@@ -114,28 +120,28 @@
     "url_img": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg"
   },
   {
-    "title": "La edad dorada (2022)",
-    "location": "La Edad Dorada comienza en 1882 con la mudanza de la joven Marian Brook de la zona rural de Pensilvania a la ciudad de Nueva York después de la muerte de su padre para vivir con sus tías adineradas Ag...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/afUVsProh46h31w2EvL7qyHXrqj.jpg"
-  },
-  {
     "title": "Watch What Happens Live with Andy Cohen (2009)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg"
   },
   {
-    "title": "Goede Tijden, Slechte Tijden (1990)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg"
-  },
-  {
     "title": "Running Man (2010)",
     "location": "Running Man es un espectáculo de variedades de Corea del Sur transmitido desde el 11 de julio de 2010 hasta ahora a través de SBS. El programa forma parte de la formación de \"Good Sunday\". El programa...",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg"
+  },
+  {
+    "title": "Doraemon, el gato cósmico (2005)",
+    "location": "Doraemon es un gato robot cósmico que viene del futuro, es amigo de Novita, un niño muy despistado y algo torpe, al cual ayudara con sus grandiosos inventos futuristas los cuales saca de su bolsillo m...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg"
+  },
+  {
+    "title": "Goede Tijden, Slechte Tijden (1990)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg"
   },
   {
     "title": "The Daily Show (1996)",
@@ -150,22 +156,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg"
   },
   {
-    "title": "Tulsa King (2022)",
-    "location": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Okla...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg"
-  },
-  {
     "title": "Navy: Investigación criminal (2003)",
     "location": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/rHKRZCBpDFSNc45kzyf665LJYp3.jpg"
-  },
-  {
-    "title": "Raw (1993)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg"
   },
   {
     "title": "Coronation Street (1960)",
@@ -174,9 +168,15 @@
     "url_img": "https://image.tmdb.org/t/p/original/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg"
   },
   {
-    "title": "Binnelanders (2005)",
+    "title": "Raw (1993)",
     "location": "",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg"
+  },
+  {
+    "title": "Tulsa King (2022)",
+    "location": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Okla...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg"
   }
 ]

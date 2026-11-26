@@ -1,6 +1,6 @@
 [
   {
-    "title": "Los Juegos del Hambre: Amanecer en la cosecha (2026)",
+    "title": "Los juegos del hambre: Amanecer en la cosecha (2026)",
     "location": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg"
@@ -96,10 +96,10 @@
     "url_img": "https://image.tmdb.org/t/p/original/AdlDrgoNCDu3naYjZMwmiklBHnV.jpg"
   },
   {
-    "title": "El Señor de los Anillos: Los Anillos de Poder (2022)",
-    "location": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuos...",
+    "title": "Ley y orden: Unidad de Víctimas Especiales (1999)",
+    "location": "Una unidad especial de la policía de Nueva York se dedica a investigar delitos de carácter sexual: violaciones, pedofilia y malos tratos infantiles.",
     "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg"
+    "url_img": "https://image.tmdb.org/t/p/original/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg"
   },
   {
     "title": "The Voice (2011)",
@@ -144,6 +144,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg"
   },
   {
+    "title": "Ley y orden (1990)",
+    "location": "Serie sobre la investigación de crímenes en la ciudad de Nueva York. Policías y jueces son los principales protagonistas.",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg"
+  },
+  {
     "title": "Tulsa King (2022)",
     "location": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Okla...",
     "author": "TMDB",
@@ -172,11 +178,5 @@
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg"
-  },
-  {
-    "title": "ちびまる子ちゃん (1990)",
-    "location": "",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/vuajwjep1FxphPhMEWKv4bfrCnf.jpg"
   }
 ]

@@ -54,16 +54,16 @@
     "url_img": "https://image.tmdb.org/t/p/original/z26LxXDMmAIzKr06FPDudCJyvsM.jpg"
   },
   {
-    "title": "Puedes verlo todo (2026)",
-    "location": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza ...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/rrbbzCyS45yooXpUGJatfptlHYI.jpg"
-  },
-  {
     "title": "Breeder (2026)",
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg"
+  },
+  {
+    "title": "Puedes verlo todo (2026)",
+    "location": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza ...",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg"
   },
   {
     "title": "El Ángel Guardián (2026)",
@@ -138,6 +138,12 @@
     "url_img": "https://image.tmdb.org/t/p/original/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg"
   },
   {
+    "title": "Late Night with Seth Meyers (2014)",
+    "location": "",
+    "author": "TMDB",
+    "url_img": "https://image.tmdb.org/t/p/original/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg"
+  },
+  {
     "title": "Goede Tijden, Slechte Tijden (1990)",
     "location": "",
     "author": "TMDB",
@@ -172,11 +178,5 @@
     "location": "",
     "author": "TMDB",
     "url_img": "https://image.tmdb.org/t/p/original/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg"
-  },
-  {
-    "title": "Tulsa King (2022)",
-    "location": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Okla...",
-    "author": "TMDB",
-    "url_img": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg"
   }
 ]
